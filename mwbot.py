@@ -155,7 +155,30 @@ class Mwbot():
                 print('Category query:', len(output))
 
         return output
+    
+    def search_files_by_titles(self, srsearch):
+        params = {
+            "action": "query",
+            "format": "json",
+            "list": "search",
+            "srlimit": "max",
+            "srnamespace" : 6,
+            "srsearch": srsearch,
+        }
+        res = self.query(params).json()
+        output = [item["title"] for item in res["query"]["search"]]
+        while "continue" in res:
+            params["sroffset"] = res["continue"]["sroffset"]
+            res = self.query(params).json()
+            output.extend(item["title"] for item in res["query"]["search"])
 
+            if self.debug:
+                print('Search query:', len(output))
+
+        return output
+        # TODO: refactor the code for future if over 10000 hits
+        # Unable to use `sroffset` 10000
+    
     def prefixsearch(self, prefix):
         params = {
             "action": "query",
