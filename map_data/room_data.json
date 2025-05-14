@@ -1,6 +1,6 @@
 [
     {
-        "name": "Hopeport\nPortal Stone",
+        "name": "Hopeport Garrison\nPortal Stone",
         "color": "#959354",
         "entities": ["Portal_Stone;Portal Stone"],
         "entity_colors": ["item"],
@@ -39,7 +39,14 @@
         "color": "#898d70",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [123.5, 82.5]
+        "coordinates": [124, 82.5]
+    },
+    {
+        "name": "Critical\nCare\nWard",
+        "color": "#898d70",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [132.5, 82.5]
     },
     {
         "name": "Quartermaster$Quartermaster (room)",
@@ -112,6 +119,13 @@
         "coordinates": [73, 120.5]
     },
     {
+        "name": "Brannof's\nGarden",
+        "color": "#959354",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [61.5, 120.5]
+    },
+    {
         "name": "Hopeport Obelisk",
         "color": "#889248",
         "entities": ["Obelisk;Obelisk"],
@@ -173,6 +187,13 @@
         "entities": ["Shop;The Forager's Warehouse"],
         "entity_colors": ["forager"],
         "coordinates": [159.5, 114.5]
+    },
+    {
+        "name": "The Forager's\nStockroom",
+        "color": "#445662",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [156, 102.5]
     },
     {
         "name": "Abandoned\nShop",
@@ -386,17 +407,45 @@
     },
     {
         "name": "Ray Bay",
-        "color": "#c39e60",
+        "color": "#587575",
         "entities": ["Fisher;Ray", "Forager;Limpet"],
         "entity_colors": ["fisher", "forager"],
-        "coordinates": [15.5, 146]
+        "coordinates": [9.5, 146.5]
+    },
+    {
+        "name": "Hidden\nSandbar",
+        "color": "#4e6c6e",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [-9.5, 143]
+    },
+    {
+        "name": "Island\nHideout",
+        "color": "#c3a364",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [-21, 148]
+    },
+    {
+        "name": "Hideout\nStorage\nArea",
+        "color": "#70644e",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [-16, 127]
     },
     {
         "name": "Pirate Hideout",
         "color": "#ceae6d",
         "entities": ["Combat;Passive;Pirate", "Fisher;Gunnard", "Forager;Limpet", "Forager;Wrack"],
         "entity_colors": ["neutral", "fisher", "forager", "forager"],
-        "coordinates": [10.5, 127]
+        "coordinates": [14, 127]
+    },
+    {
+        "name": "Hopeport Coastal\nPortal Stone",
+        "color": "#bb8f56",
+        "entities": ["Portal_Stone;Portal Stone"],
+        "entity_colors": ["item"],
+        "coordinates": [8, 105.5]
     },
     {
         "name": "Fallen Monument",
@@ -410,7 +459,7 @@
         "color": "#889146",
         "entities": ["Combat;Carnivorous Plant", "Forager;Bellplant", "Forager;Potato"],
         "entity_colors": ["neutral", "forager", "forager"],
-        "coordinates": [48.5, 146.5]
+        "coordinates": [50.5, 146.5]
     },
     {
         "name": "Overgrown Pond",
@@ -2405,21 +2454,21 @@
         "color": "#566258",
         "entities": ["Combat;Zombie"],
         "entity_colors": ["aggressive"],
-        "coordinates": [417.75, 143.75]
+        "coordinates": [416.5, 142]
     },
     {
         "name": "Dusty Corner",
         "color": "#566258",
         "entities": ["Combat;Zombie"],
         "entity_colors": ["aggressive"],
-        "coordinates": [412.75, 149.75]
+        "coordinates": [412.5, 150.25]
     },
     {
         "name": "Dusty Nook",
         "color": "#566258",
         "entities": ["Combat;Passive;Brute"],
         "entity_colors": ["neutral"],
-        "coordinates": [404.5, 143.75]
+        "coordinates": [402.5, 143.75]
     },
     {
         "name": "Twiddle\nCorner",
