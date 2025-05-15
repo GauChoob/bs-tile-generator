@@ -10,6 +10,11 @@ Image.MAX_IMAGE_PIXELS = 1000000000
 SCALE = config.TILE_WIDTH  # 48
 multiplier = SCALE/48
 
+HOPEPORT_PORTAL_STONE_X = math.floor(config.HOPEPORT_PORTAL_STONE_IMAGE_X/config.TILE_WIDTH)
+HOPEPORT_PORTAL_STONE_Y = math.floor(config.HOPEPORT_PORTAL_STONE_IMAGE_Y/config.TILE_WIDTH)
+BORDER_LEFT = config.HOPEPORT_PORTAL_STONE_COORD_X - HOPEPORT_PORTAL_STONE_X
+BORDER_UP = config.HOPEPORT_PORTAL_STONE_COORD_Y - HOPEPORT_PORTAL_STONE_Y
+
 title = {
     'font': 'fonts/RobotoSlab-SemiBold.ttf',
     # 'font_size': 37*multiplier,
@@ -53,7 +58,8 @@ shadows = {
 
 class RoomData:
     def __init__(self, room):
-        self.coordinates = [(coord + 0.5)*SCALE for coord in room['coordinates']]
+        x, y = room['coordinates']
+        self.coordinates = [(x - BORDER_LEFT + 0.5) * SCALE,(y - BORDER_UP + 0.5) * SCALE]
         self.fill = ImageColor.getrgb(room['color'])
         self.titles = RoomTitles(self, room)
         self.height = self.titles.background_height + shadows['margin']*2
@@ -311,14 +317,9 @@ def build_room(image: Image.Image, canvas: ImageDraw.ImageDraw, room):
 
 
 def convert_json_pixels_to_coordinates(links):
-    hopeport_portal_stone_x = math.floor(config.HOPEPORT_PORTAL_STONE_IMAGE_X/config.TILE_WIDTH)
-    hopeport_portal_stone_y = math.floor(config.HOPEPORT_PORTAL_STONE_IMAGE_Y/config.TILE_WIDTH)
-    border_left = config.HOPEPORT_PORTAL_STONE_COORD_X - hopeport_portal_stone_x
-    border_up = config.HOPEPORT_PORTAL_STONE_COORD_Y - hopeport_portal_stone_y
-
     def pixel_to_coordinate(latlng, round_func):
-        lat = border_up + round_func(latlng[0])/config.TILE_WIDTH
-        lng = border_left + round_func(latlng[1])/config.TILE_WIDTH
+        lat = BORDER_UP + round_func(latlng[0])/SCALE #config.TILE_WIDTH
+        lng = BORDER_LEFT + round_func(latlng[1])/SCALE #config.TILE_WIDTH
         return [lat, lng]
 
     for link in links:
