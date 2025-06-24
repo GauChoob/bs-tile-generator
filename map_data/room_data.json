@@ -436,7 +436,7 @@
     {
         "name": "Pirate Hideout",
         "color": "#ceae6d",
-        "entities": ["Combat;Passive;Pirate", "Fisher;Gunnard", "Forager;Limpet", "Forager;Wrack"],
+        "entities": ["Combat;Passive;Pirate", "Fisher;Gurnard", "Forager;Limpet", "Forager;Wrack"],
         "entity_colors": ["neutral", "fisher", "forager", "forager"],
         "coordinates": [14, 127]
     },
@@ -2011,8 +2011,8 @@
     {
         "name": "Merchant's Guild",
         "color": "#687278",
-        "entities": ["Merchant;Balance;Janessa's Delicacies", "Clipboard;Balance;Guild Bounty Board"],
-        "entity_colors": ["merchant", "merchant"],
+        "entities": ["Merchant;Balance;Janessa's Delicacies", "Clipboard;Balance;Guild Bounty Board", "Storage;Storage Rift"],
+        "entity_colors": ["merchant", "merchant", "item"],
         "coordinates": [508.25, 114.5]
     },
     {
