@@ -1393,18 +1393,25 @@
         "coordinates": [309.5, 282.5]
     },
     {
-        "name": "Market Tunnel",
+        "name": "Market\nTunnel",
         "color": "#464842",
         "entities": [""],
         "entity_colors": [],
-        "coordinates": [287, 270.5]
+        "coordinates": [287.5, 270.5]
     },
     {
         "name": "Goblin Marketplace",
         "color": "#464842",
         "entities": ["Shop;Bobble's Oresome Ores", "Shop;Pans and Pickaxes", "Shop;Poffit's Interesting Rocks", "Shop;Mogorob's Stoneware Assortment"],
         "entity_colors": ["miner", "miner", "miner", "stonemason"],
-        "coordinates": [273, 282]
+        "coordinates": [275, 282]
+    },
+		{
+        "name": "Cage\nCavern",
+        "color": "#464842",
+        "entities": [""],
+        "entity_colors": [],
+        "coordinates": [262, 279]
     },
     {
         "name": "Cave of\nthe Future",
@@ -1448,6 +1455,41 @@
         "entity_colors": [],
         "coordinates": [334.5, 278.5]
     },
+		{
+        "name": "Eagle\nGate",
+        "color": "#334f55",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [346, 283]
+    },
+    {
+        "name": "Ancient\nPipes\nRoom",
+        "color": "#324c50",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [357, 287]
+    },
+    {
+        "name": "Beginning of\nthe Beyond",
+        "color": "#334f55",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [370.75, 284]
+    },
+    {
+        "name": "Middle of\nthe Beyond",
+        "color": "#344c52",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [373.25, 302]
+    },
+    {
+        "name": "Back of\nthe Beyond",
+        "color": "#283836",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [374.5, 323.5]
+    },
     {
         "name": "Outside Hollow",
         "color": "#839746",
@@ -1467,7 +1509,21 @@
         "color": "#345054",
         "entities": ["Combat;Skeleton Miner"],
         "entity_colors": ["aggressive"],
-        "coordinates": [346.75, 267]
+        "coordinates": [346.75, 263.5]
+    },
+		{
+        "name": "Forsaken\nAccess\nTunnel",
+        "color": "#345054",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [353.5, 268.25]
+    },
+    {
+        "name": "Aperture to\nthe Beyond",
+        "color": "#345054",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [367, 269]
     },
     {
         "name": "Big River Cavern",
