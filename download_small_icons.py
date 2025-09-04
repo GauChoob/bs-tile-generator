@@ -31,6 +31,8 @@ if __name__ == "__main__":
         'Alchemist',
         'Scout',
         'Gatherer',
+        'Botanist',
+        'Pump',
         'Woodcutter',
         'Carpenter',
         'Minefighter',

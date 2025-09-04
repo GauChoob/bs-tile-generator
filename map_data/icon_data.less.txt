@@ -2,6 +2,7 @@
 @chef: #9C8474;
 @fisher: #98D3CC;
 @forager: #DDDB93;
+@botanist: #B1B170;
 @alchemist: #83C8A1;
 @gatherer: #C8C87C;
 @woodcutter: #78C86C;
@@ -13,6 +14,7 @@
 @detective: #5AB2BE;
 @leatherworker: #866E62;
 @merchant: #78B492;
+@builder: #9C8A7C;
 @palette: #DEDAD4;
 @item: #90908C;
 @obstacle: #927DCE;
