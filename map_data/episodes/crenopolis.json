@@ -1,0 +1,1744 @@
+[
+{
+        "name": "Fountain\nof Delight",
+        "color": "#375d4c",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            495.5,
+            15.25
+        ]
+    },
+    {
+        "name": "Kaynat's\nHall",
+        "color": "#2c6099",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            495.5,
+            25.75
+        ]
+    },
+    {
+        "name": "Kaynat's\nGarden",
+        "color": "#85833f",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            495.5,
+            35.5
+        ]
+    },
+    {
+        "name": "Vestere Hall\nDining Room",
+        "color": "#3a4c6a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            519.5,
+            36
+        ]
+    },
+    {
+        "name": "Vestere Hall\nStrongroom",
+        "color": "#626262",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            528.5,
+            44
+        ]
+    },
+    {
+        "name": "Vestere Hall\nEntrance",
+        "color": "#626262",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            519,
+            44
+        ]
+    },
+    {
+        "name": "Vestere Drive",
+        "color": "#5e6446",
+        "entities": [
+            "Combat;Giant Wasp"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            508,
+            43.75
+        ]
+    },
+    {
+        "name": "Fillan's\nStoreroom",
+        "color": "#626262",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            483.5,
+            38.25
+        ]
+    },
+    {
+        "name": "Fillan's\nLiving Room",
+        "color": "#4a463a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            486.5,
+            46.5
+        ]
+    },
+    {
+        "name": "Fillan's\nBedroom",
+        "color": "#521616",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            477,
+            46.75
+        ]
+    },
+    {
+        "name": "Hamila Jimore's\nGarden",
+        "color": "#829545",
+        "entities": [
+            "Combat;Giant Wasp"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            507.5,
+            52.75
+        ]
+    },
+    {
+        "name": "Hamila Jimore's\nHallway",
+        "color": "#405d32",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            507.5,
+            62.75
+        ]
+    },
+    {
+        "name": "Peacock Road North",
+        "color": "#504644",
+        "entities": [
+            "Merchant;Passive;Olives",
+            "Merchant;Balance;Monocle Market",
+            "Merchant;Passive;Stall Assistant",
+            "Shop;Olive Stall",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            492,
+            57.5
+        ]
+    },
+    {
+        "name": "Artifact\nRoom",
+        "color": "#524236",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            534.75,
+            56.25
+        ]
+    },
+    {
+        "name": "Strategy\nRoom",
+        "color": "#524236",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            544.25,
+            65.25
+        ]
+    },
+    {
+        "name": "Helfar's\nHallway",
+        "color": "#9d836c",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            534.25,
+            65.25
+        ]
+    },
+    {
+        "name": "Helfar's\nGate",
+        "color": "#8d994b",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            523.5,
+            63.25
+        ]
+    },
+    {
+        "name": "East\nCourtyard",
+        "color": "#959d4e",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            533,
+            74.25
+        ]
+    },
+    {
+        "name": "Helfar's\nWall",
+        "color": "#a2a053",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            521,
+            76.75
+        ]
+    },
+    {
+        "name": "Private Road",
+        "color": "#43615d",
+        "entities": [
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            507,
+            73.75
+        ]
+    },
+    {
+        "name": "Peacock Road Central",
+        "color": "#4e4642",
+        "entities": [
+            "Merchant;Balance;Tommy Shoes' Wines",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves",
+            "Detective;Passive;Gangsters' Stakeout"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective",
+            "detective"
+        ],
+        "coordinates": [
+            499.5,
+            80.5
+        ]
+    },
+    {
+        "name": "Bogg's Antiques",
+        "color": "#4a463a",
+        "entities": [
+            "Merchant;Balance;Bogg's Antiques",
+            "Merchant;Passive;Stall Assistant"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant"
+        ],
+        "coordinates": [
+            512.5,
+            84.5
+        ]
+    },
+    {
+        "name": "Dilapidated Warehouse",
+        "color": "#4a463a",
+        "entities": [
+            "Detective;Counterfeiters' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            524.5,
+            93
+        ]
+    },
+    {
+        "name": "Slant Street",
+        "color": "#3b5755",
+        "entities": [
+            "Detective;Passive;Counterfeiters' Stakeout"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            508.5,
+            97.5
+        ]
+    },
+    {
+        "name": "North\nPlayer Market",
+        "color": "#415d57",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            533.25,
+            101.5
+        ]
+    },
+    {
+        "name": "Council\nOffice",
+        "color": "#909a9e",
+        "entities": [
+            "Pencil;Change Name"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            546.25,
+            98.25
+        ]
+    },
+    {
+        "name": "Henderson's Meat\nStorehouse",
+        "color": "#4a463a",
+        "entities": [
+            "Merchant;Balance;Henderson's Meat",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            557,
+            106.5
+        ]
+    },
+    {
+        "name": "East\nPlayer Market",
+        "color": "#3f5d59",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            544.5,
+            114.25
+        ]
+    },
+    {
+        "name": "Bert's Gallery",
+        "color": "#3e2c54",
+        "entities": [
+            "Merchant;Balance;Bert's Gallery",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            557.5,
+            121
+        ]
+    },
+    {
+        "name": "Merchant's Guild",
+        "color": "#687278",
+        "entities": [
+            "Merchant;Balance;Janessa's Delicacies",
+            "Clipboard;Balance;Guild Bounty Board",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "item"
+        ],
+        "coordinates": [
+            533.25,
+            114.5
+        ]
+    },
+    {
+        "name": "Slant Street Cart House",
+        "color": "#565244",
+        "entities": [
+            "Detective;Counterfeiters' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            509.5,
+            105.75
+        ]
+    },
+    {
+        "name": "Peacock Road\nSouth",
+        "color": "#504844",
+        "entities": [
+            "Shop;Pearl Stall",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            492.5,
+            99.75
+        ]
+    },
+    {
+        "name": "Guard's Archive",
+        "color": "#4a463a",
+        "entities": [
+            "Detective;Passive;Evidence Filing"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            480.5,
+            97.75
+        ]
+    },
+    {
+        "name": "Investigation Hall",
+        "color": "#4b4738",
+        "entities": [
+            "Detective;Investigations"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            465.5,
+            97.75
+        ]
+    },
+    {
+        "name": "Dawkin Lane",
+        "color": "#2c4a46",
+        "entities": [
+            "Combat;Street Hag"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            465,
+            86.25
+        ]
+    },
+    {
+        "name": "Dawkin Court",
+        "color": "#42605e",
+        "entities": [
+            "Combat;Street Hag",
+            "Detective;Passive;Gangsters' Stakeout"
+        ],
+        "entity_colors": [
+            "neutral",
+            "detective"
+        ],
+        "coordinates": [
+            475,
+            80.75
+        ]
+    },
+    {
+        "name": "Soap Shop",
+        "color": "#5d5d5d",
+        "entities": [
+            "Merchant;Balance;Soap Stall",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            460.25,
+            77.5
+        ]
+    },
+    {
+        "name": "Sludge\nStreet",
+        "color": "#6f735b",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            449.5,
+            70.75
+        ]
+    },
+    {
+        "name": "Sewer Gate",
+        "color": "#70745c",
+        "entities": [
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            449.5,
+            62.5
+        ]
+    },
+    {
+        "name": "Sewer\nEntrance",
+        "color": "#424e34",
+        "entities": [
+            "Combat;Mawchest"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            449.5,
+            55
+        ]
+    },
+    {
+        "name": "Southeast Sewer",
+        "color": "#425034",
+        "entities": [
+            "Combat;Spectral Stalker"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            463,
+            53.75
+        ]
+    },
+    {
+        "name": "Sewer Pool",
+        "color": "#424e34",
+        "entities": [
+            "Combat;Spectral Stalker"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            458.5,
+            41.75
+        ]
+    },
+    {
+        "name": "Deep\nSewers",
+        "color": "#424c32",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            464,
+            31.75
+        ]
+    },
+    {
+        "name": "Dismal\nDrainage",
+        "color": "#445036",
+        "entities": [
+            "Combat;Mawchest"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            440,
+            55
+        ]
+    },
+    {
+        "name": "Southwest Sewer",
+        "color": "#424e34",
+        "entities": [
+            "Combat;Sewer Fiend"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            426.5,
+            55
+        ]
+    },
+    {
+        "name": "Sewer Pipes",
+        "color": "#424e34",
+        "entities": [
+            "Combat;Sewer Fiend"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            427.5,
+            44.25
+        ]
+    },
+    {
+        "name": "Crenobelisk",
+        "color": "#54523c",
+        "entities": [
+            "Obelisk;Obelisk"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            434,
+            70.5
+        ]
+    },
+    {
+        "name": "Meggrit's Market",
+        "color": "#405e5a",
+        "entities": [
+            "Merchant;Balance;Francesca's Fruit Stall",
+            "Merchant;Balance;Snilch's Watches",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            425,
+            79
+        ]
+    },
+    {
+        "name": "Murkwell Court",
+        "color": "#2e4a46",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            439,
+            84.25
+        ]
+    },
+    {
+        "name": "Murkwell\nLane",
+        "color": "#2c4844",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            452.5,
+            86
+        ]
+    },
+    {
+        "name": "Servant's\nBathroom",
+        "color": "#4a463a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            457,
+            91.25
+        ]
+    },
+    {
+        "name": "Servant's\nHouse",
+        "color": "#8d6e52",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            448,
+            93.25
+        ]
+    },
+    {
+        "name": "Rat Alley",
+        "color": "#2c4a44",
+        "entities": [
+            "Combat;Passive;Ratman Grunt"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            442,
+            99.5
+        ]
+    },
+    {
+        "name": "Hopton Corner",
+        "color": "#2c4a44",
+        "entities": [
+            "Merchant;Passive;Spice",
+            "Shop;Spice Stall",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "item"
+        ],
+        "coordinates": [
+            437.5,
+            108
+        ]
+    },
+    {
+        "name": "Forensics\nLab",
+        "color": "#707e82",
+        "entities": [
+            "Bank;Potions",
+            "Detective;Passive;Forensics"
+        ],
+        "entity_colors": [
+            "alchemist",
+            "detective"
+        ],
+        "coordinates": [
+            448.5,
+            107.5
+        ]
+    },
+    {
+        "name": "Waltain's\nOffice",
+        "color": "#4a463a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            459,
+            107.75
+        ]
+    },
+    {
+        "name": "Guardhouse\nLobby",
+        "color": "#4a463a",
+        "entities": [
+            "Shop;Detective Depot"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            468,
+            107.5
+        ]
+    },
+    {
+        "name": "Interrogation Room",
+        "color": "#524236",
+        "entities": [
+            "Detective;Passive;Interrogation"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            481,
+            107.75
+        ]
+    },
+    {
+        "name": "Thadwick Square",
+        "color": "#524844",
+        "entities": [
+            "Merchant;Balance;Hallig's Street Food",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            492.5,
+            116.75
+        ]
+    },
+    {
+        "name": "Outer Market",
+        "color": "#3a5854",
+        "entities": [
+            "Shop;Leather Stall",
+            "Merchant;Passive;Leather Offcuts$Leather Offcuts (activity)",
+            "Merchant;Balance;Souvenir Stall",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "leatherworker",
+            "merchant",
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            508.5,
+            116.75
+        ]
+    },
+    {
+        "name": "West Player Market",
+        "color": "#486462",
+        "entities": [
+            "Detective;Passive;Counterfeiters' Stakeout"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            519,
+            125.5
+        ]
+    },
+    {
+        "name": "South Player Market",
+        "color": "#44605c",
+        "entities": [
+            "Detective;Passive;Burglars' Stakeout"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            531.75,
+            129.5
+        ]
+    },
+    {
+        "name": "Crenopolis\nMarket\nPortal Stone",
+        "color": "#405e5e",
+        "entities": [
+            "Portal_Stone;Portal Stone"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            544.75,
+            133.25
+        ]
+    },
+    {
+        "name": "Market Chambers",
+        "color": "#4a463a",
+        "entities": [
+            "Detective;Burglars' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            534.25,
+            140.5
+        ]
+    },
+    {
+        "name": "City Dyes",
+        "color": "#5c5c4e",
+        "entities": [
+            "Palette;Dyes"
+        ],
+        "entity_colors": [
+            "palette"
+        ],
+        "coordinates": [
+            532.5,
+            152.25
+        ]
+    },
+    {
+        "name": "Tannery",
+        "color": "#5d7a7a",
+        "entities": [
+            "Leatherworker;Tanning Stations",
+            "Bank;Hides"
+        ],
+        "entity_colors": [
+            "leatherworker",
+            "leatherworker"
+        ],
+        "coordinates": [
+            532.25,
+            166.5
+        ]
+    },
+    {
+        "name": "Quibble Lane",
+        "color": "#a0884f",
+        "entities": [
+            "Combat;Spiky Ball"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            526.25,
+            179.5
+        ]
+    },
+    {
+        "name": "Smuggler's Cove",
+        "color": "#7c6937",
+        "entities": [
+            "Combat;Passive;Giant Slug"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            528.25,
+            192
+        ]
+    },
+    {
+        "name": "Pier One",
+        "color": "#2c2c2c",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            506,
+            183.5
+        ]
+    },
+    {
+        "name": "Pier Two",
+        "color": "#90320a",
+        "entities": [
+            "Merchant;Venture;Bricks",
+            "Merchant;Venture;Tiles"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant"
+        ],
+        "coordinates": [
+            489.5,
+            183.5
+        ]
+    },
+    {
+        "name": "Tanners Road",
+        "color": "#646854",
+        "entities": [
+            "Merchant;Balance;Toy Stall",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            515,
+            168.25
+        ]
+    },
+    {
+        "name": "Waterfront",
+        "color": "#807862",
+        "entities": [
+            "Shop;Hide Stall",
+            "Detective;Spotting Thieves",
+            "Bank;Building Materials"
+        ],
+        "entity_colors": [
+            "leatherworker",
+            "detective",
+            "leatherworker"
+        ],
+        "coordinates": [
+            498,
+            168
+        ]
+    },
+    {
+        "name": "Waterfront Market",
+        "color": "#807660",
+        "entities": [
+            "Merchant;Balance;Jennaler's Wines",
+            "Merchant;Balance;Textiles Stall",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves",
+            "Detective;Passive;Smugglers' Stakeout"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "merchant",
+            "detective",
+            "detective"
+        ],
+        "coordinates": [
+            480.5,
+            168.25
+        ]
+    },
+    {
+        "name": "The Frog\nand\nBarnacle",
+        "color": "#626262",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            467.5,
+            166.5
+        ]
+    },
+    {
+        "name": "Geld Family\nResidence",
+        "color": "#524236",
+        "entities": [
+            "Detective;Smugglers' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            473.5,
+            156.75
+        ]
+    },
+    {
+        "name": "Bobbin Road South",
+        "color": "#304e4a",
+        "entities": [
+            "Merchant;Balance;Candice's Candles",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            501.75,
+            151
+        ]
+    },
+    {
+        "name": "Ratmore Road",
+        "color": "#2e4c48",
+        "entities": [
+            "Detective;Passive;Burglars' Stakeout"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            516.75,
+            154
+        ]
+    },
+    {
+        "name": "Ratmore Rise",
+        "color": "#2c4a46",
+        "entities": [
+            "Combat;Passive;Trash Heap Monster"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            509.25,
+            143
+        ]
+    },
+    {
+        "name": "Leatherworks",
+        "color": "#504238",
+        "entities": [
+            "Leatherworker;Passive;Knickknacks",
+            "Leatherworker;Passive;Upholstery",
+            "Bank;Leathers"
+        ],
+        "entity_colors": [
+            "leatherworker",
+            "leatherworker",
+            "leatherworker"
+        ],
+        "coordinates": [
+            505,
+            136
+        ]
+    },
+    {
+        "name": "Oscen's\nWarehouse",
+        "color": "#8e6e52",
+        "entities": [
+            "Detective;Burglars' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            522.5,
+            135.5
+        ]
+    },
+    {
+        "name": "Bobbin\nRoad\nNorth",
+        "color": "#3e5c58",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            495.25,
+            131.5
+        ]
+    },
+    {
+        "name": "Goose Inn\nBar",
+        "color": "#514135",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            487,
+            131
+        ]
+    },
+    {
+        "name": "Goose Inn\nGuest Room 2",
+        "color": "#628759",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            476,
+            135.5
+        ]
+    },
+    {
+        "name": "Goose Inn\nGuest Room 1",
+        "color": "#64875a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            477.25,
+            125.5
+        ]
+    },
+    {
+        "name": "Snag Alley",
+        "color": "#2c4a44",
+        "entities": [
+            "Combat;Passive;Street Brawler",
+            "Detective;Passive;Muggers' Stakeout"
+        ],
+        "entity_colors": [
+            "neutral",
+            "detective"
+        ],
+        "coordinates": [
+            466.5,
+            131
+        ]
+    },
+    {
+        "name": "Lord's Road East",
+        "color": "#504844",
+        "entities": [
+            "Merchant;Balance;Penny's Clockwork",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves",
+            "Detective;Venture;Wanted Posters"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective",
+            "detective"
+        ],
+        "coordinates": [
+            464.5,
+            116.25
+        ]
+    },
+    {
+        "name": "Lani's Curiosities",
+        "color": "#524236",
+        "entities": [
+            "Merchant;Balance;Clock Stall",
+            "Merchant;Passive;Stall Assistant"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant"
+        ],
+        "coordinates": [
+            454.25,
+            156.5
+        ]
+    },
+    {
+        "name": "Morose Lane West",
+        "color": "#566258",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            453.5,
+            149.5
+        ]
+    },
+    {
+        "name": "Morose Lane East",
+        "color": "#556157",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            467,
+            149.5
+        ]
+    },
+    {
+        "name": "Thimble Lane",
+        "color": "#2e4c48",
+        "entities": [
+            "Detective;Passive;Smugglers' Stakeout",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "detective",
+            "item"
+        ],
+        "coordinates": [
+            482,
+            148
+        ]
+    },
+    {
+        "name": "Geld Family\nLogistics",
+        "color": "#8e6e52",
+        "entities": [
+            "Detective;Smugglers' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            488.5,
+            156.75
+        ]
+    },
+    {
+        "name": "Four Winds Bar",
+        "color": "#8c6c52",
+        "entities": [
+            "Detective;Passive;Muggers' Stakeout"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            453,
+            140.25
+        ]
+    },
+    {
+        "name": "Dusty Alley",
+        "color": "#566258",
+        "entities": [
+            "Combat;Zombie"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            441.5,
+            142
+        ]
+    },
+    {
+        "name": "Dusty Corner",
+        "color": "#566258",
+        "entities": [
+            "Combat;Zombie"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            437.5,
+            150.25
+        ]
+    },
+    {
+        "name": "Dusty Nook",
+        "color": "#566258",
+        "entities": [
+            "Combat;Passive;Brute"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            427.5,
+            143.75
+        ]
+    },
+    {
+        "name": "Twiddle\nCorner",
+        "color": "#556157",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            441,
+            133.75
+        ]
+    },
+    {
+        "name": "Cobble Corner",
+        "color": "#566258",
+        "entities": [
+            "Merchant;Balance;Hermar's Homeware",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            417.5,
+            129.5
+        ]
+    },
+    {
+        "name": "Lord's Road West",
+        "color": "#504844",
+        "entities": [
+            "Merchant;Balance;Butchers Stall",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            426.5,
+            117
+        ]
+    },
+    {
+        "name": "Bladrick's Armory",
+        "color": "#6a4a3e",
+        "entities": [
+            "Shop;Bladrick's Armory"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            420.5,
+            107.25
+        ]
+    },
+    {
+        "name": "Ratmen Den",
+        "color": "#3a4c6a",
+        "entities": [
+            "Combat;Passive;Ratman Chief"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            426.5,
+            95.75
+        ]
+    },
+    {
+        "name": "Rockbird Clearing",
+        "color": "#88743a",
+        "entities": [
+            "Combat;Passive;Rockbird"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            402.5,
+            102.5
+        ]
+    },
+    {
+        "name": "Fortunehold\nMeadow",
+        "color": "#838f44",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            394.5,
+            84.75
+        ]
+    },
+    {
+        "name": "Fortunehold Farm",
+        "color": "#8c8242",
+        "entities": [
+            "Merchant;Balance;Fortunehold Farm",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            405,
+            67
+        ]
+    },
+    {
+        "name": "Fortunehold",
+        "color": "#8e6e52",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            406,
+            55.25
+        ]
+    },
+    {
+        "name": "Lord's Road Central",
+        "color": "#504844",
+        "entities": [
+            "Merchant;Balance;Vase Stall",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            446.5,
+            117
+        ]
+    },
+    {
+        "name": "Greengrocers",
+        "color": "#405e32",
+        "entities": [
+            "Merchant;Balance;Greengrocers",
+            "Merchant;Passive;Stall Assistant",
+            "Shop;Cabbage Stall",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            446,
+            125.25
+        ]
+    },
+    {
+        "name": "Stony\nRavine",
+        "color": "#957d42",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            383,
+            124.75
+        ]
+    },
+    {
+        "name": "Cyclops\nEast Pass",
+        "color": "#8b6d3a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            392.5,
+            125
+        ]
+    },
+    {
+        "name": "Road to\nCrenopolis",
+        "color": "#8f743e",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            397,
+            115.75
+        ]
+    },
+    {
+        "name": "Crenopolis\nOutskirts\nPortal Stone",
+        "color": "#787250",
+        "entities": [
+            "Portal_Stone;Portal Stone"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            395.75,
+            134.25
+        ]
+    },
+    {
+        "name": "Stony Gorge",
+        "color": "#8c6e3a",
+        "entities": [
+            "Combat;Sabertooth Tiger"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            376.5,
+            133.25
+        ]
+    },
+    {
+        "name": "Stony Canyon",
+        "color": "#8e723c",
+        "entities": [
+            "Combat;Sabertooth Tiger"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            361,
+            133
+        ]
+    },
+    {
+        "name": "Cyclops\nCanyon",
+        "color": "#92763e",
+        "entities": [
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            348.5,
+            132.75
+        ]
+    },
+    {
+        "name": "Unicorn Farm",
+        "color": "#867a3e",
+        "entities": [
+            "Merchant;Balance;Cheese Shop",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            350,
+            117.75
+        ]
+    },
+    {
+        "name": "Shrubby Canyon",
+        "color": "#896836",
+        "entities": [
+            "Combat;Passive;Gremlin"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            335.5,
+            122.75
+        ]
+    },
+    {
+        "name": "Boulder\nCanyon",
+        "color": "#90753e",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            337.5,
+            132.25
+        ]
+    },
+    {
+        "name": "Rugged\nCanyon",
+        "color": "#947a40",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            330,
+            137.5
+        ]
+    },
+    {
+        "name": "Cyclops Store Cave",
+        "color": "#324c50",
+        "entities": [
+            "Merchant;Balance;Victor T Cyclops",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            361.5,
+            123.5
+        ]
+    },
+    {
+        "name": "Cyclops\nLiving Area",
+        "color": "#314b4f",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            371,
+            123
+        ]
+    },
+    {
+        "name": "Cyclops\nSleeping Cave",
+        "color": "#324c50",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            362,
+            115.75
+        ]
+    },
+    {
+        "name": "Goose Inn\nKitchen",
+        "color": "#626262",
+        "entities": [
+            "Merchant;Balance;Chef"
+        ],
+        "entity_colors": [
+            "merchant"
+        ],
+        "coordinates": [
+            490,
+            141.25
+        ]
+    },
+    {
+        "name": "Lord's Road New",
+        "color": "#504844",
+        "entities": [
+            "Shop;Leather Goods"
+        ],
+        "entity_colors": [
+            "leatherworker"
+        ],
+        "coordinates": [
+            478.5,
+            116.75
+        ]
+    },
+    {
+        "name": "West Gate",
+        "color": "#9a904a",
+        "entities": [
+            "Merchant;Venture;Cinnamon Sticks",
+            "Merchant;Venture;Grapes"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant"
+        ],
+        "coordinates": [
+            409.5,
+            117
+        ]
+    },
+    {
+        "name": "Abandoned\nAlleyway",
+        "color": "#2c4844",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            414,
+            83
+        ]
+    },
+    {
+        "name": "Gillad's House",
+        "color": "#32425e",
+        "entities": [
+            "Detective;Gangsters' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            482,
+            72.75
+        ]
+    },
+    {
+        "name": "The Quill Club",
+        "color": "#4c4638",
+        "entities": [
+            "Detective;Gangsters' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            485.5,
+            91.5
+        ]
+    },
+    {
+        "name": "Four Winds\nSide Room",
+        "color": "#a4825c",
+        "entities": [
+            "Detective;Muggers' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            468,
+            143.75
+        ]
+    },
+    {
+        "name": "Four Winds Backroom",
+        "color": "#524236",
+        "entities": [
+            "Detective;Muggers' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            453,
+            133
+        ]
+    }
+]

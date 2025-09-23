@@ -1,0 +1,5790 @@
+[
+    {
+        "name": "Hopeport Garrison\nPortal Stone",
+        "color": "#959354",
+        "entities": [
+            "Portal_Stone;Portal Stone"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            94,
+            71
+        ]
+    },
+    {
+        "name": "Captain\nDegreene's\nOffice",
+        "color": "#744240",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            105.5,
+            73.5
+        ]
+    },
+    {
+        "name": "Barracks",
+        "color": "#6a5e4c",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            118.5,
+            72.5
+        ]
+    },
+    {
+        "name": "Sparring Area",
+        "color": "#969454",
+        "entities": [
+            "Combat;Sparring Guard"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            87,
+            87
+        ]
+    },
+    {
+        "name": "Training Ground",
+        "color": "#949253",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            107.5,
+            86.5
+        ]
+    },
+    {
+        "name": "Infirmary",
+        "color": "#898d70",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            124,
+            82.5
+        ]
+    },
+    {
+        "name": "Critical\nCare\nWard",
+        "color": "#898d70",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            132.5,
+            82.5
+        ]
+    },
+    {
+        "name": "Quartermaster$Quartermaster (room)",
+        "color": "#6a5e4c",
+        "entities": [
+            "Bank;Quartermaster$Quartermaster Bank",
+            "Shop;Quartermaster Shop"
+        ],
+        "entity_colors": [
+            "neutral",
+            "neutral"
+        ],
+        "coordinates": [
+            125.5,
+            91.5
+        ]
+    },
+    {
+        "name": "Stone Street",
+        "color": "#c8b278",
+        "entities": [
+            "Shop;Kevin's Ingredients"
+        ],
+        "entity_colors": [
+            "chef"
+        ],
+        "coordinates": [
+            110.5,
+            100.5
+        ]
+    },
+    {
+        "name": "The Delectable Dab\nRestaurant",
+        "color": "#60604e",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            104,
+            106.5
+        ]
+    },
+    {
+        "name": "The Delectable\nDab Kitchen",
+        "color": "#60604e",
+        "entities": [
+            "Chef;Cooking Stations",
+            "Chef;Passive;Fish Dishes",
+            "Bank;Ingredients",
+            "Shop;Head Chef",
+            "Clipboard;Chef's Bounty Board"
+        ],
+        "entity_colors": [
+            "chef",
+            "chef",
+            "chef",
+            "chef",
+            "chef"
+        ],
+        "coordinates": [
+            89,
+            103
+        ]
+    },
+    {
+        "name": "Apothecary",
+        "color": "#628457",
+        "entities": [
+            "Alchemist;Potion Stations",
+            "Alchemist;Passive;Passive Potion Station",
+            "Alchemist;Passive;Work for Ebsworth",
+            "Bank;Potion Reagents",
+            "Bank;Potions",
+            "Shop;The Apothecary Shop"
+        ],
+        "entity_colors": [
+            "alchemist",
+            "alchemist",
+            "alchemist",
+            "alchemist",
+            "alchemist",
+            "alchemist"
+        ],
+        "coordinates": [
+            132,
+            103
+        ]
+    },
+    {
+        "name": "Town Square",
+        "color": "#c8b278",
+        "entities": [
+            "Shop;Potion Reagents",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "alchemist",
+            "item"
+        ],
+        "coordinates": [
+            112.5,
+            116.5
+        ]
+    },
+    {
+        "name": "Brannof Boulevard",
+        "color": "#c8b278",
+        "entities": [
+            "Forager;Periwinkle"
+        ],
+        "entity_colors": [
+            "forager"
+        ],
+        "coordinates": [
+            96,
+            120.5
+        ]
+    },
+    {
+        "name": "Brannof\nHall's\nHallway",
+        "color": "#744240",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            81.5,
+            120.5
+        ]
+    },
+    {
+        "name": "Brannof's\nChamber",
+        "color": "#744240",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            81.5,
+            112.5
+        ]
+    },
+    {
+        "name": "Brannof's\nDining\nRoom",
+        "color": "#725848",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            73,
+            120.5
+        ]
+    },
+    {
+        "name": "Brannof's\nGarden",
+        "color": "#959354",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            61.5,
+            120.5
+        ]
+    },
+    {
+        "name": "Hopeport Obelisk",
+        "color": "#889248",
+        "entities": [
+            "Obelisk;Obelisk"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            98.5,
+            133.5
+        ]
+    },
+    {
+        "name": "Eel Street Bridge",
+        "color": "#c8b278",
+        "entities": [
+            "Fisher;Eel"
+        ],
+        "entity_colors": [
+            "fisher"
+        ],
+        "coordinates": [
+            113.5,
+            133.5
+        ]
+    },
+    {
+        "name": "Melv's\nFishing Supplies",
+        "color": "#725848",
+        "entities": [
+            "Bank;Fishing Bait",
+            "Shop;Fishing Supplies"
+        ],
+        "entity_colors": [
+            "fisher",
+            "fisher"
+        ],
+        "coordinates": [
+            126.5,
+            115.5
+        ]
+    },
+    {
+        "name": "Old Street West",
+        "color": "#c8b278",
+        "entities": [
+            "Forager;Wallplant",
+            "Bank;Bones"
+        ],
+        "entity_colors": [
+            "forager",
+            "bonewright"
+        ],
+        "coordinates": [
+            131,
+            124
+        ]
+    },
+    {
+        "name": "Hairdresser",
+        "color": "#a6a6a6",
+        "entities": [
+            "Hairdresser;Hairdresser"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            136,
+            115.5
+        ]
+    },
+    {
+        "name": "Old Street East",
+        "color": "#c7b178",
+        "entities": [
+            "Combat;Deathcrow",
+            "Forager;Wallplant"
+        ],
+        "entity_colors": [
+            "neutral",
+            "forager"
+        ],
+        "coordinates": [
+            150.5,
+            123.5
+        ]
+    },
+    {
+        "name": "The\nCloakroom",
+        "color": "#3a4d6a",
+        "entities": [
+            "Bank;Capes",
+            "Shop;Cape Shop"
+        ],
+        "entity_colors": [
+            "item",
+            "item"
+        ],
+        "coordinates": [
+            145,
+            115.5
+        ]
+    },
+    {
+        "name": "Pipe\nAlley",
+        "color": "#b3a776",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            148.5,
+            110
+        ]
+    },
+    {
+        "name": "The Forager's\nWarehouse",
+        "color": "#6a5e4c",
+        "entities": [
+            "Shop;The Forager's Warehouse"
+        ],
+        "entity_colors": [
+            "forager"
+        ],
+        "coordinates": [
+            159.5,
+            114.5
+        ]
+    },
+    {
+        "name": "The Forager's\nStockroom",
+        "color": "#445662",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            156,
+            102.5
+        ]
+    },
+    {
+        "name": "Abandoned\nShop",
+        "color": "#765e94",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            152,
+            133.5
+        ]
+    },
+    {
+        "name": "Town Gates",
+        "color": "#c6b077",
+        "entities": [
+            "Combat;Deathcrow",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "neutral",
+            "item"
+        ],
+        "coordinates": [
+            170.5,
+            123
+        ]
+    },
+    {
+        "name": "Naybeth's\nHouse",
+        "color": "#6a5e4c",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            166,
+            132
+        ]
+    },
+    {
+        "name": "North Walls",
+        "color": "#969454",
+        "entities": [
+            "Combat;Goblin Soldier"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            171,
+            108.5
+        ]
+    },
+    {
+        "name": "South Walls",
+        "color": "#959353",
+        "entities": [
+            "Combat;Goblin Chief"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            171.5,
+            138
+        ]
+    },
+    {
+        "name": "Tim's\nAlley",
+        "color": "#b4a876",
+        "entities": [
+            "Combat;Thief"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            144.5,
+            132
+        ]
+    },
+    {
+        "name": "Little Square",
+        "color": "#a6926c",
+        "entities": [
+            "Forager;Passive;Feather",
+            "Forager;Passive;Sprey"
+        ],
+        "entity_colors": [
+            "forager",
+            "forager"
+        ],
+        "coordinates": [
+            139.5,
+            148.5
+        ]
+    },
+    {
+        "name": "Murk Close",
+        "color": "#988664",
+        "entities": [
+            "Combat;Passive;Thug"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            161,
+            141.5
+        ]
+    },
+    {
+        "name": "Nook Alley",
+        "color": "#a6926c",
+        "entities": [
+            "Forager;Passive;Scrap Metal"
+        ],
+        "entity_colors": [
+            "forager"
+        ],
+        "coordinates": [
+            155,
+            148
+        ]
+    },
+    {
+        "name": "Limpet Lane",
+        "color": "#b2a675",
+        "entities": [
+            "Combat;Thief"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            150.5,
+            153.5
+        ]
+    },
+    {
+        "name": "Monob\nRow",
+        "color": "#978564",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            141,
+            136.5
+        ]
+    },
+    {
+        "name": "Wilhope Passage",
+        "color": "#a5916b",
+        "entities": [
+            "Combat;Passive;Street Louse"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            135,
+            141.5
+        ]
+    },
+    {
+        "name": "Thieves'\nDen",
+        "color": "#566176",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            133.5,
+            133
+        ]
+    },
+    {
+        "name": "Wilhope Crossing",
+        "color": "#b4a876",
+        "entities": [
+            "Fisher;Pufferfish"
+        ],
+        "entity_colors": [
+            "fisher"
+        ],
+        "coordinates": [
+            125.5,
+            147.5
+        ]
+    },
+    {
+        "name": "Eel Street",
+        "color": "#c8b278",
+        "entities": [
+            "Shop;The Frequently Fresh Fish Stall"
+        ],
+        "entity_colors": [
+            "fisher"
+        ],
+        "coordinates": [
+            116.5,
+            151.5
+        ]
+    },
+    {
+        "name": "The Hooked\nHand",
+        "color": "#725848",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            104.5,
+            146
+        ]
+    },
+    {
+        "name": "Central Waterfront",
+        "color": "#c8b278",
+        "entities": [
+            "Fisher;Passive;Bream"
+        ],
+        "entity_colors": [
+            "fisher"
+        ],
+        "coordinates": [
+            109,
+            161
+        ]
+    },
+    {
+        "name": "Salty Swine",
+        "color": "#2c2c2c",
+        "entities": [
+            "Fisher;Passive;Mackibut"
+        ],
+        "entity_colors": [
+            "fisher"
+        ],
+        "coordinates": [
+            109,
+            180
+        ]
+    },
+    {
+        "name": "Boardwalk",
+        "color": "#70644f",
+        "entities": [
+            "Fisher;Passive;Herring"
+        ],
+        "entity_colors": [
+            "fisher"
+        ],
+        "coordinates": [
+            128.5,
+            161
+        ]
+    },
+    {
+        "name": "East Waterfront",
+        "color": "#c7b178",
+        "entities": [
+            "Fisher;Venture;Oyster",
+            "Forager;Passive;Scrap Metal",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "fisher",
+            "forager",
+            "item"
+        ],
+        "coordinates": [
+            148,
+            161.5
+        ]
+    },
+    {
+        "name": "Vacant Pier",
+        "color": "#70644f",
+        "entities": [
+            "Fisher;Passive;Dab"
+        ],
+        "entity_colors": [
+            "fisher"
+        ],
+        "coordinates": [
+            143.5,
+            176.5
+        ]
+    },
+    {
+        "name": "Vincible",
+        "color": "#5e442e",
+        "entities": [
+            "Fisher;Passive;Sturlet"
+        ],
+        "entity_colors": [
+            "fisher"
+        ],
+        "coordinates": [
+            158,
+            180
+        ]
+    },
+    {
+        "name": "Little Lucy",
+        "color": "#9f6a52",
+        "entities": [
+            "Fisher;Passive;Wraddock"
+        ],
+        "entity_colors": [
+            "fisher"
+        ],
+        "coordinates": [
+            91,
+            178
+        ]
+    },
+    {
+        "name": "West Waterfront",
+        "color": "#c6b077",
+        "entities": [
+            "Fisher;Venture;Lobster"
+        ],
+        "entity_colors": [
+            "fisher"
+        ],
+        "coordinates": [
+            90,
+            161
+        ]
+    },
+    {
+        "name": "Scrapyard",
+        "color": "#a5916b",
+        "entities": [
+            "Shop;Scrap Merchant"
+        ],
+        "entity_colors": [
+            "forager"
+        ],
+        "coordinates": [
+            83.5,
+            142.5
+        ]
+    },
+    {
+        "name": "Sea Road",
+        "color": "#b3a776",
+        "entities": [
+            "Shop;The Seaside Rock Shop",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "forager",
+            "item"
+        ],
+        "coordinates": [
+            70,
+            155.5
+        ]
+    },
+    {
+        "name": "East Beach",
+        "color": "#cdaf6e",
+        "entities": [
+            "Combat;Passive;Crab",
+            "Fisher;Flounder",
+            "Forager;Kelp"
+        ],
+        "entity_colors": [
+            "neutral",
+            "fisher",
+            "forager"
+        ],
+        "coordinates": [
+            67,
+            169
+        ]
+    },
+    {
+        "name": "Seashells Seashore",
+        "color": "#c7a364",
+        "entities": [
+            "Fisher;Bass",
+            "Forager;Kelp",
+            "Forager;Shell",
+            "Forager;Passive;Anemone",
+            "Forager;Passive;Sea Slug"
+        ],
+        "entity_colors": [
+            "fisher",
+            "forager",
+            "forager",
+            "forager",
+            "forager"
+        ],
+        "coordinates": [
+            50,
+            166
+        ]
+    },
+    {
+        "name": "Jellyfish Landing",
+        "color": "#c9a566",
+        "entities": [
+            "Combat;Passive;Jellyfish",
+            "Forager;Shell",
+            "Forager;Starfish"
+        ],
+        "entity_colors": [
+            "neutral",
+            "forager",
+            "forager"
+        ],
+        "coordinates": [
+            31.5,
+            162
+        ]
+    },
+    {
+        "name": "Starfish Point",
+        "color": "#bb8f55",
+        "entities": [
+            "Fisher;Cod",
+            "Forager;Bone Spike",
+            "Forager;Starfish"
+        ],
+        "entity_colors": [
+            "fisher",
+            "forager",
+            "forager"
+        ],
+        "coordinates": [
+            14,
+            164
+        ]
+    },
+    {
+        "name": "Ray Bay",
+        "color": "#587575",
+        "entities": [
+            "Fisher;Ray",
+            "Forager;Bone Spike",
+            "Forager;Limpet",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "fisher",
+            "forager",
+            "forager",
+            "item"
+        ],
+        "coordinates": [
+            9.5,
+            146.5
+        ]
+    },
+    {
+        "name": "Hidden\nSandbar",
+        "color": "#4e6c6e",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            -9.5,
+            143
+        ]
+    },
+    {
+        "name": "Island\nHideout",
+        "color": "#c3a364",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            -21,
+            148
+        ]
+    },
+    {
+        "name": "Hideout\nStorage\nArea",
+        "color": "#70644e",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            -16,
+            127
+        ]
+    },
+    {
+        "name": "Pirate Hideout",
+        "color": "#ceae6d",
+        "entities": [
+            "Combat;Passive;Pirate",
+            "Fisher;Gurnard",
+            "Forager;Limpet"
+        ],
+        "entity_colors": [
+            "neutral",
+            "fisher",
+            "forager"
+        ],
+        "coordinates": [
+            14,
+            127
+        ]
+    },
+    {
+        "name": "Hopeport Coastal\nPortal Stone",
+        "color": "#bb8f56",
+        "entities": [
+            "Portal_Stone;Portal Stone"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            8,
+            105.5
+        ]
+    },
+    {
+        "name": "Fallen Monument",
+        "color": "#899754",
+        "entities": [
+            "Combat;Carnivorous Plant",
+            "Forager;Hogberries",
+            "Forager;Potato",
+            "Bank;Monument Pieces",
+            "Shop;Fallen Monument"
+        ],
+        "entity_colors": [
+            "neutral",
+            "forager",
+            "forager",
+            "forager",
+            "forager"
+        ],
+        "coordinates": [
+            28,
+            144
+        ]
+    },
+    {
+        "name": "Overgrown Field",
+        "color": "#889146",
+        "entities": [
+            "Combat;Carnivorous Plant",
+            "Forager;Potato",
+            "Forager;Passive;Sheep Rib",
+            "Forager;Passive;Worms"
+        ],
+        "entity_colors": [
+            "neutral",
+            "forager",
+            "forager",
+            "forager"
+        ],
+        "coordinates": [
+            50.5,
+            146.5
+        ]
+    },
+    {
+        "name": "Overgrown Pond",
+        "color": "#899548",
+        "entities": [
+            "Combat;Passive;Bugman",
+            "Forager;Goat Horn",
+            "Forager;Pond Weed"
+        ],
+        "entity_colors": [
+            "neutral",
+            "forager",
+            "forager"
+        ],
+        "coordinates": [
+            63.5,
+            136
+        ]
+    },
+    {
+        "name": "Rubble Road",
+        "color": "#95974c",
+        "entities": [
+            "Combat;Hairbeast",
+            "Forager;Goat Horn",
+            "Forager;Water Lily"
+        ],
+        "entity_colors": [
+            "neutral",
+            "forager",
+            "forager"
+        ],
+        "coordinates": [
+            49,
+            131
+        ]
+    },
+    {
+        "name": "Crater",
+        "color": "#87954b",
+        "entities": [
+            "Combat;Passive;Giant Ant",
+            "Forager;Hogberries",
+            "Forager;Monument Piece"
+        ],
+        "entity_colors": [
+            "neutral",
+            "forager",
+            "forager"
+        ],
+        "coordinates": [
+            32.5,
+            127.5
+        ]
+    },
+    {
+        "name": "Overgrown Road",
+        "color": "#858942",
+        "entities": [
+            "Combat;Hairbeast",
+            "Forager;Water Lily"
+        ],
+        "entity_colors": [
+            "neutral",
+            "forager"
+        ],
+        "coordinates": [
+            44.5,
+            111.5
+        ]
+    },
+    {
+        "name": "Hidden\nCavern",
+        "color": "#846b4a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            47.5,
+            92
+        ]
+    },
+    {
+        "name": "Wasteland",
+        "color": "#949651",
+        "entities": [
+            "Combat;Ghoul",
+            "Forager;Monument Piece"
+        ],
+        "entity_colors": [
+            "aggressive",
+            "forager"
+        ],
+        "coordinates": [
+            31.5,
+            102
+        ]
+    },
+    {
+        "name": "Collapsed Hovels",
+        "color": "#949651",
+        "entities": [
+            "Combat;Ghoul",
+            "Forager;Passive;Maggots",
+            "Forager;Passive;Moth Wing"
+        ],
+        "entity_colors": [
+            "aggressive",
+            "forager",
+            "forager"
+        ],
+        "coordinates": [
+            20,
+            88
+        ]
+    },
+    {
+        "name": "Wild Path",
+        "color": "#89794a",
+        "entities": [
+            "Forager;Femur Shard",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "forager",
+            "item"
+        ],
+        "coordinates": [
+            30.25,
+            75
+        ]
+    },
+    {
+        "name": "Salmon Falls",
+        "color": "#89794a",
+        "entities": [
+            "Forager;Bellplant"
+        ],
+        "entity_colors": [
+            "forager"
+        ],
+        "coordinates": [
+            43.5,
+            78
+        ]
+    },
+    {
+        "name": "Disused Path",
+        "color": "#876f4a",
+        "entities": [
+            "Forager;Bellplant"
+        ],
+        "entity_colors": [
+            "forager"
+        ],
+        "coordinates": [
+            42.25,
+            62.5
+        ]
+    },
+    {
+        "name": "Stony Meadow",
+        "color": "#8f8749",
+        "entities": [
+            "Forager;Femur Shard",
+            "Forager;Passive;Beetle"
+        ],
+        "entity_colors": [
+            "forager",
+            "forager"
+        ],
+        "coordinates": [
+            17,
+            75.25
+        ]
+    },
+    {
+        "name": "Stony Coast",
+        "color": "#bb8f56",
+        "entities": [
+            "Forager;Wrack"
+        ],
+        "entity_colors": [
+            "forager"
+        ],
+        "coordinates": [
+            2,
+            78
+        ]
+    },
+    {
+        "name": "Scruffy Shoreline",
+        "color": "#ba8f56",
+        "entities": [
+            "Forager;Rams Horn",
+            "Forager;Wrack"
+        ],
+        "entity_colors": [
+            "forager",
+            "forager"
+        ],
+        "coordinates": [
+            1.5,
+            58.75
+        ]
+    },
+    {
+        "name": "Bone Strewn Path",
+        "color": "#89794a",
+        "entities": [
+            "Forager;Nettle",
+            "Forager;Rams Horn"
+        ],
+        "entity_colors": [
+            "forager",
+            "forager"
+        ],
+        "coordinates": [
+            17.5,
+            62
+        ]
+    },
+    {
+        "name": "Scruffy\nScrubland",
+        "color": "#856a4c",
+        "entities": [
+            "Forager;Nettle"
+        ],
+        "entity_colors": [
+            "forager"
+        ],
+        "coordinates": [
+            19.5,
+            49
+        ]
+    },
+    {
+        "name": "Rocky Road",
+        "color": "#856a4c",
+        "entities": [
+            "Combat;Passive;Punkupine"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            32.5,
+            50
+        ]
+    },
+		{
+        "name": "Entrance to Hopeport",
+        "color": "#c7b177",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            192,
+            123.5
+        ]
+    },
+    {
+        "name": "Road to Hopeport",
+        "color": "#959354",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            214.5,
+            123.5
+        ]
+    },
+    {
+        "name": "Forest Clearing",
+        "color": "#859554",
+        "entities": [
+            "Combat;Outlaw",
+            "Botanist;Globeplant"
+        ],
+        "entity_colors": [
+            "neutral",
+            "botanist"
+        ],
+        "coordinates": [
+            234.5,
+            123.5
+        ]
+    },
+    {
+        "name": "Leafy Lane",
+        "color": "#869654",
+        "entities": [
+            "Woodcutter;Yew",
+            "Woodcutter;Passive;Yew"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            230,
+            102
+        ]
+    },
+    {
+        "name": "Leafy Junction",
+        "color": "#969454",
+        "entities": [
+            "Combat;Passive;Wildman",
+            "Botanist;Haleberries",
+            "Pump;Water Pump",
+            "Woodcutter;Yew",
+            "Woodcutter;Passive;Yew"
+        ],
+        "entity_colors": [
+            "neutral",
+            "botanist",
+            "botanist",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            230.5,
+            84.5
+        ]
+    },
+    {
+        "name": "Bear Clearing",
+        "color": "#968454",
+        "entities": [
+            "Combat;Bear",
+            "Woodcutter;Yew",
+            "Woodcutter;Passive;Yew",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "neutral",
+            "woodcutter",
+            "woodcutter",
+            "item"
+        ],
+        "coordinates": [
+            212,
+            83.5
+        ]
+    },
+    {
+        "name": "Bear Behind",
+        "color": "#967854",
+        "entities": [
+            "Combat;Bear",
+            "Woodcutter;Yew",
+            "Woodcutter;Passive;Yew"
+        ],
+        "entity_colors": [
+            "neutral",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            193.5,
+            83.5
+        ]
+    },
+    {
+        "name": "Two Headed\nBear Clearing",
+        "color": "#967854",
+        "entities": [
+            "Botanist;Dock Leaf",
+            "Woodcutter;Yew",
+            "Woodcutter;Passive;Yew"
+        ],
+        "entity_colors": [
+            "botanist",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            214.5,
+            63.5
+        ]
+    },
+    {
+        "name": "Tangled Lane",
+        "color": "#8f9554",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            246,
+            84.5
+        ]
+    },
+    {
+        "name": "Narrow Path",
+        "color": "#968454",
+        "entities": [
+            "Woodcutter;Yew",
+            "Woodcutter;Passive;Yew"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            241.5,
+            77
+        ]
+    },
+    {
+        "name": "Thin Trail",
+        "color": "#967854",
+        "entities": [
+            "Woodcutter;Yew",
+            "Woodcutter;Passive;Yew"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            241.5,
+            64
+        ]
+    },
+    {
+        "name": "Magic Cave",
+        "color": "#866a4c",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            247.5,
+            48.5
+        ]
+    },
+    {
+        "name": "Tangled Path",
+        "color": "#869654",
+        "entities": [
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            260,
+            84
+        ]
+    },
+    {
+        "name": "Stump Clearing",
+        "color": "#7a9553",
+        "entities": [
+            "Combat;Passive;Moss Monster",
+            "Woodcutter;Oak",
+            "Woodcutter;Passive;Oak"
+        ],
+        "entity_colors": [
+            "neutral",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            275.5,
+            81
+        ]
+    },
+    {
+        "name": "Canopy Lane",
+        "color": "#7b9654",
+        "entities": [
+            "Woodcutter;Oak",
+            "Woodcutter;Passive;Oak"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            257.5,
+            73.5
+        ]
+    },
+    {
+        "name": "Canopy Junction",
+        "color": "#859553",
+        "entities": [
+            "Woodcutter;Oak",
+            "Woodcutter;Passive;Oak"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            265.5,
+            61.5
+        ]
+    },
+    {
+        "name": "Treeway\nClearing",
+        "color": "#919654",
+        "entities": [
+            "Botanist;Clover",
+            "Pump;Water Pump",
+            "Woodcutter;Oak",
+            "Woodcutter;Passive;Oak"
+        ],
+        "entity_colors": [
+            "botanist",
+            "botanist",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            270.5,
+            52
+        ]
+    },
+    {
+        "name": "Treeway\nJunction",
+        "color": "#919654",
+        "entities": [
+            "Combat;Spriggan"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            276,
+            64.5
+        ]
+    },
+    {
+        "name": "Rising Trail",
+        "color": "#958353",
+        "entities": [
+            "Combat;Bramblelith"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            262.5,
+            38.5
+        ]
+    },
+    {
+        "name": "Wooded Clifftop",
+        "color": "#7c7448",
+        "entities": [
+            "Combat;Bramblelith"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            262,
+            27.5
+        ]
+    },
+    {
+        "name": "Road to\nNowhere Much",
+        "color": "#958354",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            274.5,
+            41.5
+        ]
+    },
+    {
+        "name": "Peat Bog",
+        "color": "#7c7448",
+        "entities": [
+            "Botanist;Sage"
+        ],
+        "entity_colors": [
+            "botanist"
+        ],
+        "coordinates": [
+            276.5,
+            32
+        ]
+    },
+    {
+        "name": "North Peat Bog",
+        "color": "#6d663a",
+        "entities": [
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            275.5,
+            22.5
+        ]
+    },
+    {
+        "name": "Hopeforest North\nPortal Stone",
+        "color": "#856a4c",
+        "entities": [
+            "Portal_Stone;Portal Stone"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            288.5,
+            42.5
+        ]
+    },
+    {
+        "name": "Tranquil\nClearing",
+        "color": "#7c8052",
+        "entities": [
+            "Woodcutter;Oak",
+            "Woodcutter;Passive;Oak"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            288.5,
+            54.5
+        ]
+    },
+    {
+        "name": "Treeway\nTrail",
+        "color": "#7c8052",
+        "entities": [
+            "Combat;Spriggan",
+            "Woodcutter;Oak",
+            "Woodcutter;Passive;Oak"
+        ],
+        "entity_colors": [
+            "neutral",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            291,
+            65
+        ]
+    },
+    {
+        "name": "Cutters Clearing",
+        "color": "#7c8052",
+        "entities": [
+            "Woodcutter;Oak",
+            "Woodcutter;Passive;Oak",
+            "Woodcutter;Passive;Split Wood for Murphy",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter",
+            "woodcutter",
+            "item"
+        ],
+        "coordinates": [
+            295.5,
+            76.5
+        ]
+    },
+    {
+        "name": "Twisted Road",
+        "color": "#646648",
+        "entities": [
+            "Combat;Shade",
+            "Woodcutter;Suave",
+            "Woodcutter;Passive;Suave"
+        ],
+        "entity_colors": [
+            "aggressive",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            312.5,
+            67.5
+        ]
+    },
+    {
+        "name": "Gnarled\nPath",
+        "color": "#4e5040",
+        "entities": [
+            "Woodcutter;Suave",
+            "Woodcutter;Passive;Suave"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            330,
+            75.5
+        ]
+    },
+    {
+        "name": "Wolves' Den",
+        "color": "#3c3e36",
+        "entities": [
+            "Combat;Passive;Wolf",
+            "Woodcutter;Suave",
+            "Woodcutter;Passive;Suave"
+        ],
+        "entity_colors": [
+            "neutral",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            335.5,
+            63.5
+        ]
+    },
+    {
+        "name": "Twisted\nJunction",
+        "color": "#4e5040",
+        "entities": [
+            "Combat;Shade"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            317,
+            86
+        ]
+    },
+    {
+        "name": "Overgrown Trail",
+        "color": "#3c3e36",
+        "entities": [
+            "Pump;Water Pump",
+            "Woodcutter;Suave",
+            "Woodcutter;Passive;Suave",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "botanist",
+            "woodcutter",
+            "woodcutter",
+            "item"
+        ],
+        "coordinates": [
+            331.5,
+            83.5
+        ]
+    },
+    {
+        "name": "Crystal\nClearing",
+        "color": "#343432",
+        "entities": [
+            "Botanist;Thistle",
+            "Woodcutter;Suave",
+            "Woodcutter;Passive;Suave"
+        ],
+        "entity_colors": [
+            "botanist",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            350,
+            87.5
+        ]
+    },
+    {
+        "name": "Bramble Path",
+        "color": "#3c3e36",
+        "entities": [
+            "Woodcutter;Brambles",
+            "Woodcutter;Suave",
+            "Woodcutter;Passive;Suave"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            328,
+            95.5
+        ]
+    },
+    {
+        "name": "Mushroom\nGrove",
+        "color": "#4e5040",
+        "entities": [
+            "Botanist;Bitterfruit",
+            "Woodcutter;Suave",
+            "Woodcutter;Passive;Suave"
+        ],
+        "entity_colors": [
+            "botanist",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            328,
+            108
+        ]
+    },
+    {
+        "name": "Shortcut",
+        "color": "#565e40",
+        "entities": [
+            "Woodcutter;Brambles",
+            "Woodcutter;Suave",
+            "Woodcutter;Passive;Suave"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            306,
+            85.5
+        ]
+    },
+    {
+        "name": "Stumped\nPath",
+        "color": "#687a4a",
+        "entities": [
+            "Woodcutter;Oak",
+            "Woodcutter;Passive;Oak"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            293,
+            88.5
+        ]
+    },
+    {
+        "name": "Snakes Path",
+        "color": "#687a4a",
+        "entities": [
+            "Combat;Viper",
+            "Woodcutter;Poplar",
+            "Woodcutter;Passive;Poplar"
+        ],
+        "entity_colors": [
+            "aggressive",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            307,
+            103
+        ]
+    },
+    {
+        "name": "Snakes\nClearing",
+        "color": "#687a4a",
+        "entities": [
+            "Combat;Viper",
+            "Woodcutter;Poplar",
+            "Woodcutter;Passive;Poplar"
+        ],
+        "entity_colors": [
+            "aggressive",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            303.5,
+            117.75
+        ]
+    },
+    {
+        "name": "Central\nJunction",
+        "color": "#688e50",
+        "entities": [
+            "Woodcutter;Poplar",
+            "Woodcutter;Passive;Poplar"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            287,
+            120
+        ]
+    },
+    {
+        "name": "Logging Area",
+        "color": "#7a9553",
+        "entities": [
+            "Woodcutter;Poplar",
+            "Woodcutter;Passive;Poplar",
+            "Woodcutter;Passive;Split Wood for Claude"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            293.5,
+            102
+        ]
+    },
+    {
+        "name": "Central\nCrossroads",
+        "color": "#688e50",
+        "entities": [
+            "Woodcutter;Poplar",
+            "Woodcutter;Passive;Poplar"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            273.5,
+            118.5
+        ]
+    },
+    {
+        "name": "North\nCentral Path",
+        "color": "#688e50",
+        "entities": [
+            "Woodcutter;Hickory",
+            "Woodcutter;Passive;Hickory"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            277,
+            103.5
+        ]
+    },
+    {
+        "name": "Secluded\nJunction",
+        "color": "#50814c",
+        "entities": [
+            "Woodcutter;Hickory",
+            "Woodcutter;Passive;Hickory"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            266.5,
+            95
+        ]
+    },
+    {
+        "name": "Luscious Glade",
+        "color": "#50824c",
+        "entities": [
+            "Woodcutter;Hickory",
+            "Woodcutter;Passive;Hickory",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter",
+            "item"
+        ],
+        "coordinates": [
+            263,
+            107
+        ]
+    },
+    {
+        "name": "Secluded Path",
+        "color": "#50824c",
+        "entities": [
+            "Woodcutter;Hickory",
+            "Woodcutter;Passive;Hickory"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            252.5,
+            95
+        ]
+    },
+    {
+        "name": "Dryad Glade",
+        "color": "#50824c",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            247,
+            106.5
+        ]
+    },
+    {
+        "name": "Secluded\nDead End",
+        "color": "#4f814b",
+        "entities": [
+            "Combat;Passive;Satyr",
+            "Woodcutter;Hickory",
+            "Woodcutter;Passive;Hickory"
+        ],
+        "entity_colors": [
+            "neutral",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            238.5,
+            94.5
+        ]
+    },
+    {
+        "name": "Forest Path",
+        "color": "#789252",
+        "entities": [
+            "Combat;Outlaw"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            255.5,
+            118.5
+        ]
+    },
+    {
+        "name": "Goblin Camp",
+        "color": "#789252",
+        "entities": [
+            "Combat;Goblin",
+            "Obelisk;Obelisk"
+        ],
+        "entity_colors": [
+            "aggressive",
+            "item"
+        ],
+        "coordinates": [
+            256.5,
+            130
+        ]
+    },
+    {
+        "name": "Huntsman's Clearing",
+        "color": "#929654",
+        "entities": [
+            "Combat;Passive;Wild Boar",
+            "Pump;Water Pump"
+        ],
+        "entity_colors": [
+            "neutral",
+            "botanist"
+        ],
+        "coordinates": [
+            239.5,
+            140.5
+        ]
+    },
+    {
+        "name": "Mushroom Glade",
+        "color": "#919554",
+        "entities": [
+            "Botanist;Dandelion"
+        ],
+        "entity_colors": [
+            "botanist"
+        ],
+        "coordinates": [
+            222.5,
+            142.5
+        ]
+    },
+		{
+        "name": "Trail of Spores",
+        "color": "#796030",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            217,
+            157.5
+        ]
+    },
+		{
+        "name": "Den of Spores",
+        "color": "#5a402a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            197.5,
+            157
+        ]
+    },
+		{
+        "name": "Timberwell\nPortal Stone",
+        "color": "#775f34",
+        "entities": [
+            "Portal_Stone;Portal Stone"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            211.5,
+            167.5
+        ]
+    },
+    {
+        "name": "Huntsman's\nLodge",
+        "color": "#7f725c",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            234,
+            150.5
+        ]
+    },
+    {
+        "name": "Timberwell\nRoad",
+        "color": "#869654",
+        "entities": [
+            "Woodcutter;Ash",
+            "Woodcutter;Passive;Ash"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            244.75,
+            165
+        ]
+    },
+    {
+        "name": "Timberwell Green",
+        "color": "#8e9246",
+        "entities": [
+            "Botanist;Orchid",
+            "Pump;Water Pump",
+            "Woodcutter;Ash",
+            "Woodcutter;Passive;Ash",
+            "Shop;Morauce's Pointy Implements",
+            "Bank;Timber"
+        ],
+        "entity_colors": [
+            "botanist",
+            "botanist",
+            "woodcutter",
+            "woodcutter",
+            "woodcutter",
+            "carpenter"
+        ],
+        "coordinates": [
+            243.5,
+            192.5
+        ]
+    },
+    {
+        "name": "Carpenter's Workshop",
+        "color": "#8a8e70",
+        "entities": [
+            "Bank;Lumber",
+            "Carpenter;Sawmill",
+            "Carpenter;Passive;Furniture Assembly Station",
+            "Carpenter;Passive;Workbench",
+            "Shop;Timber Merchant"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "carpenter",
+            "carpenter",
+            "carpenter",
+            "carpenter"
+        ],
+        "coordinates": [
+            241.5,
+            217
+        ]
+    },
+    {
+        "name": "Tarana and\nAlden's Home",
+        "color": "#7f715b",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            227.75,
+            200.5
+        ]
+    },
+    {
+        "name": "Gwen's Lumber",
+        "color": "#80725c",
+        "entities": [
+            "Shop;Gwen's Lumber"
+        ],
+        "entity_colors": [
+            "woodcutter"
+        ],
+        "coordinates": [
+            227,
+            188.75
+        ]
+    },
+    {
+        "name": "Timberwell\nSide Road",
+        "color": "#8e8442",
+        "entities": [
+            "Woodcutter;Ash",
+            "Woodcutter;Passive;Ash",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter",
+            "item"
+        ],
+        "coordinates": [
+            217,
+            179.5
+        ]
+    },
+    {
+        "name": "Timberwell\nSupplies",
+        "color": "#80725c",
+        "entities": [
+            "Shop;Timberwell Supplies"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            222,
+            168
+        ]
+    },
+    {
+        "name": "Greenhouse",
+        "color": "#80725c",
+        "entities": [
+            "Botanist;Passive;Botanist Station",
+            "Botanist;Venture;Willow Water",
+            "Bank;Botanist"
+        ],
+        "entity_colors": [
+            "botanist",
+            "botanist",
+            "botanist"
+        ],
+        "coordinates": [
+            234,
+            172
+        ]
+    },
+    {
+        "name": "The Color Wheel",
+        "color": "#80725c",
+        "entities": [
+            "Palette;Dyes"
+        ],
+        "entity_colors": [
+            "palette"
+        ],
+        "coordinates": [
+            197,
+            179.5
+        ]
+    },
+    {
+        "name": "Mr McGrish's\nGarden",
+        "color": "#868640",
+        "entities": [
+            "Botanist;Apple",
+            "Woodcutter;Ash",
+            "Woodcutter;Passive;Ash"
+        ],
+        "entity_colors": [
+            "botanist",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            208,
+            196.5
+        ]
+    },
+    {
+        "name": "Mr McGrish's\nHouse",
+        "color": "#7f725c",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            220,
+            195.5
+        ]
+    },
+    {
+        "name": "Mine Road West",
+        "color": "#688e50",
+        "entities": [
+            "Woodcutter;Juniper",
+            "Woodcutter;Passive;Juniper"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            260,
+            177.5
+        ]
+    },
+    {
+        "name": "Tree Lined Trail",
+        "color": "#54864c",
+        "entities": [
+            "Combat;Passive;Aboredon",
+            "Woodcutter;Juniper",
+            "Woodcutter;Passive;Juniper",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "neutral",
+            "woodcutter",
+            "woodcutter",
+            "item"
+        ],
+        "coordinates": [
+            261,
+            192.5
+        ]
+    },
+    {
+        "name": "Tree Lined Track",
+        "color": "#4c7e4a",
+        "entities": [
+            "Woodcutter;Juniper",
+            "Woodcutter;Passive;Juniper"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            259,
+            213
+        ]
+    },
+    {
+        "name": "Hopeforest Ferry",
+        "color": "#687e4a",
+        "entities": [
+            "Woodcutter;Juniper",
+            "Woodcutter;Passive;Juniper"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            249.5,
+            232
+        ]
+    },
+    {
+        "name": "Ferry Crossing",
+        "color": "#4b5541",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            257,
+            243.5
+        ]
+    },
+    {
+        "name": "Ferry\nSouth Shore",
+        "color": "#697e4a",
+        "entities": [
+            "Woodcutter;Bamboo"
+        ],
+        "entity_colors": [
+            "woodcutter"
+        ],
+        "coordinates": [
+            249.5,
+            257
+        ]
+    },
+    {
+        "name": "Himatik Ruins",
+        "color": "#829646",
+        "entities": [
+            "Woodcutter;Bamboo",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "item"
+        ],
+        "coordinates": [
+            258,
+            270
+        ]
+    },
+    {
+        "name": "Mine Road East",
+        "color": "#5c885a",
+        "entities": [
+            "Combat;Passive;Giant Fly",
+            "Botanist;Chestnut",
+            "Pump;Water Pump",
+            "Woodcutter;Pine",
+            "Woodcutter;Passive;Pine"
+        ],
+        "entity_colors": [
+            "neutral",
+            "botanist",
+            "botanist",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            282,
+            180.5
+        ]
+    },
+    {
+        "name": "Hopeforest\nGuard Shack",
+        "color": "#7e715b",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            277,
+            169.5
+        ]
+    },
+    {
+        "name": "Small Clearing",
+        "color": "#54864c",
+        "entities": [
+            "Woodcutter;Juniper",
+            "Woodcutter;Passive;Juniper"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            273.5,
+            188
+        ]
+    },
+    {
+        "name": "Acidic Avenue",
+        "color": "#4c7e4a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            274,
+            201.5
+        ]
+    },
+    {
+        "name": "Pool of Rainbows",
+        "color": "#3d6b6d",
+        "entities": [
+            "Woodcutter;Willow",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "item"
+        ],
+        "coordinates": [
+            273.5,
+            220
+        ]
+    },
+    {
+        "name": "Barricades",
+        "color": "#626a46",
+        "entities": [
+            "Botanist;Tangfruit",
+            "Woodcutter;Pine",
+            "Woodcutter;Passive;Pine"
+        ],
+        "entity_colors": [
+            "botanist",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            296.5,
+            183.5
+        ]
+    },
+    {
+        "name": "Cliffside Path",
+        "color": "#626a46",
+        "entities": [
+            "Woodcutter;Pine",
+            "Woodcutter;Passive;Pine",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter",
+            "item"
+        ],
+        "coordinates": [
+            296,
+            170.25
+        ]
+    },
+    {
+        "name": "Cliffside\nShortcut",
+        "color": "#626a46",
+        "entities": [
+            "Woodcutter;Brambles",
+            "Woodcutter;Pine",
+            "Woodcutter;Passive;Pine"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            301.5,
+            150
+        ]
+    },
+    {
+        "name": "Cliffside\nJunction",
+        "color": "#626a46",
+        "entities": [
+            "Combat;Passive;Tree Cat",
+            "Woodcutter;Pine",
+            "Woodcutter;Passive;Pine"
+        ],
+        "entity_colors": [
+            "neutral",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            295.5,
+            138
+        ]
+    },
+    {
+        "name": "Cliffside Trail",
+        "color": "#67794a",
+        "entities": [
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            298,
+            127
+        ]
+    },
+    {
+        "name": "Cyclops Path",
+        "color": "#626a46",
+        "entities": [
+            "Shop;Fertilizer Emporium"
+        ],
+        "entity_colors": [
+            "botanist"
+        ],
+        "coordinates": [
+            317,
+            137
+        ]
+    },
+    {
+        "name": "Quiet\nGrove",
+        "color": "#626a46",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            313.5,
+            145.25
+        ]
+    },
+    {
+        "name": "Path of Good\nIntentions",
+        "color": "#5c885a",
+        "entities": [
+            "Botanist;Leek",
+            "Woodcutter;Pine",
+            "Woodcutter;Passive;Pine"
+        ],
+        "entity_colors": [
+            "botanist",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            289,
+            159.5
+        ]
+    },
+    {
+        "name": "Fern Junction",
+        "color": "#5e9852",
+        "entities": [
+            "Woodcutter;Pine",
+            "Woodcutter;Passive;Pine"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            274.5,
+            158.5
+        ]
+    },
+    {
+        "name": "Lumber Clearing",
+        "color": "#688e50",
+        "entities": [
+            "Woodcutter;Pine",
+            "Woodcutter;Passive;Pine",
+            "Woodcutter;Split Wood for Hanna"
+        ],
+        "entity_colors": [
+            "woodcutter",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            259.5,
+            163
+        ]
+    },
+    {
+        "name": "Ivy Trail",
+        "color": "#5c885a",
+        "entities": [
+            "Combat;Wendigo",
+            "Woodcutter;Pine",
+            "Woodcutter;Passive;Pine"
+        ],
+        "entity_colors": [
+            "aggressive",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            288.5,
+            146
+        ]
+    },
+    {
+        "name": "Ivy Junction",
+        "color": "#4c8454",
+        "entities": [
+            "Combat;Wendigo",
+            "Woodcutter;Pine",
+            "Woodcutter;Passive;Pine"
+        ],
+        "entity_colors": [
+            "aggressive",
+            "woodcutter",
+            "woodcutter"
+        ],
+        "coordinates": [
+            273,
+            149.5
+        ]
+    },
+    {
+        "name": "Huntsman's Path",
+        "color": "#69894c",
+        "entities": [
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            257.5,
+            149.5
+        ]
+    },
+    {
+        "name": "Ivy\nPath",
+        "color": "#53844b",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            274,
+            133
+        ]
+    },
+    {
+        "name": "Hopeforest Central\nPortal Stone",
+        "color": "#5d9651",
+        "entities": [
+            "Portal_Stone;Portal Stone"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            284.5,
+            134
+        ]
+    },
+    {
+        "name": "Mine Back\nEntrance",
+        "color": "#345a7c",
+        "entities": [
+            "Combat;Minecrawler"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            310,
+            157.5
+        ]
+    },
+    {
+        "name": "Rugged Tunnel",
+        "color": "#345a7c",
+        "entities": [
+            "Combat;Minecrawler"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            323.5,
+            157.5
+        ]
+    },
+    {
+        "name": "Northwest\nMining Cavern",
+        "color": "#2a4c68",
+        "entities": [
+            "Miner;Passive;Limestone"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            322,
+            171.25
+        ]
+    },
+    {
+        "name": "Mine Cart Cave",
+        "color": "#325473",
+        "entities": [
+            "Miner;Mine Cart Work"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            310,
+            165
+        ]
+    },
+    {
+        "name": "Jagged\nJunction",
+        "color": "#274763",
+        "entities": [
+            "Miner;Basalt"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            328.5,
+            163.5
+        ]
+    },
+    {
+        "name": "North Mining\nCavern",
+        "color": "#2c4c69",
+        "entities": [
+            "Miner;Basalt"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            340,
+            165
+        ]
+    },
+    {
+        "name": "Cave of the Past",
+        "color": "#2a4a68",
+        "entities": [
+            "Bonewright;Passive;Fossil Assembly",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "bonewright",
+            "item"
+        ],
+        "coordinates": [
+            353,
+            159.5
+        ]
+    },
+    {
+        "name": "Rat Infested\nTunnel",
+        "color": "#23425b",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            332,
+            172.5
+        ]
+    },
+    {
+        "name": "Rat Infested\nJunction",
+        "color": "#34587a",
+        "entities": [
+            "Combat;Passive;Beastman",
+            "Miner;Flint"
+        ],
+        "entity_colors": [
+            "neutral",
+            "miner"
+        ],
+        "coordinates": [
+            332.5,
+            182.25
+        ]
+    },
+    {
+        "name": "Ratty Terminus",
+        "color": "#2a4c68",
+        "entities": [
+            "Combat;Passive;Giant Rat"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            328.5,
+            191
+        ]
+    },
+    {
+        "name": "Abandoned\nMining\nCavern",
+        "color": "#325676",
+        "entities": [
+            "Miner;Flint"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            319,
+            182
+        ]
+    },
+    {
+        "name": "Mine\nEntrance",
+        "color": "#3f5970",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            309,
+            181
+        ]
+    },
+    {
+        "name": "Narrow\nTunnel",
+        "color": "#2e506e",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            323.5,
+            197.5
+        ]
+    },
+    {
+        "name": "Mine Cart Tunnel",
+        "color": "#2a4866",
+        "entities": [
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            312,
+            189
+        ]
+    },
+    {
+        "name": "Dilapidated\nMining Cavern",
+        "color": "#2a4b67",
+        "entities": [
+            "Miner;Iron Ore"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            306.5,
+            195
+        ]
+    },
+    {
+        "name": "Bridge Cavern",
+        "color": "#223c4e",
+        "entities": [
+            "Shop;Jangle's Bone Shop",
+            "Miner;Iron Ore",
+            "Bank;Building Materials"
+        ],
+        "entity_colors": [
+            "bonewright",
+            "miner",
+            "carpenter"
+        ],
+        "coordinates": [
+            306.5,
+            205
+        ]
+    },
+    {
+        "name": "Bat Cave",
+        "color": "#325676",
+        "entities": [
+            "Combat;Passive;Giant Bat"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            314,
+            217
+        ]
+    },
+    {
+        "name": "Leech Pools",
+        "color": "#2c4e6c",
+        "entities": [
+            "Blacksmith;Stonemason;Gas Leeches$Gas Leech"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            302.5,
+            218.5
+        ]
+    },
+    {
+        "name": "Bone Vats",
+        "color": "#345a7a",
+        "entities": [
+            "Bank;Timber",
+            "Bonewright;Passive;Bonemeal Cement",
+            "Bonewright;Passive;Knickknacks",
+            "Bank;Bones"
+        ],
+        "entity_colors": [
+            "carpenter",
+            "bonewright",
+            "bonewright",
+            "bonewright"
+        ],
+        "coordinates": [
+            289.5,
+            212.25
+        ]
+    },
+    {
+        "name": "Boneworks",
+        "color": "#345878",
+        "entities": [
+            "Shop;Grob's Armaments Purchasing",
+            "Bonewright;Bone Weapon Stations"
+        ],
+        "entity_colors": [
+            "neutral",
+            "bonewright"
+        ],
+        "coordinates": [
+            288.75,
+            223.5
+        ]
+    },
+    {
+        "name": "Andesite Site",
+        "color": "#305068",
+        "entities": [
+            "Miner;Andesite"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            313,
+            230.25
+        ]
+    },
+    {
+        "name": "Stalagmite Nook",
+        "color": "#2e506d",
+        "entities": [
+            "Miner;Andesite"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            300,
+            234.5
+        ]
+    },
+    {
+        "name": "Purpladium Vein",
+        "color": "#2e506e",
+        "entities": [
+            "Combat;Passive;Electric Snail",
+            "Miner;Passive;Purpladium",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "neutral",
+            "miner",
+            "item"
+        ],
+        "coordinates": [
+            315.5,
+            239.5
+        ]
+    },
+    {
+        "name": "Rocky\nPassage",
+        "color": "#334d55",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            320.5,
+            220.5
+        ]
+    },
+    {
+        "name": "Gassy Cave",
+        "color": "#344e56",
+        "entities": [
+            "Combat;Floor Tentacle"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            325.5,
+            231.5
+        ]
+    },
+    {
+        "name": "Gassy Grotto",
+        "color": "#345056",
+        "entities": [
+            "Miner;Passive;Soapstone",
+            "Blacksmith;Stonemason;Gas Vents"
+        ],
+        "entity_colors": [
+            "miner",
+            "item"
+        ],
+        "coordinates": [
+            340.75,
+            236.75
+        ]
+    },
+    {
+        "name": "Moderate Mineshaft",
+        "color": "#404a48",
+        "entities": [
+            "Combat;Floor Tentacle"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            333.5,
+            244.75
+        ]
+    },
+    {
+        "name": "Goblin Well",
+        "color": "#464842",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            325,
+            261.75
+        ]
+    },
+    {
+        "name": "Goblin Workshop",
+        "color": "#444440",
+        "entities": [
+            "Shop;Dinko's Weapons",
+            "Bank;Timber",
+            "Bank;Ore and Ingots",
+            "Blacksmith;Goblin Forge",
+            "Blacksmith;Goblin Smelter"
+        ],
+        "entity_colors": [
+            "neutral",
+            "carpenter",
+            "miner",
+            "blacksmith",
+            "blacksmith"
+        ],
+        "coordinates": [
+            339,
+            263.5
+        ]
+    },
+    {
+        "name": "Goblin\nLiving Quarters",
+        "color": "#524236",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            331,
+            270.5
+        ]
+    },
+    {
+        "name": "Goblin\nStorage Cave",
+        "color": "#454741",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            315,
+            262
+        ]
+    },
+    {
+        "name": "Infusionist's\nShop",
+        "color": "#3a4c6a",
+        "entities": [
+            "Infusionist;Infusionist"
+        ],
+        "entity_colors": [
+            "obstacle"
+        ],
+        "coordinates": [
+            314,
+            252.5
+        ]
+    },
+    {
+        "name": "Mine Southwest\nPortal Stone",
+        "color": "#454743",
+        "entities": [
+            "Portal_Stone;Portal Stone"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            302,
+            262
+        ]
+    },
+    {
+        "name": "Polished\nTunnel",
+        "color": "#454741",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            319.25,
+            273.75
+        ]
+    },
+    {
+        "name": "Stonemasonry Room",
+        "color": "#454741",
+        "entities": [
+            "Shop;Wobleg's Armory",
+            "Bank;Timber",
+            "Bank;Stone",
+            "Stonemason;Stone Weapon Stations"
+        ],
+        "entity_colors": [
+            "neutral",
+            "carpenter",
+            "miner",
+            "stonemason"
+        ],
+        "coordinates": [
+            316,
+            282.5
+        ]
+    },
+    {
+        "name": "Sculpting Room",
+        "color": "#444640",
+        "entities": [
+            "Stonemason;T.E.A. Machine",
+            "Stonemason;Passive;Stone Sculpting Cart",
+            "Stonemason;Passive;Stoneware Bench"
+        ],
+        "entity_colors": [
+            "stonemason",
+            "stonemason",
+            "stonemason"
+        ],
+        "coordinates": [
+            334.5,
+            282.5
+        ]
+    },
+    {
+        "name": "Market\nTunnel",
+        "color": "#464842",
+        "entities": [
+            ""
+        ],
+        "entity_colors": [],
+        "coordinates": [
+            312.5,
+            270.5
+        ]
+    },
+    {
+        "name": "Goblin Marketplace",
+        "color": "#464842",
+        "entities": [
+            "Shop;Bobble's Oresome Ores",
+            "Shop;Pans and Pickaxes",
+            "Shop;Poffit's Interesting Rocks",
+            "Shop;Mogorob's Stoneware Assortment"
+        ],
+        "entity_colors": [
+            "miner",
+            "miner",
+            "miner",
+            "stonemason"
+        ],
+        "coordinates": [
+            300,
+            282
+        ]
+    },
+    {
+        "name": "Cage\nCavern",
+        "color": "#464842",
+        "entities": [
+            ""
+        ],
+        "entity_colors": [],
+        "coordinates": [
+            287,
+            279
+        ]
+    },
+    {
+        "name": "Cave of\nthe Future",
+        "color": "#504236",
+        "entities": [
+            "Bonewright;Passive;Divination"
+        ],
+        "entity_colors": [
+            "bonewright"
+        ],
+        "coordinates": [
+            301,
+            295
+        ]
+    },
+    {
+        "name": "Rugged Passage",
+        "color": "#424a48",
+        "entities": [
+            "Miner;Passive;Shinerium"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            337.5,
+            253
+        ]
+    },
+    {
+        "name": "Strange Junction",
+        "color": "#344d55",
+        "entities": [
+            "Combat;Fire Toad"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            351.75,
+            250.75
+        ]
+    },
+    {
+        "name": "Lost\nand\nFound",
+        "color": "#344e56",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            351.5,
+            260.5
+        ]
+    },
+    {
+        "name": "Strange\nStairway",
+        "color": "#344e56",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            348,
+            270.5
+        ]
+    },
+    {
+        "name": "Podium Cave",
+        "color": "#334d51",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            359.5,
+            278.5
+        ]
+    },
+    {
+        "name": "Eagle\nGate",
+        "color": "#334f55",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            371,
+            283
+        ]
+    },
+    {
+        "name": "Ancient\nPipes\nRoom",
+        "color": "#324c50",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            382,
+            287
+        ]
+    },
+    {
+        "name": "Beginning of\nthe Beyond",
+        "color": "#334f55",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            395.75,
+            284
+        ]
+    },
+    {
+        "name": "Middle of\nthe Beyond",
+        "color": "#344c52",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            398.25,
+            302
+        ]
+    },
+    {
+        "name": "Back of\nthe Beyond",
+        "color": "#283836",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            399.5,
+            323.5
+        ]
+    },
+    {
+        "name": "Outside Hollow",
+        "color": "#839746",
+        "entities": [
+            "Combat;Fire Toad"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            362.75,
+            249.75
+        ]
+    },
+    {
+        "name": "Forsaken\nMine Workings",
+        "color": "#334f55",
+        "entities": [
+            "Combat;Skeleton Miner"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            357.25,
+            267.5
+        ]
+    },
+    {
+        "name": "Wretched Excavation",
+        "color": "#345054",
+        "entities": [
+            "Combat;Skeleton Miner"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            371.75,
+            263.5
+        ]
+    },
+    {
+        "name": "Forsaken\nAccess\nTunnel",
+        "color": "#345054",
+        "entities": [
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            378.5,
+            268.25
+        ]
+    },
+    {
+        "name": "Aperture to\nthe Beyond",
+        "color": "#345054",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            392,
+            269
+        ]
+    },
+    {
+        "name": "Big River Cavern",
+        "color": "#324462",
+        "entities": [
+            "Combat;Passive;Corrupted Miner",
+            "Miner;Passive;Gold"
+        ],
+        "entity_colors": [
+            "neutral",
+            "miner"
+        ],
+        "coordinates": [
+            326.5,
+            204.5
+        ]
+    },
+    {
+        "name": "Mossy\nCorner",
+        "color": "#344e56",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            329,
+            214
+        ]
+    },
+    {
+        "name": "Tenebrous Tunnel",
+        "color": "#345254",
+        "entities": [
+            "Miner;Cabranese Ore"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            337,
+            218
+        ]
+    },
+    {
+        "name": "Central\nMining Cavern",
+        "color": "#345056",
+        "entities": [
+            "Miner;Cabranese Ore"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            339,
+            227.75
+        ]
+    },
+    {
+        "name": "Kobold Cavern",
+        "color": "#345256",
+        "entities": [
+            "Combat;Passive;Kobold",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "neutral",
+            "item"
+        ],
+        "coordinates": [
+            350.5,
+            216.25
+        ]
+    },
+    {
+        "name": "Grachnid Cave",
+        "color": "#284640",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            357,
+            228
+        ]
+    },
+    {
+        "name": "Riverside\nGoblin Cavern",
+        "color": "#324064",
+        "entities": [
+            "Miner;Passive;Alabaster"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            341.5,
+            205
+        ]
+    },
+    {
+        "name": "Communal\nGoblin Area",
+        "color": "#34587a",
+        "entities": [
+            "Combat;Goblin Miner"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            340.5,
+            193.75
+        ]
+    },
+    {
+        "name": "Goblin\nSleeping\nArea",
+        "color": "#2e4e6c",
+        "entities": [
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            350.5,
+            196.5
+        ]
+    },
+    {
+        "name": "Goblin\nSleeping Area 2",
+        "color": "#2e4f6f",
+        "entities": [
+            "Combat;Goblin Miner"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            351.5,
+            187.5
+        ]
+    },
+    {
+        "name": "Chuncrates\nChamber",
+        "color": "#2e516f",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            361.5,
+            189.5
+        ]
+    },
+    {
+        "name": "Goblin\nSleeping\nArea 3",
+        "color": "#325678",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            342.5,
+            182.5
+        ]
+    },
+    {
+        "name": "Goblin\nLoot Stash",
+        "color": "#2d4f6d",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            342.5,
+            176
+        ]
+    },
+    {
+        "name": "Upstream\nGoblin Cavern",
+        "color": "#383a62",
+        "entities": [
+            "Miner;Flantium Ore"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            353.5,
+            205
+        ]
+    },
+    {
+        "name": "River Bend",
+        "color": "#3e3660",
+        "entities": [
+            "Miner;Flantium Ore"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            368.5,
+            203.75
+        ]
+    },
+    {
+        "name": "Mine of Mantuban\nObelisk",
+        "color": "#304f6d",
+        "entities": [
+            "Obelisk;Obelisk"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            367.5,
+            217.25
+        ]
+    },
+    {
+        "name": "Waterfall",
+        "color": "#3e3660",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            369.25,
+            190.5
+        ]
+    },
+    {
+        "name": "Upper\nRiver Bend",
+        "color": "#394b61",
+        "entities": [
+            "Miner;Granite"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            373,
+            178.75
+        ]
+    },
+    {
+        "name": "Rockling Cave",
+        "color": "#24415b",
+        "entities": [
+            "Combat;Passive;Rockling",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "neutral",
+            "item"
+        ],
+        "coordinates": [
+            371,
+            169.5
+        ]
+    },
+    {
+        "name": "Upper Bridge",
+        "color": "#3a4c62",
+        "entities": [
+            "Combat;Passive;Dread Shell",
+            "Miner;Granite"
+        ],
+        "entity_colors": [
+            "neutral",
+            "miner"
+        ],
+        "coordinates": [
+            384.5,
+            177.5
+        ]
+    },
+    {
+        "name": "Skallek's\nDwelling",
+        "color": "#2b4d6b",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            383.5,
+            170.5
+        ]
+    },
+    {
+        "name": "Gnome Dwelling",
+        "color": "#2e506e",
+        "entities": [
+            "Shop;Torrelli Jewelry Trading"
+        ],
+        "entity_colors": [
+            "blacksmith"
+        ],
+        "coordinates": [
+            385,
+            192
+        ]
+    },
+    {
+        "name": "Damp Tunnel",
+        "color": "#3a4c61",
+        "entities": [
+            "Combat;Metalith"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            395.5,
+            174.25
+        ]
+    },
+    {
+        "name": "Rock Strewn\nTunnel",
+        "color": "#3e465a",
+        "entities": [
+            "Combat;Metalith"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            407,
+            174
+        ]
+    },
+    {
+        "name": "Mutant\nCockroaches",
+        "color": "#435b69",
+        "entities": [
+            "Combat;Cockroach"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            416.5,
+            186
+        ]
+    },
+    {
+        "name": "Cockroach Lair",
+        "color": "#304e69",
+        "entities": [
+            "Combat;Cockroach"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            417,
+            170
+        ]
+    },
+    {
+        "name": "Cave of\nthe Crystal",
+        "color": "#466070",
+        "entities": [
+            "Miner;Passive;Marble",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "miner",
+            "item"
+        ],
+        "coordinates": [
+            426.5,
+            185.5
+        ]
+    },
+    {
+        "name": "Gnome Forge",
+        "color": "#2c445c",
+        "entities": [
+            "Shop;Lummock's Weaponry",
+            "Bank;Timber",
+            "Bank;Ore and Ingots",
+            "Blacksmith;Gnome Forge",
+            "Blacksmith;Gnome Smelter",
+            "Blacksmith;Passive;Jewelry Bench"
+        ],
+        "entity_colors": [
+            "neutral",
+            "carpenter",
+            "miner",
+            "blacksmith",
+            "blacksmith",
+            "blacksmith"
+        ],
+        "coordinates": [
+            427.5,
+            161.5
+        ]
+    },
+    {
+        "name": "Gnomic\nSilver Mine",
+        "color": "#24415b",
+        "entities": [
+            "Miner;Passive;Silver"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            443,
+            166.75
+        ]
+    },
+    {
+        "name": "Crumbling Passage",
+        "color": "#2d4f6d",
+        "entities": [
+            "Combat;Stonewurm"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            393.5,
+            196.5
+        ]
+    },
+    {
+        "name": "Stonewurm Nests",
+        "color": "#2e506e",
+        "entities": [
+            "Combat;Stonewurm"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            409,
+            194
+        ]
+    },
+    {
+        "name": "Rubble Cave",
+        "color": "#2e4f6d",
+        "entities": [
+            "Miner;Adathril Ore"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            389.5,
+            207.25
+        ]
+    },
+    {
+        "name": "Truck Cave",
+        "color": "#305272",
+        "entities": [
+            "Miner;Passive;Mythstone",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "miner",
+            "item"
+        ],
+        "coordinates": [
+            408.5,
+            213.5
+        ]
+    },
+    {
+        "name": "Mollusc Mineshaft",
+        "color": "#223a50",
+        "entities": [
+            "Combat;Passive;Squidbeast"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            426.5,
+            218.5
+        ]
+    },
+    {
+        "name": "Bronze Gate",
+        "color": "#2c4b6a",
+        "entities": [
+            "Miner;Adathril Ore",
+            "Miner;Venture;Brimstone"
+        ],
+        "entity_colors": [
+            "miner",
+            "miner"
+        ],
+        "coordinates": [
+            394,
+            219.75
+        ]
+    },
+    {
+        "name": "T & T's Explosives",
+        "color": "#2e5170",
+        "entities": [
+            "Bank;Explosives",
+            "Shop;T & T's Explosives"
+        ],
+        "entity_colors": [
+            "miner",
+            "miner"
+        ],
+        "coordinates": [
+            381,
+            217.25
+        ]
+    },
+    {
+        "name": "Forgotten\nTunnel",
+        "color": "#365c7e",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            395,
+            238.5
+        ]
+    },
+    {
+        "name": "Tormented\nChamber",
+        "color": "#365c7f",
+        "entities": [
+            "Combat;Wraith"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            381,
+            228.25
+        ]
+    },
+    {
+        "name": "Mysterious\nCave",
+        "color": "#365c7f",
+        "entities": [
+            "Combat;Wraith"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            384,
+            239.25
+        ]
+    },
+    {
+        "name": "Mush Room",
+        "color": "#2b4943",
+        "entities": [
+            "Combat;Passive;Mushroom Monster"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            370,
+            238.5
+        ]
+    },
+    {
+        "name": "Mine Deep\nPortal Stone",
+        "color": "#365c7f",
+        "entities": [
+            "Portal_Stone;Portal Stone"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            384,
+            252
+        ]
+    },
+    {
+        "name": "Slimy\nTunnel",
+        "color": "#223a50",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            403,
+            239
+        ]
+    },
+    {
+        "name": "Grimy Tunnel",
+        "color": "#223a50",
+        "entities": [
+            "Combat;Blob"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            411.5,
+            229.5
+        ]
+    },
+    {
+        "name": "Grimy Slimy\nJunction",
+        "color": "#223a50",
+        "entities": [
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            412,
+            239.25
+        ]
+    },
+    {
+        "name": "Slime Pool",
+        "color": "#345458",
+        "entities": [
+            "Combat;Blob"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            425.5,
+            239.25
+        ]
+    },
+    {
+        "name": "Machine\nShaft",
+        "color": "#223a50",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            409,
+            249.5
+        ]
+    },
+    {
+        "name": "Ruined Camp",
+        "color": "#284863",
+        "entities": [
+            "Miner;Deathstone"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            409.5,
+            259.75
+        ]
+    },
+    {
+        "name": "Crash Site",
+        "color": "#24425c",
+        "entities": [
+            "Miner;Deathstone"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [
+            409.5,
+            270.5
+        ]
+    },
+    {
+        "name": "Fountain\nof Delight",
+        "color": "#375d4c",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            495.5,
+            15.25
+        ]
+    },
+    {
+        "name": "Kaynat's\nHall",
+        "color": "#2c6099",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            495.5,
+            25.75
+        ]
+    },
+    {
+        "name": "Kaynat's\nGarden",
+        "color": "#85833f",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            495.5,
+            35.5
+        ]
+    },
+    {
+        "name": "Vestere Hall\nDining Room",
+        "color": "#3a4c6a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            519.5,
+            36
+        ]
+    },
+    {
+        "name": "Vestere Hall\nStrongroom",
+        "color": "#626262",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            528.5,
+            44
+        ]
+    },
+    {
+        "name": "Vestere Hall\nEntrance",
+        "color": "#626262",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            519,
+            44
+        ]
+    },
+    {
+        "name": "Vestere Drive",
+        "color": "#5e6446",
+        "entities": [
+            "Combat;Giant Wasp"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            508,
+            43.75
+        ]
+    },
+    {
+        "name": "Fillan's\nStoreroom",
+        "color": "#626262",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            483.5,
+            38.25
+        ]
+    },
+    {
+        "name": "Fillan's\nLiving Room",
+        "color": "#4a463a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            486.5,
+            46.5
+        ]
+    },
+    {
+        "name": "Fillan's\nBedroom",
+        "color": "#521616",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            477,
+            46.75
+        ]
+    },
+    {
+        "name": "Hamila Jimore's\nGarden",
+        "color": "#829545",
+        "entities": [
+            "Combat;Giant Wasp"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            507.5,
+            52.75
+        ]
+    },
+    {
+        "name": "Hamila Jimore's\nHallway",
+        "color": "#405d32",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            507.5,
+            62.75
+        ]
+    },
+    {
+        "name": "Peacock Road North",
+        "color": "#504644",
+        "entities": [
+            "Merchant;Passive;Olives",
+            "Merchant;Balance;Monocle Market",
+            "Merchant;Passive;Stall Assistant",
+            "Shop;Olive Stall",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            492,
+            57.5
+        ]
+    },
+    {
+        "name": "Artifact\nRoom",
+        "color": "#524236",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            534.75,
+            56.25
+        ]
+    },
+    {
+        "name": "Strategy\nRoom",
+        "color": "#524236",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            544.25,
+            65.25
+        ]
+    },
+    {
+        "name": "Helfar's\nHallway",
+        "color": "#9d836c",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            534.25,
+            65.25
+        ]
+    },
+    {
+        "name": "Helfar's\nGate",
+        "color": "#8d994b",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            523.5,
+            63.25
+        ]
+    },
+    {
+        "name": "East\nCourtyard",
+        "color": "#959d4e",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            533,
+            74.25
+        ]
+    },
+    {
+        "name": "Helfar's\nWall",
+        "color": "#a2a053",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            521,
+            76.75
+        ]
+    },
+    {
+        "name": "Private Road",
+        "color": "#43615d",
+        "entities": [
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            507,
+            73.75
+        ]
+    },
+    {
+        "name": "Peacock Road Central",
+        "color": "#4e4642",
+        "entities": [
+            "Merchant;Balance;Tommy Shoes' Wines",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves",
+            "Detective;Passive;Gangsters' Stakeout"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective",
+            "detective"
+        ],
+        "coordinates": [
+            499.5,
+            80.5
+        ]
+    },
+    {
+        "name": "Bogg's Antiques",
+        "color": "#4a463a",
+        "entities": [
+            "Merchant;Balance;Bogg's Antiques",
+            "Merchant;Passive;Stall Assistant"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant"
+        ],
+        "coordinates": [
+            512.5,
+            84.5
+        ]
+    },
+    {
+        "name": "Dilapidated Warehouse",
+        "color": "#4a463a",
+        "entities": [
+            "Detective;Counterfeiters' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            524.5,
+            93
+        ]
+    },
+    {
+        "name": "Slant Street",
+        "color": "#3b5755",
+        "entities": [
+            "Detective;Passive;Counterfeiters' Stakeout"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            508.5,
+            97.5
+        ]
+    },
+    {
+        "name": "North\nPlayer Market",
+        "color": "#415d57",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            533.25,
+            101.5
+        ]
+    },
+    {
+        "name": "Council\nOffice",
+        "color": "#909a9e",
+        "entities": [
+            "Pencil;Change Name"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            546.25,
+            98.25
+        ]
+    },
+    {
+        "name": "Henderson's Meat\nStorehouse",
+        "color": "#4a463a",
+        "entities": [
+            "Merchant;Balance;Henderson's Meat",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            557,
+            106.5
+        ]
+    },
+    {
+        "name": "East\nPlayer Market",
+        "color": "#3f5d59",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            544.5,
+            114.25
+        ]
+    },
+    {
+        "name": "Bert's Gallery",
+        "color": "#3e2c54",
+        "entities": [
+            "Merchant;Balance;Bert's Gallery",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            557.5,
+            121
+        ]
+    },
+    {
+        "name": "Merchant's Guild",
+        "color": "#687278",
+        "entities": [
+            "Merchant;Balance;Janessa's Delicacies",
+            "Clipboard;Balance;Guild Bounty Board",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "item"
+        ],
+        "coordinates": [
+            533.25,
+            114.5
+        ]
+    },
+    {
+        "name": "Slant Street Cart House",
+        "color": "#565244",
+        "entities": [
+            "Detective;Counterfeiters' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            509.5,
+            105.75
+        ]
+    },
+    {
+        "name": "Peacock Road\nSouth",
+        "color": "#504844",
+        "entities": [
+            "Shop;Pearl Stall",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            492.5,
+            99.75
+        ]
+    },
+    {
+        "name": "Guard's Archive",
+        "color": "#4a463a",
+        "entities": [
+            "Detective;Passive;Evidence Filing"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            480.5,
+            97.75
+        ]
+    },
+    {
+        "name": "Investigation Hall",
+        "color": "#4b4738",
+        "entities": [
+            "Detective;Investigations"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            465.5,
+            97.75
+        ]
+    },
+    {
+        "name": "Dawkin Lane",
+        "color": "#2c4a46",
+        "entities": [
+            "Combat;Street Hag"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            465,
+            86.25
+        ]
+    },
+    {
+        "name": "Dawkin Court",
+        "color": "#42605e",
+        "entities": [
+            "Combat;Street Hag",
+            "Detective;Passive;Gangsters' Stakeout"
+        ],
+        "entity_colors": [
+            "neutral",
+            "detective"
+        ],
+        "coordinates": [
+            475,
+            80.75
+        ]
+    },
+    {
+        "name": "Soap Shop",
+        "color": "#5d5d5d",
+        "entities": [
+            "Merchant;Balance;Soap Stall",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            460.25,
+            77.5
+        ]
+    },
+    {
+        "name": "Sludge\nStreet",
+        "color": "#6f735b",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            449.5,
+            70.75
+        ]
+    },
+    {
+        "name": "Sewer Gate",
+        "color": "#70745c",
+        "entities": [
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            449.5,
+            62.5
+        ]
+    },
+    {
+        "name": "Sewer\nEntrance",
+        "color": "#424e34",
+        "entities": [
+            "Combat;Mawchest"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            449.5,
+            55
+        ]
+    },
+    {
+        "name": "Southeast Sewer",
+        "color": "#425034",
+        "entities": [
+            "Combat;Spectral Stalker"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            463,
+            53.75
+        ]
+    },
+    {
+        "name": "Sewer Pool",
+        "color": "#424e34",
+        "entities": [
+            "Combat;Spectral Stalker"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            458.5,
+            41.75
+        ]
+    },
+    {
+        "name": "Deep\nSewers",
+        "color": "#424c32",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            464,
+            31.75
+        ]
+    },
+    {
+        "name": "Dismal\nDrainage",
+        "color": "#445036",
+        "entities": [
+            "Combat;Mawchest"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            440,
+            55
+        ]
+    },
+    {
+        "name": "Southwest Sewer",
+        "color": "#424e34",
+        "entities": [
+            "Combat;Sewer Fiend"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            426.5,
+            55
+        ]
+    },
+    {
+        "name": "Sewer Pipes",
+        "color": "#424e34",
+        "entities": [
+            "Combat;Sewer Fiend"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            427.5,
+            44.25
+        ]
+    },
+    {
+        "name": "Crenobelisk",
+        "color": "#54523c",
+        "entities": [
+            "Obelisk;Obelisk"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            434,
+            70.5
+        ]
+    },
+    {
+        "name": "Meggrit's Market",
+        "color": "#405e5a",
+        "entities": [
+            "Merchant;Balance;Francesca's Fruit Stall",
+            "Merchant;Balance;Snilch's Watches",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            425,
+            79
+        ]
+    },
+    {
+        "name": "Murkwell Court",
+        "color": "#2e4a46",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            439,
+            84.25
+        ]
+    },
+    {
+        "name": "Murkwell\nLane",
+        "color": "#2c4844",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            452.5,
+            86
+        ]
+    },
+    {
+        "name": "Servant's\nBathroom",
+        "color": "#4a463a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            457,
+            91.25
+        ]
+    },
+    {
+        "name": "Servant's\nHouse",
+        "color": "#8d6e52",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            448,
+            93.25
+        ]
+    },
+    {
+        "name": "Rat Alley",
+        "color": "#2c4a44",
+        "entities": [
+            "Combat;Passive;Ratman Grunt"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            442,
+            99.5
+        ]
+    },
+    {
+        "name": "Hopton Corner",
+        "color": "#2c4a44",
+        "entities": [
+            "Merchant;Passive;Spice",
+            "Shop;Spice Stall",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "item"
+        ],
+        "coordinates": [
+            437.5,
+            108
+        ]
+    },
+    {
+        "name": "Forensics\nLab",
+        "color": "#707e82",
+        "entities": [
+            "Bank;Potions",
+            "Detective;Passive;Forensics"
+        ],
+        "entity_colors": [
+            "alchemist",
+            "detective"
+        ],
+        "coordinates": [
+            448.5,
+            107.5
+        ]
+    },
+    {
+        "name": "Waltain's\nOffice",
+        "color": "#4a463a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            459,
+            107.75
+        ]
+    },
+    {
+        "name": "Guardhouse\nLobby",
+        "color": "#4a463a",
+        "entities": [
+            "Shop;Detective Depot"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            468,
+            107.5
+        ]
+    },
+    {
+        "name": "Interrogation Room",
+        "color": "#524236",
+        "entities": [
+            "Detective;Passive;Interrogation"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            481,
+            107.75
+        ]
+    },
+    {
+        "name": "Thadwick Square",
+        "color": "#524844",
+        "entities": [
+            "Merchant;Balance;Hallig's Street Food",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            492.5,
+            116.75
+        ]
+    },
+    {
+        "name": "Outer Market",
+        "color": "#3a5854",
+        "entities": [
+            "Shop;Leather Stall",
+            "Merchant;Passive;Leather Offcuts$Leather Offcuts (activity)",
+            "Merchant;Balance;Souvenir Stall",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "leatherworker",
+            "merchant",
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            508.5,
+            116.75
+        ]
+    },
+    {
+        "name": "West Player Market",
+        "color": "#486462",
+        "entities": [
+            "Detective;Passive;Counterfeiters' Stakeout"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            519,
+            125.5
+        ]
+    },
+    {
+        "name": "South Player Market",
+        "color": "#44605c",
+        "entities": [
+            "Detective;Passive;Burglars' Stakeout"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            531.75,
+            129.5
+        ]
+    },
+    {
+        "name": "Crenopolis\nMarket\nPortal Stone",
+        "color": "#405e5e",
+        "entities": [
+            "Portal_Stone;Portal Stone"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            544.75,
+            133.25
+        ]
+    },
+    {
+        "name": "Market Chambers",
+        "color": "#4a463a",
+        "entities": [
+            "Detective;Burglars' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            534.25,
+            140.5
+        ]
+    },
+    {
+        "name": "City Dyes",
+        "color": "#5c5c4e",
+        "entities": [
+            "Palette;Dyes"
+        ],
+        "entity_colors": [
+            "palette"
+        ],
+        "coordinates": [
+            532.5,
+            152.25
+        ]
+    },
+    {
+        "name": "Tannery",
+        "color": "#5d7a7a",
+        "entities": [
+            "Leatherworker;Tanning Stations",
+            "Bank;Hides"
+        ],
+        "entity_colors": [
+            "leatherworker",
+            "leatherworker"
+        ],
+        "coordinates": [
+            532.25,
+            166.5
+        ]
+    },
+    {
+        "name": "Quibble Lane",
+        "color": "#a0884f",
+        "entities": [
+            "Combat;Spiky Ball"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            526.25,
+            179.5
+        ]
+    },
+    {
+        "name": "Smuggler's Cove",
+        "color": "#7c6937",
+        "entities": [
+            "Combat;Passive;Giant Slug"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            528.25,
+            192
+        ]
+    },
+    {
+        "name": "Pier One",
+        "color": "#2c2c2c",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            506,
+            183.5
+        ]
+    },
+    {
+        "name": "Pier Two",
+        "color": "#90320a",
+        "entities": [
+            "Merchant;Venture;Bricks",
+            "Merchant;Venture;Tiles"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant"
+        ],
+        "coordinates": [
+            489.5,
+            183.5
+        ]
+    },
+    {
+        "name": "Tanners Road",
+        "color": "#646854",
+        "entities": [
+            "Merchant;Balance;Toy Stall",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            515,
+            168.25
+        ]
+    },
+    {
+        "name": "Waterfront",
+        "color": "#807862",
+        "entities": [
+            "Shop;Hide Stall",
+            "Detective;Spotting Thieves",
+            "Bank;Building Materials"
+        ],
+        "entity_colors": [
+            "leatherworker",
+            "detective",
+            "leatherworker"
+        ],
+        "coordinates": [
+            498,
+            168
+        ]
+    },
+    {
+        "name": "Waterfront Market",
+        "color": "#807660",
+        "entities": [
+            "Merchant;Balance;Jennaler's Wines",
+            "Merchant;Balance;Textiles Stall",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves",
+            "Detective;Passive;Smugglers' Stakeout"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "merchant",
+            "detective",
+            "detective"
+        ],
+        "coordinates": [
+            480.5,
+            168.25
+        ]
+    },
+    {
+        "name": "The Frog\nand\nBarnacle",
+        "color": "#626262",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            467.5,
+            166.5
+        ]
+    },
+    {
+        "name": "Geld Family\nResidence",
+        "color": "#524236",
+        "entities": [
+            "Detective;Smugglers' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            473.5,
+            156.75
+        ]
+    },
+    {
+        "name": "Bobbin Road South",
+        "color": "#304e4a",
+        "entities": [
+            "Merchant;Balance;Candice's Candles",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            501.75,
+            151
+        ]
+    },
+    {
+        "name": "Ratmore Road",
+        "color": "#2e4c48",
+        "entities": [
+            "Detective;Passive;Burglars' Stakeout"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            516.75,
+            154
+        ]
+    },
+    {
+        "name": "Ratmore Rise",
+        "color": "#2c4a46",
+        "entities": [
+            "Combat;Passive;Trash Heap Monster"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            509.25,
+            143
+        ]
+    },
+    {
+        "name": "Leatherworks",
+        "color": "#504238",
+        "entities": [
+            "Leatherworker;Passive;Knickknacks",
+            "Leatherworker;Passive;Upholstery",
+            "Bank;Leathers"
+        ],
+        "entity_colors": [
+            "leatherworker",
+            "leatherworker",
+            "leatherworker"
+        ],
+        "coordinates": [
+            505,
+            136
+        ]
+    },
+    {
+        "name": "Oscen's\nWarehouse",
+        "color": "#8e6e52",
+        "entities": [
+            "Detective;Burglars' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            522.5,
+            135.5
+        ]
+    },
+    {
+        "name": "Bobbin\nRoad\nNorth",
+        "color": "#3e5c58",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            495.25,
+            131.5
+        ]
+    },
+    {
+        "name": "Goose Inn\nBar",
+        "color": "#514135",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            487,
+            131
+        ]
+    },
+    {
+        "name": "Goose Inn\nGuest Room 2",
+        "color": "#628759",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            476,
+            135.5
+        ]
+    },
+    {
+        "name": "Goose Inn\nGuest Room 1",
+        "color": "#64875a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            477.25,
+            125.5
+        ]
+    },
+    {
+        "name": "Snag Alley",
+        "color": "#2c4a44",
+        "entities": [
+            "Combat;Passive;Street Brawler",
+            "Detective;Passive;Muggers' Stakeout"
+        ],
+        "entity_colors": [
+            "neutral",
+            "detective"
+        ],
+        "coordinates": [
+            466.5,
+            131
+        ]
+    },
+    {
+        "name": "Lord's Road East",
+        "color": "#504844",
+        "entities": [
+            "Merchant;Balance;Penny's Clockwork",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves",
+            "Detective;Venture;Wanted Posters"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective",
+            "detective"
+        ],
+        "coordinates": [
+            464.5,
+            116.25
+        ]
+    },
+    {
+        "name": "Lani's Curiosities",
+        "color": "#524236",
+        "entities": [
+            "Merchant;Balance;Clock Stall",
+            "Merchant;Passive;Stall Assistant"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant"
+        ],
+        "coordinates": [
+            454.25,
+            156.5
+        ]
+    },
+    {
+        "name": "Morose Lane West",
+        "color": "#566258",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            453.5,
+            149.5
+        ]
+    },
+    {
+        "name": "Morose Lane East",
+        "color": "#556157",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            467,
+            149.5
+        ]
+    },
+    {
+        "name": "Thimble Lane",
+        "color": "#2e4c48",
+        "entities": [
+            "Detective;Passive;Smugglers' Stakeout",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "detective",
+            "item"
+        ],
+        "coordinates": [
+            482,
+            148
+        ]
+    },
+    {
+        "name": "Geld Family\nLogistics",
+        "color": "#8e6e52",
+        "entities": [
+            "Detective;Smugglers' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            488.5,
+            156.75
+        ]
+    },
+    {
+        "name": "Four Winds Bar",
+        "color": "#8c6c52",
+        "entities": [
+            "Detective;Passive;Muggers' Stakeout"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            453,
+            140.25
+        ]
+    },
+    {
+        "name": "Dusty Alley",
+        "color": "#566258",
+        "entities": [
+            "Combat;Zombie"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            441.5,
+            142
+        ]
+    },
+    {
+        "name": "Dusty Corner",
+        "color": "#566258",
+        "entities": [
+            "Combat;Zombie"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            437.5,
+            150.25
+        ]
+    },
+    {
+        "name": "Dusty Nook",
+        "color": "#566258",
+        "entities": [
+            "Combat;Passive;Brute"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            427.5,
+            143.75
+        ]
+    },
+    {
+        "name": "Twiddle\nCorner",
+        "color": "#556157",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            441,
+            133.75
+        ]
+    },
+    {
+        "name": "Cobble Corner",
+        "color": "#566258",
+        "entities": [
+            "Merchant;Balance;Hermar's Homeware",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            417.5,
+            129.5
+        ]
+    },
+    {
+        "name": "Lord's Road West",
+        "color": "#504844",
+        "entities": [
+            "Merchant;Balance;Butchers Stall",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            426.5,
+            117
+        ]
+    },
+    {
+        "name": "Bladrick's Armory",
+        "color": "#6a4a3e",
+        "entities": [
+            "Shop;Bladrick's Armory"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            420.5,
+            107.25
+        ]
+    },
+    {
+        "name": "Ratmen Den",
+        "color": "#3a4c6a",
+        "entities": [
+            "Combat;Passive;Ratman Chief"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            426.5,
+            95.75
+        ]
+    },
+    {
+        "name": "Rockbird Clearing",
+        "color": "#88743a",
+        "entities": [
+            "Combat;Passive;Rockbird"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            402.5,
+            102.5
+        ]
+    },
+    {
+        "name": "Fortunehold\nMeadow",
+        "color": "#838f44",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            394.5,
+            84.75
+        ]
+    },
+    {
+        "name": "Fortunehold Farm",
+        "color": "#8c8242",
+        "entities": [
+            "Merchant;Balance;Fortunehold Farm",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            405,
+            67
+        ]
+    },
+    {
+        "name": "Fortunehold",
+        "color": "#8e6e52",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            406,
+            55.25
+        ]
+    },
+    {
+        "name": "Lord's Road Central",
+        "color": "#504844",
+        "entities": [
+            "Merchant;Balance;Vase Stall",
+            "Merchant;Passive;Stall Assistant",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            446.5,
+            117
+        ]
+    },
+    {
+        "name": "Greengrocers",
+        "color": "#405e32",
+        "entities": [
+            "Merchant;Balance;Greengrocers",
+            "Merchant;Passive;Stall Assistant",
+            "Shop;Cabbage Stall",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            446,
+            125.25
+        ]
+    },
+    {
+        "name": "Stony\nRavine",
+        "color": "#957d42",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            383,
+            124.75
+        ]
+    },
+    {
+        "name": "Cyclops\nEast Pass",
+        "color": "#8b6d3a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            392.5,
+            125
+        ]
+    },
+    {
+        "name": "Road to\nCrenopolis",
+        "color": "#8f743e",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            397,
+            115.75
+        ]
+    },
+    {
+        "name": "Crenopolis\nOutskirts\nPortal Stone",
+        "color": "#787250",
+        "entities": [
+            "Portal_Stone;Portal Stone"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            395.75,
+            134.25
+        ]
+    },
+    {
+        "name": "Stony Gorge",
+        "color": "#8c6e3a",
+        "entities": [
+            "Combat;Sabertooth Tiger"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            376.5,
+            133.25
+        ]
+    },
+    {
+        "name": "Stony Canyon",
+        "color": "#8e723c",
+        "entities": [
+            "Combat;Sabertooth Tiger"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [
+            361,
+            133
+        ]
+    },
+    {
+        "name": "Cyclops\nCanyon",
+        "color": "#92763e",
+        "entities": [
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [
+            348.5,
+            132.75
+        ]
+    },
+    {
+        "name": "Unicorn Farm",
+        "color": "#867a3e",
+        "entities": [
+            "Merchant;Balance;Cheese Shop",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            350,
+            117.75
+        ]
+    },
+    {
+        "name": "Shrubby Canyon",
+        "color": "#896836",
+        "entities": [
+            "Combat;Passive;Gremlin"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [
+            335.5,
+            122.75
+        ]
+    },
+    {
+        "name": "Boulder\nCanyon",
+        "color": "#90753e",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            337.5,
+            132.25
+        ]
+    },
+    {
+        "name": "Rugged\nCanyon",
+        "color": "#947a40",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            330,
+            137.5
+        ]
+    },
+    {
+        "name": "Cyclops Store Cave",
+        "color": "#324c50",
+        "entities": [
+            "Merchant;Balance;Victor T Cyclops",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
+            361.5,
+            123.5
+        ]
+    },
+    {
+        "name": "Cyclops\nLiving Area",
+        "color": "#314b4f",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            371,
+            123
+        ]
+    },
+    {
+        "name": "Cyclops\nSleeping Cave",
+        "color": "#324c50",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            362,
+            115.75
+        ]
+    },
+    {
+        "name": "Goose Inn\nKitchen",
+        "color": "#626262",
+        "entities": [
+            "Merchant;Balance;Chef"
+        ],
+        "entity_colors": [
+            "merchant"
+        ],
+        "coordinates": [
+            490,
+            141.25
+        ]
+    },
+    {
+        "name": "Lord's Road New",
+        "color": "#504844",
+        "entities": [
+            "Shop;Leather Goods"
+        ],
+        "entity_colors": [
+            "leatherworker"
+        ],
+        "coordinates": [
+            478.5,
+            116.75
+        ]
+    },
+    {
+        "name": "West Gate",
+        "color": "#9a904a",
+        "entities": [
+            "Merchant;Venture;Cinnamon Sticks",
+            "Merchant;Venture;Grapes"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant"
+        ],
+        "coordinates": [
+            409.5,
+            117
+        ]
+    },
+    {
+        "name": "Abandoned\nAlleyway",
+        "color": "#2c4844",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            414,
+            83
+        ]
+    },
+    {
+        "name": "Gillad's House",
+        "color": "#32425e",
+        "entities": [
+            "Detective;Gangsters' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            482,
+            72.75
+        ]
+    },
+    {
+        "name": "The Quill Club",
+        "color": "#4c4638",
+        "entities": [
+            "Detective;Gangsters' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            485.5,
+            91.5
+        ]
+    },
+    {
+        "name": "Four Winds\nSide Room",
+        "color": "#a4825c",
+        "entities": [
+            "Detective;Muggers' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            468,
+            143.75
+        ]
+    },
+    {
+        "name": "Four Winds Backroom",
+        "color": "#524236",
+        "entities": [
+            "Detective;Muggers' Den"
+        ],
+        "entity_colors": [
+            "detective"
+        ],
+        "coordinates": [
+            453,
+            133
+        ]
+    }
+]

@@ -4,6 +4,7 @@ import json
 import math
 import re
 import os
+import glob
 
 Image.MAX_IMAGE_PIXELS = 1000000000
 
@@ -327,18 +328,31 @@ def convert_json_pixels_to_coordinates(links):
         link['coordinates'][1] = pixel_to_coordinate(link['coordinates'][1], math.ceil)
 
 
-def build_image(filepath, room_data):
+def build_image(filepath, room_folder):
     print('Parsing room data')
     map = Image.open(filepath)
     image = Image.new('RGBA', map.size, (0, 0, 0, 0))
     canvas = ImageDraw.Draw(image)
     links_json = []
     links_debug = set()
-    with open(room_data, 'r') as f:
-        rooms = json.load(f)
-    for i, room in enumerate(rooms):
+    
+    json_files = sorted(glob.glob(os.path.join(room_folder, "*.json")))
+    if not json_files:
+        raise FileNotFoundError(f"No JSON files found in {room_folder}")
+    print(f"Found {len(json_files)} JSON files: {json_files}")
+    
+    all_rooms = []
+    for jf in json_files:
+        with open(jf, 'r') as f:
+            rooms_part = json.load(f)
+            if not isinstance(rooms_part, list):
+                raise ValueError(f"{jf} is not an array of rooms.")
+            all_rooms.extend(rooms_part)
+    print(f"Total rooms: {len(all_rooms)}")
+    
+    for i, room in enumerate(all_rooms):
         if i % 20 == 0:
-            print(f'{100*i//len(rooms)}%')
+            print(f'{100*i//len(all_rooms)}%')
         link_json, link_debug = build_room(image, canvas, room)
         links_json.extend(link_json)
         links_debug.update(link_debug)
@@ -384,4 +398,4 @@ for filename in os.listdir(IMAGE_PATH):
             IMAGES[filename.split('.')[0]] = resized_image
 
 if __name__ == '__main__':
-    build_image(config.MAP_FILE, 'map_data/room_data.json')
+    build_image(config.MAP_FILE, 'map_data/episodes')
