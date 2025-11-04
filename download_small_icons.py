@@ -33,6 +33,7 @@ if __name__ == "__main__":
         'Gatherer',
         'Botanist',
         'Pump',
+        'Beehive',
         'Woodcutter',
         'Carpenter',
         'Minefighter',

@@ -52,6 +52,16 @@
         ]
     },
     {
+        "name": "Apiary",
+        "color": "#898D70",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            219.5,
+            105.5
+        ]
+    },
+    {
         "name": "Leafy Junction",
         "color": "#969454",
         "entities": [
@@ -78,12 +88,14 @@
         "color": "#968454",
         "entities": [
             "Combat;Bear",
+            "Beehive;Beehive",
             "Woodcutter;Yew",
             "Woodcutter;Passive;Yew",
             "Storage;Storage Rift"
         ],
         "entity_colors": [
             "neutral",
+            "botanist",
             "woodcutter",
             "woodcutter",
             "item"
@@ -126,6 +138,16 @@
         ],
         "coordinates": [
             214.5,
+            63.5
+        ]
+    },
+    {
+        "name": "Bee Cave",
+        "color": "#714C36",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            195,
             63.5
         ]
     },
@@ -310,8 +332,8 @@
     {
         "name": "Road to\nNowhere Much",
         "color": "#958354",
-        "entities": [],
-        "entity_colors": [],
+        "entities": ["Beehive;Beehive"],
+        "entity_colors": ["botanist"],
         "coordinates": [
             274.5,
             41.5
@@ -373,6 +395,26 @@
         "coordinates": [
             288.5,
             54.5
+        ]
+    },
+    {
+        "name": "Honeycomb Grove",
+        "color": "#837137",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            305,
+            48
+        ]
+    },
+    {
+        "name": "Honeycomb\nHeights",
+        "color": "#524236",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            300.5,
+            33.5
         ]
     },
     {
@@ -484,11 +526,13 @@
         "color": "#3c3e36",
         "entities": [
             "Pump;Water Pump",
+            "Beehive;Beehive",
             "Woodcutter;Suave",
             "Woodcutter;Passive;Suave",
             "Storage;Storage Rift"
         ],
         "entity_colors": [
+            "botanist",
             "botanist",
             "woodcutter",
             "woodcutter",
@@ -496,7 +540,7 @@
         ],
         "coordinates": [
             331.5,
-            83.5
+            84
         ]
     },
     {
@@ -603,6 +647,16 @@
         "coordinates": [
             307,
             103
+        ]
+    },
+    {
+        "name": "Nectar\nCrossing",
+        "color": "#8F7138",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            316,
+            107.5
         ]
     },
     {
@@ -802,10 +856,12 @@
         "color": "#929654",
         "entities": [
             "Combat;Passive;Wild Boar",
-            "Pump;Water Pump"
+            "Pump;Water Pump",
+            "Beehive;Beehive"
         ],
         "entity_colors": [
             "neutral",
+            "botanist",
             "botanist"
         ],
         "coordinates": [
@@ -961,11 +1017,13 @@
         "name": "Timberwell\nSide Road",
         "color": "#8e8442",
         "entities": [
+            "Beehive;Beehive",
             "Woodcutter;Ash",
             "Woodcutter;Passive;Ash",
             "Storage;Storage Rift"
         ],
         "entity_colors": [
+            "botanist",
             "woodcutter",
             "woodcutter",
             "item"
@@ -1253,11 +1311,13 @@
         "name": "Cliffside Path",
         "color": "#626a46",
         "entities": [
+            "Beehive;Beehive",
             "Woodcutter;Pine",
             "Woodcutter;Passive;Pine",
             "Storage;Storage Rift"
         ],
         "entity_colors": [
+            "botanist",
             "woodcutter",
             "woodcutter",
             "item"
