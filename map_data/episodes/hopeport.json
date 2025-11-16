@@ -701,14 +701,16 @@
         "name": "Scrapyard",
         "color": "#a5916b",
         "entities": [
-            "Shop;Scrap Merchant"
+            "Shop;Scrap Merchant",
+            "Bank;Ore and Ingots"
         ],
         "entity_colors": [
-            "forager"
+            "forager",
+            "miner"
         ],
         "coordinates": [
             83.5,
-            142.5
+            143.5
         ]
     },
     {
