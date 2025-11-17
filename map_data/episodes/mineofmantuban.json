@@ -24,8 +24,15 @@
         ],
         "coordinates": [
             323.5,
-            157.5
+            156.5
         ]
+    },
+    {
+        "name": "Excavation Site",
+        "color": "#345a7c",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [336, 153.5]
     },
     {
         "name": "Northwest\nMining Cavern",
@@ -512,6 +519,69 @@
         ]
     },
     {
+        "name": "Professor\nTepler's\nOffice",
+        "color": "#504236",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [314.5, 295.5]
+    },
+    {
+        "name": "Lower\nHidden Passage",
+        "color": "#30383e",
+        "entities": ["Combat;Floor Tentacle"],
+        "entity_colors": ["aggressive"],
+        "coordinates": [319, 306.75]
+    },
+    {
+        "name": "Upper\nHidden Passage",
+        "color": "#30383e",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [324, 320.5]
+    },
+    {
+        "name": "The Lost Lake",
+        "color": "#22262b",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [322.5, 338]
+    },
+    {
+        "name": "Calamari Causeway",
+        "color": "#22262b",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [304, 321.5]
+    },
+    {
+        "name": "Crumbling\nCauseway",
+        "color": "#22262b",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [302.5, 344.5]
+    },
+    {
+        "name": "Thermal\nSprings",
+        "color": "#22262b",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [311, 358]
+    },
+    {
+        "name": "Foreboding\nCauseway",
+        "color": "#22262b",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [325, 354.5]
+    },
+    {
+        "name": "Lashing Lagoon",
+        "color": "#101616",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [329, 380.5]
+    },
+    {
         "name": "Market\nTunnel",
         "color": "#464842",
         "entities": [
@@ -596,6 +666,13 @@
             351.75,
             250.75
         ]
+    },
+    {
+        "name": "Maintenance\nRoom",
+        "color": "#344d55",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [350, 240]
     },
     {
         "name": "Lost\nand\nFound",
@@ -1058,6 +1135,13 @@
             407,
             174
         ]
+    },
+    {
+        "name": "Mine Northeast\nPortal Stone",
+        "color": "#324854",
+        "entities": ["Portal_Stone;Portal Stone"],
+        "entity_colors": ["item"],
+        "coordinates": [404, 166]
     },
     {
         "name": "Mutant\nCockroaches",
