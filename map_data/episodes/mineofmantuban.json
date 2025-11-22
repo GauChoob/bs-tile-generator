@@ -535,8 +535,8 @@
     {
         "name": "Upper\nHidden Passage",
         "color": "#30383e",
-        "entities": [],
-        "entity_colors": [],
+        "entities": ["Storage;Storage Rift"],
+        "entity_colors": ["item"],
         "coordinates": [324, 320.5]
     },
     {
