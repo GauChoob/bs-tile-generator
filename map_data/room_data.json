@@ -3631,8 +3631,8 @@
             "item"
         ],
         "coordinates": [
-            371,
-            169.5
+            372,
+            168
         ]
     },
     {
@@ -4768,14 +4768,21 @@
         ]
     },
     {
-        "name": "Waltain's\nOffice",
+        "name": "Detectives'\nOffice",
         "color": "#4a463a",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
             459,
-            107.75
+            107
         ]
+    },
+    {
+        "name": "Waltain's\nOffice",
+        "color": "#4a463a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [460.5, 98.5]
     },
     {
         "name": "Guardhouse\nLobby",

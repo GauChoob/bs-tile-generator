@@ -422,16 +422,9 @@
     {
         "name": "Investigation Hall",
         "color": "#4b4738",
-        "entities": [
-            "Detective;Investigations"
-        ],
-        "entity_colors": [
-            "detective"
-        ],
-        "coordinates": [
-            465.5,
-            97.75
-        ]
+        "entities": ["Detective;Investigations"],
+        "entity_colors": ["detective"],
+        "coordinates": [466, 94]
     },
     {
         "name": "Dawkin Lane",
@@ -444,7 +437,7 @@
         ],
         "coordinates": [
             465,
-            86.25
+            85
         ]
     },
     {
@@ -722,14 +715,18 @@
         ]
     },
     {
+        "name": "Detectives'\nOffice",
+        "color": "#4a463a",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [459, 107]
+    },
+    {
         "name": "Waltain's\nOffice",
         "color": "#4a463a",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            459,
-            107.75
-        ]
+        "coordinates": [460.5, 99]
     },
     {
         "name": "Guardhouse\nLobby",
@@ -874,7 +871,7 @@
         "color": "#5d7a7a",
         "entities": [
             "Leatherworker;Tanning Stations",
-            "Bank;Hides"
+            "Bank;Hides$Hides Bank"
         ],
         "entity_colors": [
             "leatherworker",
@@ -963,7 +960,7 @@
         "entities": [
             "Shop;Hide Stall",
             "Detective;Spotting Thieves",
-            "Bank;Building Materials"
+            "Bank;Building Materials$Building Materials Bank"
         ],
         "entity_colors": [
             "leatherworker",
@@ -1073,7 +1070,7 @@
         "entities": [
             "Leatherworker;Passive;Knickknacks",
             "Leatherworker;Passive;Upholstery",
-            "Bank;Leathers"
+            "Bank;Leathers$Leathers Bank"
         ],
         "entity_colors": [
             "leatherworker",

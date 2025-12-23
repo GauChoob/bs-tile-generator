@@ -123,7 +123,7 @@
         "entities": [
             "Chef;Cooking Stations",
             "Chef;Passive;Fish Dishes",
-            "Bank;Ingredients",
+            "Bank;Ingredients$Ingredients Bank",
             "Shop;Head Chef",
             "Clipboard;Chef's Bounty Board"
         ],
@@ -143,7 +143,7 @@
         "name": "Apothecary",
         "color": "#628457",
         "entities": [
-            "Alchemist;Potion Stations",
+            "Alchemist;Potion Stations$Alchemist#Active_brewing",
             "Alchemist;Passive;Passive Potion Station",
             "Alchemist;Passive;Work for Ebsworth",
             "Bank;Potion Reagents",
@@ -265,7 +265,7 @@
         "name": "Melv's\nFishing Supplies",
         "color": "#725848",
         "entities": [
-            "Bank;Fishing Bait",
+            "Bank;Fishing Bait$Fishing Bait Bank",
             "Shop;Fishing Supplies"
         ],
         "entity_colors": [
@@ -702,7 +702,7 @@
         "color": "#a5916b",
         "entities": [
             "Shop;Scrap Merchant",
-            "Bank;Ore and Ingots"
+            "Bank;Ore and Ingots$Ore and Ingots Bank"
         ],
         "entity_colors": [
             "forager",
@@ -894,7 +894,7 @@
             "Combat;Carnivorous Plant",
             "Forager;Hogberries",
             "Forager;Potato",
-            "Bank;Monument Pieces",
+            "Bank;Monument Pieces$Monument Pieces Bank",
             "Shop;Fallen Monument"
         ],
         "entity_colors": [

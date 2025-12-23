@@ -279,7 +279,7 @@
         "color": "#345878",
         "entities": [
             "Shop;Grob's Armaments Purchasing",
-            "Bonewright;Bone Weapon Stations"
+            "Bonewright;Bone Weapon Stations$Bonewright#Brewing bones"
         ],
         "entity_colors": [
             "neutral",
@@ -406,7 +406,7 @@
         "entities": [
             "Shop;Dinko's Weapons",
             "Bank;Timber",
-            "Bank;Ore and Ingots",
+            "Bank;Ore and Ingots$Ore and Ingots Bank",
             "Blacksmith;Goblin Forge",
             "Blacksmith;Goblin Smelter"
         ],
@@ -1064,8 +1064,8 @@
             "item"
         ],
         "coordinates": [
-            371,
-            169.5
+            373,
+            168
         ]
     },
     {
@@ -1193,7 +1193,7 @@
         "entities": [
             "Shop;Lummock's Weaponry",
             "Bank;Timber",
-            "Bank;Ore and Ingots",
+            "Bank;Ore and Ingots$Ore and Ingots Bank",
             "Blacksmith;Gnome Forge",
             "Blacksmith;Gnome Smelter",
             "Blacksmith;Passive;Jewelry Bench"
