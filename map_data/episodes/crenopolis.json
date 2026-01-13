@@ -839,6 +839,41 @@
         ]
     },
     {
+        "name": "Liberty\nWalk",
+        "color": "#385652",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [557.5, 132]
+    },
+    {
+        "name": "Judge\nStreet",
+        "color": "#385652",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [566.75, 124.5]
+    },
+    {
+        "name": "Administrators'\nOffice",
+        "color": "#524236",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [576, 118.25]
+    },
+    {
+        "name": "Administrators'\nStudy",
+        "color": "#4A463A",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [587, 118.75]
+    },
+    {
+        "name": "Market\nPassage",
+        "color": "#324F49",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [562.5, 113.5]
+    },
+    {
         "name": "Market Chambers",
         "color": "#4a463a",
         "entities": [
