@@ -6,7 +6,7 @@
         "entity_colors": [],
         "coordinates": [
             495.5,
-            15.25
+            13.25
         ]
     },
     {
@@ -16,7 +16,7 @@
         "entity_colors": [],
         "coordinates": [
             495.5,
-            25.75
+            23.75
         ]
     },
     {
@@ -26,7 +26,7 @@
         "entity_colors": [],
         "coordinates": [
             495.5,
-            35.5
+            33.5
         ]
     },
     {
@@ -36,7 +36,7 @@
         "entity_colors": [],
         "coordinates": [
             519.5,
-            36
+            34
         ]
     },
     {
@@ -46,7 +46,7 @@
         "entity_colors": [],
         "coordinates": [
             528.5,
-            44
+            42
         ]
     },
     {
@@ -56,7 +56,7 @@
         "entity_colors": [],
         "coordinates": [
             519,
-            44
+            42
         ]
     },
     {
@@ -70,7 +70,7 @@
         ],
         "coordinates": [
             508,
-            43.75
+            41.75
         ]
     },
     {
@@ -80,7 +80,7 @@
         "entity_colors": [],
         "coordinates": [
             483.5,
-            38.25
+            36.25
         ]
     },
     {
@@ -90,7 +90,7 @@
         "entity_colors": [],
         "coordinates": [
             486.5,
-            46.5
+            44.5
         ]
     },
     {
@@ -100,7 +100,7 @@
         "entity_colors": [],
         "coordinates": [
             477,
-            46.75
+            44.75
         ]
     },
     {
@@ -114,7 +114,7 @@
         ],
         "coordinates": [
             507.5,
-            52.75
+            50.75
         ]
     },
     {
@@ -124,15 +124,15 @@
         "entity_colors": [],
         "coordinates": [
             507.5,
-            62.75
+            60.75
         ]
     },
     {
         "name": "Peacock Road North",
         "color": "#504644",
         "entities": [
-            "Merchant;Passive;Olives",
             "Merchant;Balance;Monocle Market",
+            "Merchant;Passive;Olives",
             "Merchant;Passive;Stall Assistant",
             "Shop;Olive Stall",
             "Detective;Spotting Thieves"
@@ -146,7 +146,7 @@
         ],
         "coordinates": [
             492,
-            57.5
+            55.5
         ]
     },
     {
@@ -156,7 +156,7 @@
         "entity_colors": [],
         "coordinates": [
             534.75,
-            56.25
+            54.25
         ]
     },
     {
@@ -166,7 +166,7 @@
         "entity_colors": [],
         "coordinates": [
             544.25,
-            65.25
+            63.25
         ]
     },
     {
@@ -176,7 +176,7 @@
         "entity_colors": [],
         "coordinates": [
             534.25,
-            65.25
+            63.25
         ]
     },
     {
@@ -186,7 +186,7 @@
         "entity_colors": [],
         "coordinates": [
             523.5,
-            63.25
+            61.25
         ]
     },
     {
@@ -196,7 +196,7 @@
         "entity_colors": [],
         "coordinates": [
             533,
-            74.25
+            72.25
         ]
     },
     {
@@ -206,7 +206,7 @@
         "entity_colors": [],
         "coordinates": [
             521,
-            76.75
+            74.75
         ]
     },
     {
@@ -220,7 +220,7 @@
         ],
         "coordinates": [
             507,
-            73.75
+            71.75
         ]
     },
     {
@@ -240,7 +240,7 @@
         ],
         "coordinates": [
             499.5,
-            80.5
+            78.5
         ]
     },
     {
@@ -256,7 +256,7 @@
         ],
         "coordinates": [
             512.5,
-            84.5
+            82.5
         ]
     },
     {
@@ -270,7 +270,7 @@
         ],
         "coordinates": [
             524.5,
-            93
+            91
         ]
     },
     {
@@ -284,7 +284,7 @@
         ],
         "coordinates": [
             508.5,
-            97.5
+            95.5
         ]
     },
     {
@@ -294,7 +294,7 @@
         "entity_colors": [],
         "coordinates": [
             533.25,
-            101.5
+            99.5
         ]
     },
     {
@@ -308,7 +308,7 @@
         ],
         "coordinates": [
             546.25,
-            98.25
+            96.25
         ]
     },
     {
@@ -325,8 +325,8 @@
             "detective"
         ],
         "coordinates": [
-            557,
-            106.5
+            558,
+            104.5
         ]
     },
     {
@@ -336,7 +336,7 @@
         "entity_colors": [],
         "coordinates": [
             544.5,
-            114.25
+            112.25
         ]
     },
     {
@@ -354,7 +354,7 @@
         ],
         "coordinates": [
             557.5,
-            121
+            119
         ]
     },
     {
@@ -372,7 +372,7 @@
         ],
         "coordinates": [
             533.25,
-            114.5
+            112.5
         ]
     },
     {
@@ -386,23 +386,25 @@
         ],
         "coordinates": [
             509.5,
-            105.75
+            103.75
         ]
     },
     {
         "name": "Peacock Road\nSouth",
         "color": "#504844",
         "entities": [
-            "Shop;Pearl Stall",
+            "Merchant;Balance;Pearl Stall",
+            "Merchant;Passive;Stall Assistant",
             "Detective;Spotting Thieves"
         ],
         "entity_colors": [
+            "merchant",
             "merchant",
             "detective"
         ],
         "coordinates": [
             492.5,
-            99.75
+            97.75
         ]
     },
     {
@@ -416,15 +418,24 @@
         ],
         "coordinates": [
             480.5,
-            97.75
+            95.75
         ]
     },
     {
         "name": "Investigation Hall",
         "color": "#4b4738",
-        "entities": ["Detective;Investigations"],
-        "entity_colors": ["detective"],
-        "coordinates": [466, 94]
+        "entities": [
+            "Detective;Investigations",
+            "Clipboard;Investigations Board"
+        ],
+        "entity_colors": [
+            "detective",
+            "detective"
+        ],
+        "coordinates": [
+            467,
+            92
+        ]
     },
     {
         "name": "Dawkin Lane",
@@ -437,7 +448,7 @@
         ],
         "coordinates": [
             465,
-            85
+            84.75
         ]
     },
     {
@@ -453,7 +464,7 @@
         ],
         "coordinates": [
             475,
-            80.75
+            78.75
         ]
     },
     {
@@ -471,7 +482,7 @@
         ],
         "coordinates": [
             460.25,
-            77.5
+            75.5
         ]
     },
     {
@@ -481,7 +492,7 @@
         "entity_colors": [],
         "coordinates": [
             449.5,
-            70.75
+            68.75
         ]
     },
     {
@@ -495,7 +506,7 @@
         ],
         "coordinates": [
             449.5,
-            62.5
+            60.5
         ]
     },
     {
@@ -509,7 +520,7 @@
         ],
         "coordinates": [
             449.5,
-            55
+            53
         ]
     },
     {
@@ -523,7 +534,7 @@
         ],
         "coordinates": [
             463,
-            53.75
+            51.75
         ]
     },
     {
@@ -537,7 +548,7 @@
         ],
         "coordinates": [
             458.5,
-            41.75
+            39.75
         ]
     },
     {
@@ -547,7 +558,7 @@
         "entity_colors": [],
         "coordinates": [
             464,
-            31.75
+            29
         ]
     },
     {
@@ -560,8 +571,8 @@
             "neutral"
         ],
         "coordinates": [
-            440,
-            55
+            439.5,
+            53
         ]
     },
     {
@@ -575,7 +586,7 @@
         ],
         "coordinates": [
             426.5,
-            55
+            53
         ]
     },
     {
@@ -589,7 +600,7 @@
         ],
         "coordinates": [
             427.5,
-            44.25
+            42.25
         ]
     },
     {
@@ -603,7 +614,7 @@
         ],
         "coordinates": [
             434,
-            70.5
+            68.5
         ]
     },
     {
@@ -623,17 +634,17 @@
         ],
         "coordinates": [
             425,
-            79
+            77
         ]
     },
     {
-        "name": "Murkwell Court",
-        "color": "#2e4a46",
+        "name": "Murkwell\nCourt",
+        "color": "#605040",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
             439,
-            84.25
+            81.75
         ]
     },
     {
@@ -643,7 +654,7 @@
         "entity_colors": [],
         "coordinates": [
             452.5,
-            86
+            84
         ]
     },
     {
@@ -652,8 +663,8 @@
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            457,
-            91.25
+            457.5,
+            89.25
         ]
     },
     {
@@ -663,7 +674,7 @@
         "entity_colors": [],
         "coordinates": [
             448,
-            93.25
+            91.25
         ]
     },
     {
@@ -677,7 +688,7 @@
         ],
         "coordinates": [
             442,
-            99.5
+            97.5
         ]
     },
     {
@@ -695,7 +706,7 @@
         ],
         "coordinates": [
             437.5,
-            108
+            107
         ]
     },
     {
@@ -711,22 +722,22 @@
         ],
         "coordinates": [
             448.5,
-            107.5
+            105.5
         ]
     },
     {
         "name": "Detectives'\nOffice",
         "color": "#4a463a",
-        "entities": [],
-        "entity_colors": [],
-        "coordinates": [459, 107]
+        "entities": ["Detective;Passive;Crime Map"],
+        "entity_colors": ["detective"],
+        "coordinates": [458.25, 105]
     },
     {
         "name": "Waltain's\nOffice",
         "color": "#4a463a",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [460.5, 99]
+        "coordinates": [460.5, 97]
     },
     {
         "name": "Guardhouse\nLobby",
@@ -739,7 +750,7 @@
         ],
         "coordinates": [
             468,
-            107.5
+            105.5
         ]
     },
     {
@@ -753,34 +764,16 @@
         ],
         "coordinates": [
             481,
-            107.75
+            105.75
         ]
     },
     {
         "name": "Thadwick Square",
         "color": "#524844",
         "entities": [
+            "Shop;Soft Leather Stall",
             "Merchant;Balance;Hallig's Street Food",
-            "Merchant;Passive;Stall Assistant",
-            "Detective;Spotting Thieves"
-        ],
-        "entity_colors": [
-            "merchant",
-            "merchant",
-            "detective"
-        ],
-        "coordinates": [
-            492.5,
-            116.75
-        ]
-    },
-    {
-        "name": "Outer Market",
-        "color": "#3a5854",
-        "entities": [
-            "Shop;Leather Stall",
-            "Merchant;Passive;Leather Offcuts$Leather Offcuts (activity)",
-            "Merchant;Balance;Souvenir Stall",
+            "Merchant;Passive;Soft Leather Offcuts",
             "Merchant;Passive;Stall Assistant",
             "Detective;Spotting Thieves"
         ],
@@ -792,8 +785,30 @@
             "detective"
         ],
         "coordinates": [
+            492.5,
+            114.75
+        ]
+    },
+    {
+        "name": "Outer Market",
+        "color": "#3a5854",
+        "entities": [
+            "Shop;Tough Leather Stall",
+            "Merchant;Balance;Souvenir Stall",
+            "Merchant;Passive;Stall Assistant",
+            "Merchant;Passive;Tough Leather Offcuts",
+            "Detective;Spotting Thieves"
+        ],
+        "entity_colors": [
+            "leatherworker",
+            "merchant",
+            "merchant",
+            "merchant",
+            "detective"
+        ],
+        "coordinates": [
             508.5,
-            116.75
+            114.75
         ]
     },
     {
@@ -807,21 +822,23 @@
         ],
         "coordinates": [
             519,
-            125.5
+            123
         ]
     },
     {
         "name": "South Player Market",
         "color": "#44605c",
         "entities": [
+            "Clipboard;Balance;Express Bounty Board",
             "Detective;Passive;Burglars' Stakeout"
         ],
         "entity_colors": [
+            "merchant",
             "detective"
         ],
         "coordinates": [
             531.75,
-            129.5
+            127.5
         ]
     },
     {
@@ -835,7 +852,7 @@
         ],
         "coordinates": [
             544.75,
-            133.25
+            131.25
         ]
     },
     {
@@ -843,35 +860,42 @@
         "color": "#385652",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [557.5, 132]
+        "coordinates": [557.5, 130]
+    },
+    {
+        "name": "Prison Entrance",
+        "color": "#49463A",
+        "entities": ["Detective;Passive;Booking Prisoners"],
+        "entity_colors": ["detective"],
+        "coordinates": [562.5, 141.5]
     },
     {
         "name": "Judge\nStreet",
         "color": "#385652",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [566.75, 124.5]
+        "coordinates": [566.75, 122.5]
     },
     {
         "name": "Administrators'\nOffice",
         "color": "#524236",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [576, 118.25]
+        "coordinates": [576, 116.25]
     },
     {
         "name": "Administrators'\nStudy",
         "color": "#4A463A",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [587, 118.75]
+        "coordinates": [587, 116.75]
     },
     {
         "name": "Market\nPassage",
         "color": "#324F49",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [562.5, 113.5]
+        "coordinates": [562.5, 111.5]
     },
     {
         "name": "Market Chambers",
@@ -884,7 +908,7 @@
         ],
         "coordinates": [
             534.25,
-            140.5
+            138.5
         ]
     },
     {
@@ -898,7 +922,7 @@
         ],
         "coordinates": [
             532.5,
-            152.25
+            150.25
         ]
     },
     {
@@ -914,7 +938,7 @@
         ],
         "coordinates": [
             532.25,
-            166.5
+            164.5
         ]
     },
     {
@@ -928,12 +952,12 @@
         ],
         "coordinates": [
             526.25,
-            179.5
+            177.5
         ]
     },
     {
         "name": "Smuggler's Cove",
-        "color": "#7c6937",
+        "color": "#B39D66",
         "entities": [
             "Combat;Passive;Giant Slug"
         ],
@@ -941,39 +965,51 @@
             "neutral"
         ],
         "coordinates": [
-            528.25,
-            192
+            529,
+            189.5
         ]
     },
     {
         "name": "Pier One",
-        "color": "#2c2c2c",
+        "color": "#42403C",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            506,
+            509,
             183.5
         ]
     },
     {
         "name": "Pier Two",
-        "color": "#90320a",
+        "color": "#75533C",
         "entities": [
-            "Merchant;Venture;Bricks",
             "Merchant;Venture;Tiles"
         ],
         "entity_colors": [
-            "merchant",
             "merchant"
         ],
         "coordinates": [
-            489.5,
-            183.5
+            488.5,
+            184.5
+        ]
+    },
+    {
+        "name": "Pier Three",
+        "color": "#5C5460",
+        "entities": [
+            "Merchant;Venture;Bricks"
+        ],
+        "entity_colors": [
+            "merchant"
+        ],
+        "coordinates": [
+            473.5,
+            184.5
         ]
     },
     {
         "name": "Tanners Road",
-        "color": "#646854",
+        "color": "#807862",
         "entities": [
             "Merchant;Balance;Toy Stall",
             "Merchant;Passive;Stall Assistant",
@@ -986,7 +1022,7 @@
         ],
         "coordinates": [
             515,
-            168.25
+            166.25
         ]
     },
     {
@@ -1004,7 +1040,7 @@
         ],
         "coordinates": [
             498,
-            168
+            166
         ]
     },
     {
@@ -1026,7 +1062,7 @@
         ],
         "coordinates": [
             480.5,
-            168.25
+            166.25
         ]
     },
     {
@@ -1036,7 +1072,7 @@
         "entity_colors": [],
         "coordinates": [
             467.5,
-            166.5
+            164.5
         ]
     },
     {
@@ -1050,25 +1086,29 @@
         ],
         "coordinates": [
             473.5,
-            156.75
+            154.75
         ]
     },
     {
         "name": "Bobbin Road South",
         "color": "#304e4a",
         "entities": [
+            "Shop;Cow Leather Stall",
             "Merchant;Balance;Candice's Candles",
+            "Merchant;Passive;Cow Leather Offcuts",
             "Merchant;Passive;Stall Assistant",
             "Detective;Spotting Thieves"
         ],
         "entity_colors": [
+            "leatherworker",
+            "merchant",
             "merchant",
             "merchant",
             "detective"
         ],
         "coordinates": [
             501.75,
-            151
+            149
         ]
     },
     {
@@ -1096,25 +1136,29 @@
         ],
         "coordinates": [
             509.25,
-            143
+            142
         ]
     },
     {
         "name": "Leatherworks",
         "color": "#504238",
         "entities": [
+            "Leatherworker;Passive;Book Binding",
             "Leatherworker;Passive;Knickknacks",
-            "Leatherworker;Passive;Upholstery",
+            "Leatherworker;Passive;Large Upholstery",
+            "Leatherworker;Passive;Small Upholstery",
             "Bank;Leathers$Leathers Bank"
         ],
         "entity_colors": [
+            "leatherworker",
+            "leatherworker",
             "leatherworker",
             "leatherworker",
             "leatherworker"
         ],
         "coordinates": [
             505,
-            136
+            134
         ]
     },
     {
@@ -1128,7 +1172,7 @@
         ],
         "coordinates": [
             522.5,
-            135.5
+            133.5
         ]
     },
     {
@@ -1138,7 +1182,7 @@
         "entity_colors": [],
         "coordinates": [
             495.25,
-            131.5
+            129.5
         ]
     },
     {
@@ -1148,7 +1192,7 @@
         "entity_colors": [],
         "coordinates": [
             487,
-            131
+            129
         ]
     },
     {
@@ -1158,7 +1202,7 @@
         "entity_colors": [],
         "coordinates": [
             476,
-            135.5
+            133.5
         ]
     },
     {
@@ -1168,7 +1212,7 @@
         "entity_colors": [],
         "coordinates": [
             477.25,
-            125.5
+            123.5
         ]
     },
     {
@@ -1184,7 +1228,7 @@
         ],
         "coordinates": [
             466.5,
-            131
+            128
         ]
     },
     {
@@ -1204,7 +1248,7 @@
         ],
         "coordinates": [
             464.5,
-            116.25
+            114.25
         ]
     },
     {
@@ -1220,7 +1264,7 @@
         ],
         "coordinates": [
             454.25,
-            156.5
+            154.5
         ]
     },
     {
@@ -1230,7 +1274,7 @@
         "entity_colors": [],
         "coordinates": [
             453.5,
-            149.5
+            147.5
         ]
     },
     {
@@ -1240,7 +1284,7 @@
         "entity_colors": [],
         "coordinates": [
             467,
-            149.5
+            147.5
         ]
     },
     {
@@ -1256,7 +1300,7 @@
         ],
         "coordinates": [
             482,
-            148
+            146
         ]
     },
     {
@@ -1270,7 +1314,7 @@
         ],
         "coordinates": [
             488.5,
-            156.75
+            154.75
         ]
     },
     {
@@ -1284,7 +1328,7 @@
         ],
         "coordinates": [
             453,
-            140.25
+            138.25
         ]
     },
     {
@@ -1298,7 +1342,7 @@
         ],
         "coordinates": [
             441.5,
-            142
+            140
         ]
     },
     {
@@ -1312,7 +1356,7 @@
         ],
         "coordinates": [
             437.5,
-            150.25
+            148.25
         ]
     },
     {
@@ -1326,17 +1370,23 @@
         ],
         "coordinates": [
             427.5,
-            143.75
+            141.75
         ]
     },
     {
-        "name": "Twiddle\nCorner",
+        "name": "Twiddle Corner",
         "color": "#556157",
-        "entities": [],
-        "entity_colors": [],
+        "entities": [
+            "Merchant;Balance;Cabbage Stall",
+            "Merchant;Passive;Stall Assistant"
+        ],
+        "entity_colors": [
+            "merchant",
+            "merchant"
+        ],
         "coordinates": [
-            441,
-            133.75
+            433,
+            130.5
         ]
     },
     {
@@ -1354,7 +1404,7 @@
         ],
         "coordinates": [
             417.5,
-            129.5
+            127.5
         ]
     },
     {
@@ -1372,7 +1422,7 @@
         ],
         "coordinates": [
             426.5,
-            117
+            115
         ]
     },
     {
@@ -1386,7 +1436,7 @@
         ],
         "coordinates": [
             420.5,
-            107.25
+            105.25
         ]
     },
     {
@@ -1400,12 +1450,12 @@
         ],
         "coordinates": [
             426.5,
-            95.75
+            93.75
         ]
     },
     {
         "name": "Rockbird Clearing",
-        "color": "#88743a",
+        "color": "#838F43",
         "entities": [
             "Combat;Passive;Rockbird"
         ],
@@ -1414,7 +1464,7 @@
         ],
         "coordinates": [
             402.5,
-            102.5
+            100
         ]
     },
     {
@@ -1424,12 +1474,12 @@
         "entity_colors": [],
         "coordinates": [
             394.5,
-            84.75
+            82.5
         ]
     },
     {
         "name": "Fortunehold Farm",
-        "color": "#8c8242",
+        "color": "#959354",
         "entities": [
             "Merchant;Balance;Fortunehold Farm",
             "Detective;Spotting Thieves"
@@ -1440,17 +1490,17 @@
         ],
         "coordinates": [
             405,
-            67
+            65
         ]
     },
     {
         "name": "Fortunehold",
-        "color": "#8e6e52",
+        "color": "#5F4F40",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
             406.5,
-            53
+            51
         ]
     },
     {
@@ -1468,7 +1518,7 @@
         ],
         "coordinates": [
             446.5,
-            117
+            115
         ]
     },
     {
@@ -1477,53 +1527,51 @@
         "entities": [
             "Merchant;Balance;Greengrocers",
             "Merchant;Passive;Stall Assistant",
-            "Shop;Cabbage Stall",
             "Detective;Spotting Thieves"
         ],
         "entity_colors": [
-            "merchant",
             "merchant",
             "merchant",
             "detective"
         ],
         "coordinates": [
             446,
-            125.25
+            123.25
         ]
     },
     {
         "name": "Stony\nRavine",
-        "color": "#957d42",
+        "color": "#626A46",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            383,
-            124.75
+            382.5,
+            122
         ]
     },
     {
         "name": "Cyclops\nEast Pass",
-        "color": "#8b6d3a",
+        "color": "#626A46",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            392.5,
-            125
+            392,
+            122.5
         ]
     },
     {
         "name": "Road to\nCrenopolis",
-        "color": "#8f743e",
+        "color": "#626A46",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            397,
-            115.75
+            397.5,
+            113.5
         ]
     },
     {
         "name": "Crenopolis\nOutskirts\nPortal Stone",
-        "color": "#787250",
+        "color": "#626A46",
         "entities": [
             "Portal_Stone;Portal Stone"
         ],
@@ -1531,13 +1579,13 @@
             "item"
         ],
         "coordinates": [
-            395.75,
-            134.25
+            397,
+            134
         ]
     },
     {
         "name": "Stony Gorge",
-        "color": "#8c6e3a",
+        "color": "#696547",
         "entities": [
             "Combat;Sabertooth Tiger"
         ],
@@ -1546,12 +1594,12 @@
         ],
         "coordinates": [
             376.5,
-            133.25
+            131.5
         ]
     },
     {
         "name": "Stony Canyon",
-        "color": "#8e723c",
+        "color": "#696547",
         "entities": [
             "Combat;Sabertooth Tiger"
         ],
@@ -1560,12 +1608,12 @@
         ],
         "coordinates": [
             361,
-            133
+            131
         ]
     },
     {
         "name": "Cyclops\nCanyon",
-        "color": "#92763e",
+        "color": "#696547",
         "entities": [
             "Storage;Storage Rift"
         ],
@@ -1574,12 +1622,12 @@
         ],
         "coordinates": [
             348.5,
-            132.75
+            130.75
         ]
     },
     {
         "name": "Unicorn Farm",
-        "color": "#867a3e",
+        "color": "#838F43",
         "entities": [
             "Merchant;Balance;Cheese Shop",
             "Detective;Spotting Thieves"
@@ -1589,13 +1637,13 @@
             "detective"
         ],
         "coordinates": [
-            350,
-            117.75
+            350.5,
+            114
         ]
     },
     {
         "name": "Shrubby Canyon",
-        "color": "#896836",
+        "color": "#696547",
         "entities": [
             "Combat;Passive;Gremlin"
         ],
@@ -1604,32 +1652,32 @@
         ],
         "coordinates": [
             335.5,
-            122.75
+            120.75
         ]
     },
     {
         "name": "Boulder\nCanyon",
-        "color": "#90753e",
+        "color": "#696547",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
             337.5,
-            132.25
+            130
         ]
     },
     {
         "name": "Rugged\nCanyon",
-        "color": "#947a40",
+        "color": "#696547",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
             330,
-            137.5
+            135.5
         ]
     },
     {
         "name": "Cyclops Store Cave",
-        "color": "#324c50",
+        "color": "#4E5A62",
         "entities": [
             "Merchant;Balance;Victor T Cyclops",
             "Detective;Spotting Thieves"
@@ -1640,27 +1688,27 @@
         ],
         "coordinates": [
             361.5,
-            123.5
+            125
         ]
     },
     {
         "name": "Cyclops\nLiving Area",
-        "color": "#314b4f",
+        "color": "#4E5A62",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            371,
-            123
+            372,
+            121
         ]
     },
     {
         "name": "Cyclops\nSleeping Cave",
-        "color": "#324c50",
+        "color": "#4E5A62",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
             362,
-            115.75
+            113.75
         ]
     },
     {
@@ -1674,7 +1722,7 @@
         ],
         "coordinates": [
             490,
-            141.25
+            139.25
         ]
     },
     {
@@ -1688,7 +1736,7 @@
         ],
         "coordinates": [
             478.5,
-            116.75
+            114.75
         ]
     },
     {
@@ -1704,7 +1752,7 @@
         ],
         "coordinates": [
             409.5,
-            117
+            115
         ]
     },
     {
@@ -1714,7 +1762,7 @@
         "entity_colors": [],
         "coordinates": [
             414,
-            83
+            81
         ]
     },
     {
@@ -1727,8 +1775,8 @@
             "detective"
         ],
         "coordinates": [
-            482,
-            72.75
+            484,
+            70.75
         ]
     },
     {
@@ -1742,7 +1790,7 @@
         ],
         "coordinates": [
             485.5,
-            91.5
+            89
         ]
     },
     {
@@ -1756,7 +1804,7 @@
         ],
         "coordinates": [
             468,
-            143.75
+            141.75
         ]
     },
     {
@@ -1770,7 +1818,7 @@
         ],
         "coordinates": [
             453,
-            133
+            131
         ]
     }
 ]

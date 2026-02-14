@@ -73,7 +73,7 @@
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            132.5,
+            135,
             82.5
         ]
     },
@@ -123,11 +123,13 @@
         "entities": [
             "Chef;Cooking Stations",
             "Chef;Passive;Fish Dishes",
+            "Bank;Cooked Meals$Cooked Meals Bank",
             "Bank;Ingredients$Ingredients Bank",
             "Shop;Head Chef",
             "Clipboard;Chef's Bounty Board"
         ],
         "entity_colors": [
+            "chef",
             "chef",
             "chef",
             "chef",
@@ -265,7 +267,7 @@
         "name": "Melv's\nFishing Supplies",
         "color": "#725848",
         "entities": [
-            "Bank;Fishing Bait$Fishing Bait Bank",
+            "Bank;Fishing Supplies$Fishing Supplies Bank",
             "Shop;Fishing Supplies"
         ],
         "entity_colors": [
@@ -304,7 +306,7 @@
         ],
         "coordinates": [
             136,
-            115.5
+            116
         ]
     },
     {
@@ -455,16 +457,14 @@
         "name": "Little Square",
         "color": "#a6926c",
         "entities": [
-            "Forager;Passive;Feather",
-            "Forager;Passive;Sprey"
+            "Forager;Passive;Feather"
         ],
         "entity_colors": [
-            "forager",
             "forager"
         ],
         "coordinates": [
-            139.5,
-            148.5
+            146.5,
+            142.5
         ]
     },
     {
@@ -492,7 +492,7 @@
         ],
         "coordinates": [
             155,
-            148
+            152.5
         ]
     },
     {
@@ -505,7 +505,7 @@
             "aggressive"
         ],
         "coordinates": [
-            150.5,
+            142.5,
             153.5
         ]
     },
@@ -553,8 +553,8 @@
             "fisher"
         ],
         "coordinates": [
-            125.5,
-            147.5
+            123,
+            144.5
         ]
     },
     {
@@ -706,7 +706,7 @@
         ],
         "entity_colors": [
             "forager",
-            "miner"
+            "blacksmith"
         ],
         "coordinates": [
             83.5,
@@ -792,7 +792,7 @@
         "color": "#bb8f55",
         "entities": [
             "Fisher;Cod",
-            "Forager;Bone Spike",
+            "Forager;Monument Jade",
             "Forager;Starfish"
         ],
         "entity_colors": [
@@ -810,8 +810,8 @@
         "color": "#587575",
         "entities": [
             "Fisher;Ray",
-            "Forager;Bone Spike",
             "Forager;Limpet",
+            "Forager;Monument Jade",
             "Storage;Storage Rift"
         ],
         "entity_colors": [
@@ -836,20 +836,26 @@
         ]
     },
     {
-        "name": "Island\nHideout",
+        "name": "Island Hideout",
         "color": "#c3a364",
-        "entities": [],
-        "entity_colors": [],
+        "entities": ["Forager;Wrack"],
+        "entity_colors": ["forager"],
         "coordinates": [
             -21,
-            148
+            148.5
         ]
     },
     {
-        "name": "Hideout\nStorage\nArea",
+        "name": "Hideout\nStorage Area",
         "color": "#70644e",
-        "entities": [],
-        "entity_colors": [],
+        "entities": [
+            "Forager;Wrack",
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "forager",
+            "item"
+        ],
         "coordinates": [
             -16,
             127
@@ -905,8 +911,8 @@
             "forager"
         ],
         "coordinates": [
-            28,
-            144
+            28.5,
+            145
         ]
     },
     {
@@ -915,23 +921,21 @@
         "entities": [
             "Combat;Carnivorous Plant",
             "Forager;Potato",
-            "Forager;Passive;Sheep Rib",
-            "Forager;Passive;Worms"
+            "Forager;Passive;Sheep Rib"
         ],
         "entity_colors": [
             "neutral",
             "forager",
-            "forager",
             "forager"
         ],
         "coordinates": [
-            50.5,
+            50,
             146.5
         ]
     },
     {
         "name": "Overgrown Pond",
-        "color": "#899548",
+        "color": "#505E4A",
         "entities": [
             "Combat;Passive;Bugman",
             "Forager;Goat Horn",
@@ -953,10 +957,12 @@
         "entities": [
             "Combat;Hairbeast",
             "Forager;Goat Horn",
-            "Forager;Water Lily"
+            "Forager;Water Lily",
+            "Forager;Passive;Moth Wing"
         ],
         "entity_colors": [
             "neutral",
+            "forager",
             "forager",
             "forager"
         ],
@@ -1026,12 +1032,12 @@
         ]
     },
     {
-        "name": "Collapsed Hovels",
-        "color": "#949651",
+        "name": "Collapsed\nHovels",
+        "color": "#8F874A",
         "entities": [
             "Combat;Ghoul",
-            "Forager;Passive;Maggots",
-            "Forager;Passive;Moth Wing"
+            "Forager;Bone Spike",
+            "Forager;Passive;Maggots"
         ],
         "entity_colors": [
             "aggressive",
@@ -1039,7 +1045,7 @@
             "forager"
         ],
         "coordinates": [
-            20,
+            37,
             88
         ]
     },
@@ -1047,7 +1053,7 @@
         "name": "Wild Path",
         "color": "#89794a",
         "entities": [
-            "Forager;Femur Shard",
+            "Forager;Bone Spike",
             "Storage;Storage Rift"
         ],
         "entity_colors": [
@@ -1056,20 +1062,22 @@
         ],
         "coordinates": [
             30.25,
-            75
+            72
         ]
     },
     {
         "name": "Salmon Falls",
-        "color": "#89794a",
+        "color": "#87704A",
         "entities": [
+            "Fisher;Salmon",
             "Forager;Bellplant"
         ],
         "entity_colors": [
+            "fisher",
             "forager"
         ],
         "coordinates": [
-            43.5,
+            45,
             78
         ]
     },
@@ -1077,9 +1085,13 @@
         "name": "Disused Path",
         "color": "#876f4a",
         "entities": [
-            "Forager;Bellplant"
+            "Fisher;Salmon",
+            "Forager;Bellplant",
+            "Forager;Passive;Sprey"
         ],
         "entity_colors": [
+            "fisher",
+            "forager",
             "forager"
         ],
         "coordinates": [
@@ -1107,9 +1119,13 @@
         "name": "Stony Coast",
         "color": "#bb8f56",
         "entities": [
-            "Forager;Wrack"
+            "Fisher;Sardines",
+            "Forager;Femur Shard",
+            "Forager;Shark Jaw"
         ],
         "entity_colors": [
+            "fisher",
+            "forager",
             "forager"
         ],
         "coordinates": [
@@ -1121,10 +1137,12 @@
         "name": "Scruffy Shoreline",
         "color": "#ba8f56",
         "entities": [
+            "Fisher;Sardines",
             "Forager;Rams Horn",
-            "Forager;Wrack"
+            "Forager;Shark Jaw"
         ],
         "entity_colors": [
+            "fisher",
             "forager",
             "forager"
         ],
@@ -1153,13 +1171,17 @@
         "name": "Scruffy\nScrubland",
         "color": "#856a4c",
         "entities": [
-            "Forager;Nettle"
+            "Fisher;Trout",
+            "Forager;Nettle",
+            "Forager;Passive;Worms"
         ],
         "entity_colors": [
+            "fisher",
+            "forager",
             "forager"
         ],
         "coordinates": [
-            19.5,
+            18.5,
             49
         ]
     },

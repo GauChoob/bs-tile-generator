@@ -64,5 +64,6 @@ if __name__ == "__main__":
         'Shop',
         'Storage',
         'Venture',
+        'Minecart',
     ]
     download_images(images)

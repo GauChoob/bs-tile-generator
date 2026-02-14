@@ -3,14 +3,16 @@
         "name": "Mine Back\nEntrance",
         "color": "#345a7c",
         "entities": [
-            "Combat;Minecrawler"
+            "Combat;Minecrawler",
+            "Miner;Minecart;Cart Terminus"
         ],
         "entity_colors": [
-            "neutral"
+            "neutral",
+            "miner"
         ],
         "coordinates": [
-            310,
-            157.5
+            311.5,
+            156.5
         ]
     },
     {
@@ -23,28 +25,43 @@
             "neutral"
         ],
         "coordinates": [
-            323.5,
-            156.5
+            326.5,
+            156
         ]
+    },
+    {
+        "name": "Horseshoe Hollow",
+        "color": "#365A7B",
+        "entities": [
+            "Miner;Minecart;Horseshoes Station",
+            "Blacksmith;Horseshoe Forge"
+        ],
+        "entity_colors": [
+            "miner",
+            "blacksmith"
+        ],
+        "coordinates": [327, 146]
     },
     {
         "name": "Excavation Site",
         "color": "#345a7c",
-        "entities": [],
-        "entity_colors": [],
-        "coordinates": [336, 153.5]
+        "entities": ["Miner;Minecart;Gravel Station"],
+        "entity_colors": ["miner"],
+        "coordinates": [338.5, 156]
     },
     {
         "name": "Northwest\nMining Cavern",
         "color": "#2a4c68",
         "entities": [
-            "Miner;Passive;Limestone"
+            "Miner;Passive;Limestone",
+            "Miner;Minecart;Limestone Station"
         ],
         "entity_colors": [
+            "miner",
             "miner"
         ],
         "coordinates": [
-            322,
+            325,
             171.25
         ]
     },
@@ -52,13 +69,13 @@
         "name": "Mine Cart Cave",
         "color": "#325473",
         "entities": [
-            "Miner;Mine Cart Work"
+            "Miner;Minecart;Cart Depot"
         ],
         "entity_colors": [
             "miner"
         ],
         "coordinates": [
-            310,
+            313,
             165
         ]
     },
@@ -72,7 +89,7 @@
             "miner"
         ],
         "coordinates": [
-            328.5,
+            333.5,
             163.5
         ]
     },
@@ -80,13 +97,15 @@
         "name": "North Mining\nCavern",
         "color": "#2c4c69",
         "entities": [
-            "Miner;Basalt"
+            "Miner;Basalt",
+            "Miner;Minecart;Basalt Station"
         ],
         "entity_colors": [
+            "miner",
             "miner"
         ],
         "coordinates": [
-            340,
+            344,
             165
         ]
     },
@@ -94,16 +113,22 @@
         "name": "Cave of the Past",
         "color": "#2a4a68",
         "entities": [
-            "Bonewright;Passive;Fossil Assembly",
+            "Bonewright;Passive;Dinosaur Fossil Assembly",
+            "Bonewright;Passive;Mammal Fossil Assembly",
+            "Bonewright;Passive;Spooky Fossil Assembly",
+            "Miner;Minecart;Fossils Station",
             "Storage;Storage Rift"
         ],
         "entity_colors": [
             "bonewright",
+            "bonewright",
+            "bonewright",
+            "miner",
             "item"
         ],
         "coordinates": [
-            353,
-            159.5
+            360,
+            161
         ]
     },
     {
@@ -112,7 +137,7 @@
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            332,
+            336,
             172.5
         ]
     },
@@ -128,21 +153,23 @@
             "miner"
         ],
         "coordinates": [
-            332.5,
-            182.25
+            335,
+            182
         ]
     },
     {
         "name": "Ratty Terminus",
         "color": "#2a4c68",
         "entities": [
-            "Combat;Passive;Giant Rat"
+            "Combat;Passive;Giant Rat",
+            "Miner;Minecart;Nickel Station"
         ],
         "entity_colors": [
-            "neutral"
+            "neutral",
+            "miner"
         ],
         "coordinates": [
-            328.5,
+            332,
             191
         ]
     },
@@ -150,23 +177,25 @@
         "name": "Abandoned\nMining\nCavern",
         "color": "#325676",
         "entities": [
-            "Miner;Flint"
+            "Miner;Flint",
+            "Miner;Minecart;Flint Station"
         ],
         "entity_colors": [
+            "miner",
             "miner"
         ],
         "coordinates": [
-            319,
+            322,
             182
         ]
     },
     {
-        "name": "Mine\nEntrance",
+        "name": "Mine Entrance",
         "color": "#3f5970",
-        "entities": [],
-        "entity_colors": [],
+        "entities": ["Miner;Minecart;Cart Terminus"],
+        "entity_colors": ["miner"],
         "coordinates": [
-            309,
+            311,
             181
         ]
     },
@@ -190,7 +219,7 @@
             "item"
         ],
         "coordinates": [
-            312,
+            315,
             189
         ]
     },
@@ -198,14 +227,16 @@
         "name": "Dilapidated\nMining Cavern",
         "color": "#2a4b67",
         "entities": [
-            "Miner;Iron Ore"
+            "Miner;Iron Ore",
+            "Miner;Minecart;Iron Station"
         ],
         "entity_colors": [
+            "miner",
             "miner"
         ],
         "coordinates": [
-            306.5,
-            195
+            309.5,
+            196
         ]
     },
     {
@@ -222,8 +253,8 @@
             "carpenter"
         ],
         "coordinates": [
-            306.5,
-            205
+            309,
+            206
         ]
     },
     {
@@ -236,7 +267,7 @@
             "neutral"
         ],
         "coordinates": [
-            314,
+            317,
             217
         ]
     },
@@ -250,8 +281,8 @@
             "item"
         ],
         "coordinates": [
-            302.5,
-            218.5
+            304.5,
+            219
         ]
     },
     {
@@ -270,8 +301,8 @@
             "bonewright"
         ],
         "coordinates": [
-            289.5,
-            212.25
+            292,
+            213
         ]
     },
     {
@@ -286,8 +317,8 @@
             "bonewright"
         ],
         "coordinates": [
-            288.75,
-            223.5
+            290,
+            225
         ]
     },
     {
@@ -300,8 +331,8 @@
             "miner"
         ],
         "coordinates": [
-            313,
-            230.25
+            315.5,
+            231.5
         ]
     },
     {
@@ -314,8 +345,8 @@
             "miner"
         ],
         "coordinates": [
-            300,
-            234.5
+            303,
+            235.5
         ]
     },
     {
@@ -332,8 +363,8 @@
             "item"
         ],
         "coordinates": [
-            315.5,
-            239.5
+            318.5,
+            242.5
         ]
     },
     {
@@ -342,8 +373,8 @@
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            320.5,
-            220.5
+            323.5,
+            221.5
         ]
     },
     {
@@ -356,8 +387,8 @@
             "aggressive"
         ],
         "coordinates": [
-            325.5,
-            231.5
+            328,
+            233
         ]
     },
     {
@@ -372,8 +403,8 @@
             "item"
         ],
         "coordinates": [
-            340.75,
-            236.75
+            343.5,
+            237.5
         ]
     },
     {
@@ -386,8 +417,8 @@
             "aggressive"
         ],
         "coordinates": [
-            333.5,
-            244.75
+            337,
+            246
         ]
     },
     {
@@ -396,8 +427,8 @@
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            325,
-            261.75
+            328,
+            263
         ]
     },
     {
@@ -406,20 +437,24 @@
         "entities": [
             "Shop;Dinko's Weapons",
             "Bank;Timber",
-            "Bank;Ore and Ingots$Ore and Ingots Bank",
             "Blacksmith;Goblin Forge",
-            "Blacksmith;Goblin Smelter"
+            "Blacksmith;Goblin Smelter",
+            "Blacksmith;Recycling Machine",
+            "Bank;Ore and Ingots$Ore and Ingots Bank",
+            "Shop;Recycling Shop"
         ],
         "entity_colors": [
             "neutral",
             "carpenter",
-            "miner",
+            "blacksmith",
+            "blacksmith",
+            "blacksmith",
             "blacksmith",
             "blacksmith"
         ],
         "coordinates": [
-            339,
-            263.5
+            343,
+            264
         ]
     },
     {
@@ -428,8 +463,8 @@
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            331,
-            270.5
+            334,
+            272
         ]
     },
     {
@@ -438,8 +473,8 @@
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            315,
-            262
+            317,
+            263
         ]
     },
     {
@@ -452,7 +487,7 @@
             "obstacle"
         ],
         "coordinates": [
-            314,
+            317,
             252.5
         ]
     },
@@ -466,8 +501,8 @@
             "item"
         ],
         "coordinates": [
-            302,
-            262
+            305,
+            262.5
         ]
     },
     {
@@ -476,8 +511,8 @@
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            319.25,
-            273.75
+            323,
+            274.5
         ]
     },
     {
@@ -486,18 +521,18 @@
         "entities": [
             "Shop;Wobleg's Armory",
             "Bank;Timber",
-            "Bank;Stone",
-            "Stonemason;Stone Weapon Stations"
+            "Stonemason;Stone Weapon Stations",
+            "Bank;Stone"
         ],
         "entity_colors": [
             "neutral",
             "carpenter",
-            "miner",
+            "stonemason",
             "stonemason"
         ],
         "coordinates": [
-            316,
-            282.5
+            320,
+            284
         ]
     },
     {
@@ -505,17 +540,19 @@
         "color": "#444640",
         "entities": [
             "Stonemason;T.E.A. Machine",
-            "Stonemason;Passive;Stone Sculpting Cart",
+            "Stonemason;Passive;Indoor Sculpture Cart",
+            "Stonemason;Passive;Outdoor Sculpture Cart",
             "Stonemason;Passive;Stoneware Bench"
         ],
         "entity_colors": [
             "stonemason",
             "stonemason",
+            "stonemason",
             "stonemason"
         ],
         "coordinates": [
-            334.5,
-            282.5
+            337.5,
+            284
         ]
     },
     {
@@ -523,74 +560,72 @@
         "color": "#504236",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [314.5, 295.5]
+        "coordinates": [317.5, 296]
     },
     {
         "name": "Lower\nHidden Passage",
         "color": "#30383e",
         "entities": ["Combat;Floor Tentacle"],
         "entity_colors": ["aggressive"],
-        "coordinates": [319, 306.75]
+        "coordinates": [323, 308]
     },
     {
         "name": "Upper\nHidden Passage",
         "color": "#30383e",
         "entities": ["Storage;Storage Rift"],
         "entity_colors": ["item"],
-        "coordinates": [324, 320.5]
+        "coordinates": [327, 321]
     },
     {
         "name": "The Lost Lake",
         "color": "#22262b",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [322.5, 338]
+        "coordinates": [326, 339]
     },
     {
         "name": "Calamari Causeway",
         "color": "#22262b",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [304, 321.5]
+        "coordinates": [307, 322]
     },
     {
         "name": "Crumbling\nCauseway",
         "color": "#22262b",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [302.5, 344.5]
+        "coordinates": [306, 345]
     },
     {
         "name": "Thermal\nSprings",
         "color": "#22262b",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [311, 358]
+        "coordinates": [314, 359]
     },
     {
         "name": "Foreboding\nCauseway",
         "color": "#22262b",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [325, 354.5]
+        "coordinates": [328, 355.5]
     },
     {
         "name": "Lashing Lagoon",
         "color": "#101616",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [329, 380.5]
+        "coordinates": [332, 382]
     },
     {
         "name": "Market\nTunnel",
         "color": "#464842",
-        "entities": [
-            ""
-        ],
+        "entities": [],
         "entity_colors": [],
         "coordinates": [
-            312.5,
-            270.5
+            315,
+            271
         ]
     },
     {
@@ -609,20 +644,18 @@
             "stonemason"
         ],
         "coordinates": [
-            300,
-            282
+            304,
+            282.5
         ]
     },
     {
         "name": "Cage\nCavern",
         "color": "#464842",
-        "entities": [
-            ""
-        ],
+        "entities": [],
         "entity_colors": [],
         "coordinates": [
-            287,
-            279
+            290,
+            280
         ]
     },
     {
@@ -635,8 +668,8 @@
             "bonewright"
         ],
         "coordinates": [
-            301,
-            295
+            304,
+            296
         ]
     },
     {
@@ -649,8 +682,8 @@
             "miner"
         ],
         "coordinates": [
-            337.5,
-            253
+            340.5,
+            254
         ]
     },
     {
@@ -663,8 +696,8 @@
             "neutral"
         ],
         "coordinates": [
-            351.75,
-            250.75
+            354,
+            251.5
         ]
     },
     {
@@ -672,153 +705,107 @@
         "color": "#344d55",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [350, 240]
+        "coordinates": [353, 241.5]
     },
     {
         "name": "Lost\nand\nFound",
         "color": "#344e56",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            351.5,
-            260.5
-        ]
+        "coordinates": [354, 261.5]
     },
     {
         "name": "Strange\nStairway",
         "color": "#344e56",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            348,
-            270.5
-        ]
+        "coordinates": [350.5, 273]
     },
     {
         "name": "Podium Cave",
         "color": "#334d51",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            359.5,
-            278.5
-        ]
+        "coordinates": [362.5, 279.5]
     },
     {
         "name": "Eagle\nGate",
         "color": "#334f55",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            371,
-            283
-        ]
+        "coordinates": [374.5, 284]
     },
     {
         "name": "Ancient\nPipes\nRoom",
         "color": "#324c50",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            382,
-            287
-        ]
+        "coordinates": [385, 288]
     },
     {
         "name": "Beginning of\nthe Beyond",
         "color": "#334f55",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            395.75,
-            284
-        ]
+        "coordinates": [397, 285]
     },
     {
         "name": "Middle of\nthe Beyond",
-        "color": "#344c52",
+        "color": "#283836",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            398.25,
-            302
-        ]
+        "coordinates": [401.5, 303]
     },
     {
         "name": "Back of\nthe Beyond",
         "color": "#283836",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            399.5,
-            323.5
-        ]
+        "coordinates": [402.5, 324.5]
     },
     {
         "name": "Outside Hollow",
-        "color": "#839746",
-        "entities": [
-            "Combat;Fire Toad"
-        ],
-        "entity_colors": [
-            "neutral"
-        ],
-        "coordinates": [
-            362.75,
-            249.75
-        ]
+        "color": "#4C6F72",
+        "entities": ["Combat;Fire Toad"],
+        "entity_colors": ["neutral"],
+        "coordinates": [366, 255]
     },
     {
         "name": "Forsaken\nMine Workings",
         "color": "#334f55",
-        "entities": [
-            "Combat;Skeleton Miner"
-        ],
-        "entity_colors": [
-            "aggressive"
-        ],
-        "coordinates": [
-            357.25,
-            267.5
-        ]
+        "entities": ["Combat;Skeleton Miner"],
+        "entity_colors": ["aggressive"],
+        "coordinates": [360, 269]
     },
     {
         "name": "Wretched Excavation",
         "color": "#345054",
-        "entities": [
-            "Combat;Skeleton Miner"
-        ],
-        "entity_colors": [
-            "aggressive"
-        ],
-        "coordinates": [
-            371.75,
-            263.5
-        ]
+        "entities": ["Combat;Skeleton Miner"],
+        "entity_colors": ["aggressive"],
+        "coordinates": [374, 264]
     },
     {
-        "name": "Forsaken\nAccess\nTunnel",
+        "name": "Forsaken\nAccess Tunnel",
         "color": "#345054",
         "entities": [
+            "Miner;Duraben Ore",
             "Storage;Storage Rift"
         ],
         "entity_colors": [
+            "miner",
             "item"
         ],
         "coordinates": [
-            378.5,
-            268.25
+            381.5,
+            272
         ]
     },
     {
         "name": "Aperture to\nthe Beyond",
         "color": "#345054",
-        "entities": [],
-        "entity_colors": [],
-        "coordinates": [
-            392,
-            269
-        ]
+        "entities": ["Miner;Duraben Ore"],
+        "entity_colors": ["miner"],
+        "coordinates": [396, 270]
     },
     {
         "name": "Big River Cavern",
@@ -832,8 +819,8 @@
             "miner"
         ],
         "coordinates": [
-            326.5,
-            204.5
+            330,
+            206
         ]
     },
     {
@@ -841,10 +828,7 @@
         "color": "#344e56",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            329,
-            214
-        ]
+        "coordinates": [333.5, 215]
     },
     {
         "name": "Tenebrous Tunnel",
@@ -856,8 +840,8 @@
             "miner"
         ],
         "coordinates": [
-            337,
-            218
+            341,
+            219
         ]
     },
     {
@@ -870,8 +854,8 @@
             "miner"
         ],
         "coordinates": [
-            339,
-            227.75
+            343,
+            229
         ]
     },
     {
@@ -886,8 +870,8 @@
             "item"
         ],
         "coordinates": [
-            350.5,
-            216.25
+            354.5,
+            217.25
         ]
     },
     {
@@ -895,10 +879,7 @@
         "color": "#284640",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            357,
-            228
-        ]
+        "coordinates": [361, 229]
     },
     {
         "name": "Riverside\nGoblin Cavern",
@@ -910,8 +891,8 @@
             "miner"
         ],
         "coordinates": [
-            341.5,
-            205
+            345.5,
+            206
         ]
     },
     {
@@ -924,8 +905,8 @@
             "aggressive"
         ],
         "coordinates": [
-            340.5,
-            193.75
+            344.5,
+            197
         ]
     },
     {
@@ -938,7 +919,7 @@
             "item"
         ],
         "coordinates": [
-            350.5,
+            357.5,
             196.5
         ]
     },
@@ -952,7 +933,7 @@
             "aggressive"
         ],
         "coordinates": [
-            351.5,
+            356,
             187.5
         ]
     },
@@ -961,30 +942,21 @@
         "color": "#2e516f",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            361.5,
-            189.5
-        ]
+        "coordinates": [366.5, 189.5]
     },
     {
         "name": "Goblin\nSleeping\nArea 3",
         "color": "#325678",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            342.5,
-            182.5
-        ]
+        "coordinates": [346.5, 182.5]
     },
     {
         "name": "Goblin\nLoot Stash",
         "color": "#2d4f6d",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            342.5,
-            176
-        ]
+        "coordinates": [346.5, 176]
     },
     {
         "name": "Upstream\nGoblin Cavern",
@@ -996,8 +968,8 @@
             "miner"
         ],
         "coordinates": [
-            353.5,
-            205
+            358,
+            206
         ]
     },
     {
@@ -1010,8 +982,8 @@
             "miner"
         ],
         "coordinates": [
-            368.5,
-            203.75
+            374,
+            205
         ]
     },
     {
@@ -1024,8 +996,8 @@
             "item"
         ],
         "coordinates": [
-            367.5,
-            217.25
+            371.5,
+            217.75
         ]
     },
     {
@@ -1033,10 +1005,7 @@
         "color": "#3e3660",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            369.25,
-            190.5
-        ]
+        "coordinates": [374, 191.5]
     },
     {
         "name": "Upper\nRiver Bend",
@@ -1048,8 +1017,8 @@
             "miner"
         ],
         "coordinates": [
-            373,
-            178.75
+            378,
+            179.5
         ]
     },
     {
@@ -1064,8 +1033,8 @@
             "item"
         ],
         "coordinates": [
-            373,
-            168
+            378,
+            169
         ]
     },
     {
@@ -1080,8 +1049,8 @@
             "miner"
         ],
         "coordinates": [
-            384.5,
-            177.5
+            389.5,
+            178.5
         ]
     },
     {
@@ -1089,10 +1058,7 @@
         "color": "#2b4d6b",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            383.5,
-            170.5
-        ]
+        "coordinates": [388.5, 171]
     },
     {
         "name": "Gnome Dwelling",
@@ -1104,8 +1070,8 @@
             "blacksmith"
         ],
         "coordinates": [
-            385,
-            192
+            389,
+            198.5
         ]
     },
     {
@@ -1118,8 +1084,8 @@
             "neutral"
         ],
         "coordinates": [
-            395.5,
-            174.25
+            400,
+            175
         ]
     },
     {
@@ -1132,8 +1098,8 @@
             "neutral"
         ],
         "coordinates": [
-            407,
-            174
+            412,
+            177
         ]
     },
     {
@@ -1141,7 +1107,7 @@
         "color": "#324854",
         "entities": ["Portal_Stone;Portal Stone"],
         "entity_colors": ["item"],
-        "coordinates": [404, 166]
+        "coordinates": [409, 166]
     },
     {
         "name": "Mutant\nCockroaches",
@@ -1153,8 +1119,8 @@
             "neutral"
         ],
         "coordinates": [
-            416.5,
-            186
+            421.5,
+            186.5
         ]
     },
     {
@@ -1167,8 +1133,8 @@
             "neutral"
         ],
         "coordinates": [
-            417,
-            170
+            422,
+            171
         ]
     },
     {
@@ -1183,7 +1149,7 @@
             "item"
         ],
         "coordinates": [
-            426.5,
+            431.5,
             185.5
         ]
     },
@@ -1193,22 +1159,22 @@
         "entities": [
             "Shop;Lummock's Weaponry",
             "Bank;Timber",
-            "Bank;Ore and Ingots$Ore and Ingots Bank",
             "Blacksmith;Gnome Forge",
             "Blacksmith;Gnome Smelter",
-            "Blacksmith;Passive;Jewelry Bench"
+            "Blacksmith;Passive;Jewelry Bench",
+            "Bank;Ore and Ingots$Ore and Ingots Bank"
         ],
         "entity_colors": [
             "neutral",
             "carpenter",
-            "miner",
+            "blacksmith",
             "blacksmith",
             "blacksmith",
             "blacksmith"
         ],
         "coordinates": [
-            427.5,
-            161.5
+            431.5,
+            160.5
         ]
     },
     {
@@ -1221,8 +1187,8 @@
             "miner"
         ],
         "coordinates": [
-            443,
-            166.75
+            448,
+            167.25
         ]
     },
     {
@@ -1235,8 +1201,8 @@
             "aggressive"
         ],
         "coordinates": [
-            393.5,
-            196.5
+            397.5,
+            193.5
         ]
     },
     {
@@ -1249,8 +1215,8 @@
             "aggressive"
         ],
         "coordinates": [
-            409,
-            194
+            414.5,
+            194.5
         ]
     },
     {
@@ -1263,7 +1229,7 @@
             "miner"
         ],
         "coordinates": [
-            389.5,
+            396.5,
             207.25
         ]
     },
@@ -1279,8 +1245,8 @@
             "item"
         ],
         "coordinates": [
-            408.5,
-            213.5
+            413.5,
+            215
         ]
     },
     {
@@ -1293,8 +1259,8 @@
             "neutral"
         ],
         "coordinates": [
-            426.5,
-            218.5
+            431,
+            219
         ]
     },
     {
@@ -1309,8 +1275,8 @@
             "miner"
         ],
         "coordinates": [
-            394,
-            219.75
+            399.5,
+            221
         ]
     },
     {
@@ -1325,8 +1291,8 @@
             "miner"
         ],
         "coordinates": [
-            381,
-            217.25
+            386,
+            218
         ]
     },
     {
@@ -1334,10 +1300,7 @@
         "color": "#365c7e",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            395,
-            238.5
-        ]
+        "coordinates": [400, 239.5]
     },
     {
         "name": "Tormented\nChamber",
@@ -1349,8 +1312,8 @@
             "aggressive"
         ],
         "coordinates": [
-            381,
-            228.25
+            386.5,
+            229
         ]
     },
     {
@@ -1363,8 +1326,8 @@
             "aggressive"
         ],
         "coordinates": [
-            384,
-            239.25
+            389,
+            239.75
         ]
     },
     {
@@ -1377,8 +1340,8 @@
             "neutral"
         ],
         "coordinates": [
-            370,
-            238.5
+            374,
+            240
         ]
     },
     {
@@ -1391,18 +1354,18 @@
             "item"
         ],
         "coordinates": [
-            384,
-            252
+            389,
+            253
         ]
     },
     {
         "name": "Slimy\nTunnel",
-        "color": "#223a50",
+        "color": "#52503E",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            403,
-            239
+            408,
+            240.25
         ]
     },
     {
@@ -1415,8 +1378,8 @@
             "aggressive"
         ],
         "coordinates": [
-            411.5,
-            229.5
+            416.5,
+            230.5
         ]
     },
     {
@@ -1429,13 +1392,13 @@
             "item"
         ],
         "coordinates": [
-            412,
-            239.25
+            417,
+            240
         ]
     },
     {
         "name": "Slime Pool",
-        "color": "#345458",
+        "color": "#41654D",
         "entities": [
             "Combat;Blob"
         ],
@@ -1443,18 +1406,18 @@
             "aggressive"
         ],
         "coordinates": [
-            425.5,
-            239.25
+            431.5,
+            240.5
         ]
     },
     {
         "name": "Machine\nShaft",
-        "color": "#223a50",
+        "color": "#52503E",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            409,
-            249.5
+            414,
+            250
         ]
     },
     {
@@ -1467,8 +1430,8 @@
             "miner"
         ],
         "coordinates": [
-            409.5,
-            259.75
+            415,
+            260.5
         ]
     },
     {
@@ -1481,8 +1444,8 @@
             "miner"
         ],
         "coordinates": [
-            409.5,
-            270.5
+            415,
+            272
         ]
     }
 ]
