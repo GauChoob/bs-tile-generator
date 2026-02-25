@@ -561,9 +561,11 @@
         "name": "Eel Street",
         "color": "#c8b278",
         "entities": [
-            "Shop;The Frequently Fresh Fish Stall"
+            "Shop;The Frequently Fresh Fish Stall",
+            "Clipboard;Fisher's Bounty Board"
         ],
         "entity_colors": [
+            "fisher",
             "fisher"
         ],
         "coordinates": [
@@ -792,10 +794,12 @@
         "color": "#bb8f55",
         "entities": [
             "Fisher;Cod",
+            "Clipboard;Fisher's Bounty Board",
             "Forager;Monument Jade",
             "Forager;Starfish"
         ],
         "entity_colors": [
+            "fisher",
             "fisher",
             "forager",
             "forager"
@@ -1053,10 +1057,12 @@
         "name": "Wild Path",
         "color": "#89794a",
         "entities": [
+            "Clipboard;Fisher's Bounty Board",
             "Forager;Bone Spike",
             "Storage;Storage Rift"
         ],
         "entity_colors": [
+            "fisher",
             "forager",
             "item"
         ],
