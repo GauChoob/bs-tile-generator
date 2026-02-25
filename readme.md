@@ -16,7 +16,19 @@ Password
 Blank (2-FA, not needed)
 ```
 # Updating the Map
+## Room labels
+The episodes are split up in `map_data/episodes` folder.
 
+**Structure of a room in the GeoJSON**
+| Parameter     | Meaning                    | Notes                                      |
+| :-----------: | -------------------------- | ------------------------------------------ |
+| name          | Room name                  | Use \n to seperate multiple lines          |
+| color         | Color of the label         | Hexadecimal value                          |
+| entities      | Array of features          | Format: Profession;*Passive*;Feature name  |
+| entity_colors | Label colors for features  | An array, sequence is important            |
+| coordinates   | Label's center coordinates | An array of two elements, [0] - X, [1] - Y |
+
+## Steps to update
 * `python build_room_data.py` for the map overlay
 * Copy out/links_debug.txt to https://brightershoreswiki.org/w/User:Gau_Cho/OverlayLinks and double check for broken links, or links that should redirect to a different name
 * `python run_vips.py` to break up the maps into tiles
