@@ -441,7 +441,8 @@
             "Blacksmith;Goblin Smelter",
             "Blacksmith;Recycling Machine",
             "Bank;Ore and Ingots$Ore and Ingots Bank",
-            "Shop;Recycling Shop"
+            "Shop;Recycling Shop",
+            "Clipboard;Blacksmith's Bounty Board"
         ],
         "entity_colors": [
             "neutral",
@@ -450,11 +451,12 @@
             "blacksmith",
             "blacksmith",
             "blacksmith",
+            "blacksmith",
             "blacksmith"
         ],
         "coordinates": [
             343,
-            264
+            263.5
         ]
     },
     {
@@ -1008,18 +1010,27 @@
         "coordinates": [374, 191.5]
     },
     {
-        "name": "Upper\nRiver Bend",
+        "name": "Upper River Bend",
         "color": "#394b61",
         "entities": [
-            "Miner;Granite"
+            "Miner;Granite",
+            "Clipboard;Blacksmith's Bounty Board"
         ],
         "entity_colors": [
-            "miner"
+            "miner",
+            "blacksmith"
         ],
         "coordinates": [
             378,
-            179.5
+            184
         ]
+    },
+    {
+        "name": "Filtration\nStation$Filtration Station (room)",
+        "color": "#3A4553",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [362, 178]
     },
     {
         "name": "Rockling Cave",
@@ -1086,6 +1097,20 @@
         "coordinates": [
             400,
             175
+        ]
+    },
+    {
+        "name": "Kobold Arena$Kobold Arena (room)",
+        "color": "#303848",
+        "entities": [
+            "Clipboard;Blacksmith's Bounty Board"
+        ],
+        "entity_colors": [
+            "blacksmith"
+        ],
+        "coordinates": [
+            396.5,
+            157.5
         ]
     },
     {
@@ -1162,11 +1187,13 @@
             "Blacksmith;Gnome Forge",
             "Blacksmith;Gnome Smelter",
             "Blacksmith;Passive;Jewelry Bench",
-            "Bank;Ore and Ingots$Ore and Ingots Bank"
+            "Bank;Ore and Ingots$Ore and Ingots Bank",
+            "Clipboard;Blacksmith's Bounty Board"
         ],
         "entity_colors": [
             "neutral",
             "carpenter",
+            "blacksmith",
             "blacksmith",
             "blacksmith",
             "blacksmith",
