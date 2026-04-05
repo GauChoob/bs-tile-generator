@@ -524,11 +524,13 @@
             "Shop;Wobleg's Armory",
             "Bank;Timber",
             "Stonemason;Stone Weapon Stations",
-            "Bank;Stone"
+            "Bank;Stone",
+            "Clipboard;Stonemason's Bounty Board"
         ],
         "entity_colors": [
             "neutral",
             "carpenter",
+            "stonemason",
             "stonemason",
             "stonemason"
         ],
@@ -646,7 +648,7 @@
             "stonemason"
         ],
         "coordinates": [
-            304,
+            302.5,
             282.5
         ]
     },
