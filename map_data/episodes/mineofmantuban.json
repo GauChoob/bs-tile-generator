@@ -275,14 +275,16 @@
         "name": "Leech Pools",
         "color": "#2c4e6c",
         "entities": [
+            "Clipboard;Bonewright's Bounty Board",
             "Blacksmith;Stonemason;Gas Leeches$Gas Leech"
         ],
         "entity_colors": [
+            "bonewright",
             "item"
         ],
         "coordinates": [
             304.5,
-            219
+            220
         ]
     },
     {
@@ -491,6 +493,16 @@
         "coordinates": [
             317,
             252.5
+        ]
+    },
+    {
+        "name": "Bonetron Station",
+        "color": "#454743",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            301,
+            251
         ]
     },
     {
