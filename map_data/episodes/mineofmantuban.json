@@ -205,7 +205,7 @@
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            323.5,
+            325,
             197.5
         ]
     },
@@ -1177,6 +1177,16 @@
         ]
     },
     {
+        "name": "Trash\nCave",
+        "color": "#1C3850",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            419,
+            160
+        ]
+    },
+    {
         "name": "Cave of\nthe Crystal",
         "color": "#466070",
         "entities": [
@@ -1302,6 +1312,46 @@
         "coordinates": [
             431,
             219
+        ]
+    },
+    {
+        "name": "Flooded Depths",
+        "color": "#22394F",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            429,
+            207
+        ]
+    },
+    {
+        "name": "Odd Cavern",
+        "color": "#223A50",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            440,
+            203.5
+        ]
+    },
+    {
+        "name": "Confusing Cave",
+        "color": "#223A50",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            453,
+            209.5
+        ]
+    },
+    {
+        "name": "Reality Fracture",
+        "color": "#223A4F",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            464,
+            209.5
         ]
     },
     {
