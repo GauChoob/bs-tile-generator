@@ -54,9 +54,11 @@
         "color": "#2a4c68",
         "entities": [
             "Miner;Passive;Limestone",
-            "Miner;Minecart;Limestone Station"
+            "Miner;Minecart;Limestone Station",
+            "Clipboard;Miner's Bounty Board"
         ],
         "entity_colors": [
+            "miner",
             "miner",
             "miner"
         ],
@@ -261,14 +263,16 @@
         "name": "Bat Cave",
         "color": "#325676",
         "entities": [
-            "Combat;Passive;Giant Bat"
+            "Combat;Passive;Giant Bat",
+            "Clipboard;Miner's Bounty Board"
         ],
         "entity_colors": [
-            "neutral"
+            "neutral",
+            "miner"
         ],
         "coordinates": [
-            317,
-            217
+            318,
+            215
         ]
     },
     {
@@ -426,8 +430,12 @@
     {
         "name": "Goblin Well",
         "color": "#464842",
-        "entities": [],
-        "entity_colors": [],
+        "entities": [
+            "Clipboard;Miner's Bounty Board"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
         "coordinates": [
             328,
             263
@@ -462,13 +470,13 @@
         ]
     },
     {
-        "name": "Goblin\nLiving Quarters",
+        "name": "Goblin\nLiving\nQuarters",
         "color": "#524236",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            334,
-            272
+            332,
+            270.5
         ]
     },
     {
@@ -477,7 +485,7 @@
         "entities": [],
         "entity_colors": [],
         "coordinates": [
-            317,
+            316.5,
             263
         ]
     },
@@ -782,9 +790,15 @@
     {
         "name": "Outside Hollow",
         "color": "#4C6F72",
-        "entities": ["Combat;Fire Toad"],
-        "entity_colors": ["neutral"],
-        "coordinates": [366, 255]
+        "entities": [
+            "Combat;Fire Toad",
+            "Clipboard;Miner's Bounty Board"
+        ],
+        "entity_colors": [
+            "neutral",
+            "miner"
+        ],
+        "coordinates": [368, 255]
     },
     {
         "name": "Forsaken\nMine Workings",
@@ -879,10 +893,12 @@
         "color": "#345256",
         "entities": [
             "Combat;Passive;Kobold",
+            "Clipboard;Miner's Bounty Board",
             "Storage;Storage Rift"
         ],
         "entity_colors": [
             "neutral",
+            "miner",
             "item"
         ],
         "coordinates": [
@@ -1128,13 +1144,15 @@
         ]
     },
     {
-        "name": "Rock Strewn\nTunnel",
+        "name": "Rock Strewn Tunnel",
         "color": "#3e465a",
         "entities": [
-            "Combat;Metalith"
+            "Combat;Metalith",
+            "Clipboard;Miner's Bounty Board"
         ],
         "entity_colors": [
-            "neutral"
+            "neutral",
+            "miner"
         ],
         "coordinates": [
             412,
@@ -1387,11 +1405,15 @@
         ]
     },
     {
-        "name": "Forgotten\nTunnel",
-        "color": "#365c7e",
-        "entities": [],
-        "entity_colors": [],
-        "coordinates": [400, 239.5]
+        "name": "Forgotten Tunnel",
+        "color": "#52503E",
+        "entities": [
+            "Clipboard;Miner's Bounty Board"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [400, 231.5]
     },
     {
         "name": "Tormented\nChamber",
