@@ -912,6 +912,16 @@
         ]
     },
     {
+        "name": "Wizard's\nWorkshop",
+        "color": "#494334",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            511.5,
+            151.5
+        ]
+    },
+    {
         "name": "City Dyes",
         "color": "#5c5c4e",
         "entities": [
@@ -1107,7 +1117,7 @@
             "detective"
         ],
         "coordinates": [
-            501.75,
+            500,
             149
         ]
     },
@@ -1121,8 +1131,8 @@
             "detective"
         ],
         "coordinates": [
-            516.75,
-            154
+            527,
+            158
         ]
     },
     {
@@ -1313,7 +1323,7 @@
             "detective"
         ],
         "coordinates": [
-            488.5,
+            487,
             154.75
         ]
     },
