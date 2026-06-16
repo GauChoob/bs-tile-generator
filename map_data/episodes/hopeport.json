@@ -60,20 +60,20 @@
     {
         "name": "Infirmary",
         "color": "#898d70",
-        "entities": [],
-        "entity_colors": [],
+        "entities": ["Clipboard;Alchemist's Bounty Board"],
+        "entity_colors": ["alchemist"],
         "coordinates": [
-            124,
-            82.5
+            133,
+            76
         ]
     },
     {
-        "name": "Critical\nCare\nWard",
+        "name": "Critical Care Ward",
         "color": "#898d70",
-        "entities": [],
-        "entity_colors": [],
+        "entities": ["Alchemist;Remedy Reagents Shelf"],
+        "entity_colors": ["alchemist"],
         "coordinates": [
-            135,
+            137,
             82.5
         ]
     },
@@ -150,9 +150,11 @@
             "Alchemist;Passive;Work for Ebsworth",
             "Bank;Potion Reagents",
             "Bank;Potions",
-            "Shop;The Apothecary Shop"
+            "Shop;The Apothecary Shop",
+            "Clipboard;Alchemist's Bounty Board"
         ],
         "entity_colors": [
+            "alchemist",
             "alchemist",
             "alchemist",
             "alchemist",
@@ -161,8 +163,8 @@
             "alchemist"
         ],
         "coordinates": [
-            132,
-            103
+            135,
+            102
         ]
     },
     {
@@ -337,7 +339,7 @@
             "item"
         ],
         "coordinates": [
-            145,
+            144.5,
             115.5
         ]
     },
@@ -348,7 +350,7 @@
         "entity_colors": [],
         "coordinates": [
             148.5,
-            110
+            109.5
         ]
     },
     {
