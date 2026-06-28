@@ -378,8 +378,8 @@
         ]
     },
     {
-        "name": "Abandoned\nShop",
-        "color": "#765e94",
+        "name": "Rabbit\nCafe",
+        "color": "#715747",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
@@ -442,7 +442,7 @@
         ]
     },
     {
-        "name": "Tim's\nAlley",
+        "name": "Tim's Alley",
         "color": "#b4a876",
         "entities": [
             "Combat;Thief"
@@ -601,7 +601,7 @@
     },
     {
         "name": "Salty Swine",
-        "color": "#2c2c2c",
+        "color": "#42403C",
         "entities": [
             "Fisher;Passive;Mackibut"
         ],
@@ -609,8 +609,8 @@
             "fisher"
         ],
         "coordinates": [
-            109,
-            180
+            110,
+            180.5
         ]
     },
     {
@@ -642,7 +642,7 @@
         ],
         "coordinates": [
             148,
-            161.5
+            163
         ]
     },
     {
@@ -661,7 +661,7 @@
     },
     {
         "name": "Vincible",
-        "color": "#5e442e",
+        "color": "#79573D",
         "entities": [
             "Fisher;Passive;Sturlet"
         ],
@@ -669,8 +669,8 @@
             "fisher"
         ],
         "coordinates": [
-            158,
-            180
+            160,
+            181
         ]
     },
     {
@@ -683,8 +683,8 @@
             "fisher"
         ],
         "coordinates": [
-            91,
-            178
+            90,
+            179
         ]
     },
     {
@@ -813,7 +813,7 @@
     },
     {
         "name": "Ray Bay",
-        "color": "#587575",
+        "color": "#587676",
         "entities": [
             "Fisher;Ray",
             "Forager;Limpet",
@@ -833,7 +833,7 @@
     },
     {
         "name": "Hidden\nSandbar",
-        "color": "#4e6c6e",
+        "color": "#567173",
         "entities": [],
         "entity_colors": [],
         "coordinates": [
@@ -869,7 +869,7 @@
     },
     {
         "name": "Pirate Hideout",
-        "color": "#ceae6d",
+        "color": "#c79f62",
         "entities": [
             "Combat;Passive;Pirate",
             "Fisher;Gurnard",
