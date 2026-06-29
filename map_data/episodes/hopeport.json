@@ -357,9 +357,11 @@
         "name": "The Forager's\nWarehouse",
         "color": "#6a5e4c",
         "entities": [
-            "Shop;The Forager's Warehouse"
+            "Shop;The Forager's Warehouse",
+            "Clipboard;Forager's Bounty Board"
         ],
         "entity_colors": [
+            "forager",
             "forager"
         ],
         "coordinates": [
@@ -722,9 +724,11 @@
         "color": "#b3a776",
         "entities": [
             "Shop;The Seaside Rock Shop",
+            "Clipboard;Forager's Bounty Board",
             "Storage;Storage Rift"
         ],
         "entity_colors": [
+            "forager",
             "forager",
             "item"
         ],
@@ -818,10 +822,12 @@
             "Fisher;Ray",
             "Forager;Limpet",
             "Forager;Monument Jade",
+            "Clipboard;Forager's Bounty Board",
             "Storage;Storage Rift"
         ],
         "entity_colors": [
             "fisher",
+            "forager",
             "forager",
             "forager",
             "item"
@@ -964,10 +970,12 @@
             "Combat;Hairbeast",
             "Forager;Goat Horn",
             "Forager;Water Lily",
-            "Forager;Passive;Moth Wing"
+            "Forager;Passive;Moth Wing",
+            "Clipboard;Forager's Bounty Board"
         ],
         "entity_colors": [
             "neutral",
+            "forager",
             "forager",
             "forager",
             "forager"
@@ -1164,9 +1172,11 @@
         "color": "#89794a",
         "entities": [
             "Forager;Nettle",
-            "Forager;Rams Horn"
+            "Forager;Rams Horn",
+            "Clipboard;Forager's Bounty Board"
         ],
         "entity_colors": [
+            "forager",
             "forager",
             "forager"
         ],

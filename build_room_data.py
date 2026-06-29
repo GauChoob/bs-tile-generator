@@ -17,7 +17,7 @@ BORDER_LEFT = config.HOPEPORT_PORTAL_STONE_COORD_X - HOPEPORT_PORTAL_STONE_X
 BORDER_UP = config.HOPEPORT_PORTAL_STONE_COORD_Y - HOPEPORT_PORTAL_STONE_Y
 
 title = {
-    'font': 'fonts/RobotoSlab-SemiBold.ttf',
+    'font': 'fonts/RobotoSlab-Medium.ttf',
     # 'font_size': 37*multiplier,
     'font_size': 52*multiplier,  # empirically tested for a character height of 37 pixels at a SCALE of 48
     'height': 64*multiplier,
@@ -27,7 +27,7 @@ title = {
     'shadow_offset': 4*multiplier,
 }
 entity = {
-    'font': 'fonts/SourceSans3-SemiBold.ttf',
+    'font': 'fonts/SourceSans3-Medium.ttf',
     # 'font_size': 37*multiplier,
     'font_size': 52*multiplier,  # empirically tested for a character height of 37 pixels at a SCALE of 48
     # Slightly reduced kerning
