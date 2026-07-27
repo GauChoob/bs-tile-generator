@@ -899,9 +899,13 @@
         "name": "Timberwell\nRoad",
         "color": "#869654",
         "entities": [
+            "Shop;Davis's Chameleon Seeds",
+            "Clipboard;Botanist's Bounty Board",
             "Woodcutter;Ash"
         ],
         "entity_colors": [
+            "botanist",
+            "botanist",
             "woodcutter"
         ],
         "coordinates": [
