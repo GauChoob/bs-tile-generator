@@ -1190,6 +1190,69 @@
         ]
     },
     {
+        "name": "Himatik Ruins\nEntrance",
+        "color": "#564232",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [258, 286]
+    },
+    {
+        "name": "Himatik Ruins\nShrine",
+        "color": "#8F7354",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [268.5, 297]
+    },
+    {
+        "name": "Himatik Ruins\nTreasure Room",
+        "color": "#8F7354",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [255.5, 300.5]
+    },
+    {
+        "name": "Himatik Ruins\nGallery",
+        "color": "#8F7354",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [243, 286]
+    },
+    {
+        "name": "Himatik Ruins\nProphecy Hall",
+        "color": "#8F7354",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [241, 272.5]
+    },
+    {
+        "name": "Himatik Ruins\nExhaust Room",
+        "color": "#8F7354",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [243, 297.5]
+    },
+    {
+        "name": "Himatik Ruins\nFlaming Corridor",
+        "color": "#8F7354",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [243, 308]
+    },
+    {
+        "name": "Himatik Ruins\nFlaming Chamber",
+        "color": "#8F7354",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [246.5, 322.5]
+    },
+    {
+        "name": "Himatik Ruins\nFlaming Treasury",
+        "color": "#8F7354",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [232.5, 319]
+    },
+    {
         "name": "Mine Road East",
         "color": "#5c885a",
         "entities": [
