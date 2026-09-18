@@ -358,6 +358,10 @@ def build_image(filepath, room_folder):
         links_debug.update(link_debug)
     print('Making out/room_data.json')
     convert_json_pixels_to_coordinates(links_json)
+
+    if not os.path.isdir('out'):
+        os.mkdir('out')
+
     with open('out/room_data.json', 'w') as f:
         json.dump(links_json, f)
     print('Making out/links_debug.txt')

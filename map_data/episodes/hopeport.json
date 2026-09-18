@@ -1163,8 +1163,48 @@
             "forager"
         ],
         "coordinates": [
-            1.5,
+            1,
             58.75
+        ]
+    },
+    {
+        "name": "Get Wrecked\nSalvage Company",
+        "color": "#C3A364",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            -34.5,
+            47
+        ]
+    },
+    {
+        "name": "Salvage Shipwreck",
+        "color": "#70644E",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            -80,
+            48
+        ]
+    },
+    {
+        "name": "Salvage Shipwreck\nBow",
+        "color": "#70644E",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            -80,
+            64.5
+        ]
+    },
+    {
+        "name": "Salvage Shipwreck\nStern",
+        "color": "#70644E",
+        "entities": [],
+        "entity_colors": [],
+        "coordinates": [
+            -80,
+            27
         ]
     },
     {
