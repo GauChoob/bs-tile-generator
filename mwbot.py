@@ -8,6 +8,7 @@ import traceback
 
 # made by riblet
 # extended by gau cho to add purge and upload, and 2fa authentication
+# extended+ by jetta to add lookup and getting hashes
 
 API_URL = 'https://brightershoreswiki.org/api.php?'
 
@@ -178,6 +179,51 @@ class Mwbot():
         return output
         # TODO: refactor the code for future if over 10000 hits
         # Unable to use `sroffset` 10000
+    
+    def get_remote_hashes(self, titles, batch_size = 100, delay = 0.1):
+        hashes = {}
+        print(len(titles))
+        for i in range(0, len(titles), batch_size):
+            batch = titles[i: i + batch_size]
+            params = {
+                "action": "query",
+                "format": "json",
+                "prop": "imageinfo",
+                "iiprop": "sha1",
+                "titles": "|".join(batch)
+            }
+
+            success = False
+            for attempt in range(5):  
+                response = self.query(params)
+                if response.status_code == 429:
+                    wait = int(response.headers.get("Retry-After", 30))
+                    print(f'Rate limited, waiting {wait}s (attempt {attempt + 1})')
+                    time.sleep(wait)
+                    continue
+
+                try:
+                    res = response.json()
+
+                except requests.exceptions.JSONDecodeError:
+                    print(f'Bad response (status {response.status_code}), retrying in 30s')
+                    print(response.text[:300])
+                    time.sleep(30)
+                    continue
+
+                for page in res["query"]["pages"].values():
+                    if "imageinfo" in page:
+                        hashes[page["title"]] = page["imageinfo"][0]["sha1"]
+
+                success = True
+                break
+            
+            if not success:
+               raise ConnectionError(f'Failed to fetch hashes for batch starting at index {i}')
+
+            time.sleep(delay)
+
+        return hashes
     
     def prefixsearch(self, prefix):
         params = {
