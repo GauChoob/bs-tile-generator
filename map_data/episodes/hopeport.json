@@ -693,9 +693,11 @@
         "name": "West Waterfront",
         "color": "#c6b077",
         "entities": [
+            "Shop;Charlie's Chips",
             "Fisher;Venture;Lobster"
         ],
         "entity_colors": [
+            "chef",
             "fisher"
         ],
         "coordinates": [
