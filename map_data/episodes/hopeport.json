@@ -8,30 +8,21 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            94,
-            71
-        ]
+        "coordinates": [-8, 1]
     },
     {
         "name": "Captain\nDegreene's\nOffice",
         "color": "#744240",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            105.5,
-            73.5
-        ]
+        "coordinates": [3.5, 3.5]
     },
     {
         "name": "Barracks",
         "color": "#6a5e4c",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            118.5,
-            72.5
-        ]
+        "coordinates": [16.5, 2.5]
     },
     {
         "name": "Sparring Area",
@@ -42,40 +33,36 @@
         "entity_colors": [
             "neutral"
         ],
-        "coordinates": [
-            87,
-            87
-        ]
+        "coordinates": [-15, 17]
     },
     {
         "name": "Training Ground",
         "color": "#949253",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            107.5,
-            86.5
-        ]
+        "coordinates": [5.5, 16.5]
     },
     {
         "name": "Infirmary",
         "color": "#898d70",
-        "entities": ["Clipboard;Alchemist's Bounty Board"],
-        "entity_colors": ["alchemist"],
-        "coordinates": [
-            133,
-            76
-        ]
+        "entities": [
+            "Clipboard;Alchemist's Bounty Board"
+        ],
+        "entity_colors": [
+            "alchemist"
+        ],
+        "coordinates": [31, 6]
     },
     {
         "name": "Critical Care Ward",
         "color": "#898d70",
-        "entities": ["Alchemist;Remedy Reagents Shelf"],
-        "entity_colors": ["alchemist"],
-        "coordinates": [
-            137,
-            82.5
-        ]
+        "entities": [
+            "Alchemist;Remedy Reagents Shelf"
+        ],
+        "entity_colors": [
+            "alchemist"
+        ],
+        "coordinates": [35, 12.5]
     },
     {
         "name": "Quartermaster$Quartermaster (room)",
@@ -88,10 +75,7 @@
             "neutral",
             "neutral"
         ],
-        "coordinates": [
-            125.5,
-            91.5
-        ]
+        "coordinates": [23.5, 21.5]
     },
     {
         "name": "Stone Street",
@@ -102,20 +86,14 @@
         "entity_colors": [
             "chef"
         ],
-        "coordinates": [
-            110.5,
-            100.5
-        ]
+        "coordinates": [8.5, 30.5]
     },
     {
         "name": "The Delectable Dab\nRestaurant",
         "color": "#60604e",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            104,
-            106.5
-        ]
+        "coordinates": [2, 36.5]
     },
     {
         "name": "The Delectable\nDab Kitchen",
@@ -136,10 +114,7 @@
             "chef",
             "chef"
         ],
-        "coordinates": [
-            86.5,
-            101
-        ]
+        "coordinates": [-15.5, 31]
     },
     {
         "name": "Apothecary",
@@ -162,10 +137,7 @@
             "alchemist",
             "alchemist"
         ],
-        "coordinates": [
-            135,
-            102
-        ]
+        "coordinates": [33, 32]
     },
     {
         "name": "Town Square",
@@ -178,10 +150,7 @@
             "alchemist",
             "item"
         ],
-        "coordinates": [
-            112.5,
-            116.5
-        ]
+        "coordinates": [10.5, 46.5]
     },
     {
         "name": "Brannof Boulevard",
@@ -192,50 +161,35 @@
         "entity_colors": [
             "forager"
         ],
-        "coordinates": [
-            96,
-            120.5
-        ]
+        "coordinates": [-6, 50.5]
     },
     {
         "name": "Brannof\nHall's\nHallway",
         "color": "#744240",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            81.5,
-            120.5
-        ]
+        "coordinates": [-20.5, 50.5]
     },
     {
         "name": "Brannof's\nChamber",
         "color": "#744240",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            81.5,
-            112.5
-        ]
+        "coordinates": [-20.5, 42.5]
     },
     {
         "name": "Brannof's\nDining\nRoom",
         "color": "#725848",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            73,
-            120.5
-        ]
+        "coordinates": [-29, 50.5]
     },
     {
         "name": "Brannof's\nGarden",
         "color": "#959354",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            61.5,
-            120.5
-        ]
+        "coordinates": [-40.5, 50.5]
     },
     {
         "name": "Hopeport Obelisk",
@@ -246,10 +200,7 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            98.5,
-            133.5
-        ]
+        "coordinates": [-3.5, 63.5]
     },
     {
         "name": "Eel Street Bridge",
@@ -260,10 +211,7 @@
         "entity_colors": [
             "fisher"
         ],
-        "coordinates": [
-            113.5,
-            133.5
-        ]
+        "coordinates": [11.5, 63.5]
     },
     {
         "name": "Melv's\nFishing Supplies",
@@ -276,10 +224,7 @@
             "fisher",
             "fisher"
         ],
-        "coordinates": [
-            126.5,
-            115.5
-        ]
+        "coordinates": [24.5, 45.5]
     },
     {
         "name": "Old Street West",
@@ -292,10 +237,7 @@
             "forager",
             "bonewright"
         ],
-        "coordinates": [
-            131,
-            124
-        ]
+        "coordinates": [29, 54]
     },
     {
         "name": "Hairdresser",
@@ -306,10 +248,7 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            136,
-            116
-        ]
+        "coordinates": [34, 46]
     },
     {
         "name": "Old Street East",
@@ -322,10 +261,7 @@
             "neutral",
             "forager"
         ],
-        "coordinates": [
-            150.5,
-            123.5
-        ]
+        "coordinates": [48.5, 53.5]
     },
     {
         "name": "The\nCloakroom",
@@ -338,20 +274,14 @@
             "item",
             "item"
         ],
-        "coordinates": [
-            144.5,
-            115.5
-        ]
+        "coordinates": [42.5, 45.5]
     },
     {
         "name": "Pipe\nAlley",
         "color": "#b3a776",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            148.5,
-            109.5
-        ]
+        "coordinates": [46.5, 39.5]
     },
     {
         "name": "The Forager's\nWarehouse",
@@ -364,30 +294,21 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            159.5,
-            114.5
-        ]
+        "coordinates": [57.5, 44.5]
     },
     {
         "name": "The Forager's\nStockroom",
         "color": "#445662",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            156,
-            102.5
-        ]
+        "coordinates": [54, 32.5]
     },
     {
         "name": "Rabbit\nCafe",
         "color": "#715747",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            152,
-            133.5
-        ]
+        "coordinates": [50, 63.5]
     },
     {
         "name": "Town Gates",
@@ -400,20 +321,14 @@
             "neutral",
             "item"
         ],
-        "coordinates": [
-            170.5,
-            123
-        ]
+        "coordinates": [68.5, 53]
     },
     {
         "name": "Naybeth's\nHouse",
         "color": "#6a5e4c",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            166,
-            132
-        ]
+        "coordinates": [64, 62]
     },
     {
         "name": "North Walls",
@@ -424,10 +339,7 @@
         "entity_colors": [
             "aggressive"
         ],
-        "coordinates": [
-            171,
-            108.5
-        ]
+        "coordinates": [69, 38.5]
     },
     {
         "name": "South Walls",
@@ -438,10 +350,7 @@
         "entity_colors": [
             "aggressive"
         ],
-        "coordinates": [
-            171.5,
-            138
-        ]
+        "coordinates": [69.5, 68]
     },
     {
         "name": "Tim's Alley",
@@ -452,10 +361,7 @@
         "entity_colors": [
             "aggressive"
         ],
-        "coordinates": [
-            144.5,
-            132
-        ]
+        "coordinates": [42.5, 62]
     },
     {
         "name": "Little Square",
@@ -466,10 +372,7 @@
         "entity_colors": [
             "forager"
         ],
-        "coordinates": [
-            146.5,
-            142.5
-        ]
+        "coordinates": [44.5, 72.5]
     },
     {
         "name": "Murk Close",
@@ -480,10 +383,7 @@
         "entity_colors": [
             "neutral"
         ],
-        "coordinates": [
-            161,
-            141.5
-        ]
+        "coordinates": [59, 71.5]
     },
     {
         "name": "Nook Alley",
@@ -494,10 +394,7 @@
         "entity_colors": [
             "forager"
         ],
-        "coordinates": [
-            155,
-            152.5
-        ]
+        "coordinates": [53, 82.5]
     },
     {
         "name": "Limpet Lane",
@@ -508,20 +405,14 @@
         "entity_colors": [
             "aggressive"
         ],
-        "coordinates": [
-            142.5,
-            153.5
-        ]
+        "coordinates": [40.5, 83.5]
     },
     {
         "name": "Monob\nRow",
         "color": "#978564",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            141,
-            136.5
-        ]
+        "coordinates": [39, 66.5]
     },
     {
         "name": "Wilhope Passage",
@@ -532,20 +423,14 @@
         "entity_colors": [
             "neutral"
         ],
-        "coordinates": [
-            135,
-            141.5
-        ]
+        "coordinates": [33, 71.5]
     },
     {
         "name": "Thieves'\nDen",
         "color": "#566176",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            133.5,
-            133
-        ]
+        "coordinates": [31.5, 63]
     },
     {
         "name": "Wilhope Crossing",
@@ -556,10 +441,7 @@
         "entity_colors": [
             "fisher"
         ],
-        "coordinates": [
-            123,
-            144.5
-        ]
+        "coordinates": [21, 74.5]
     },
     {
         "name": "Eel Street",
@@ -572,20 +454,14 @@
             "fisher",
             "fisher"
         ],
-        "coordinates": [
-            116.5,
-            151.5
-        ]
+        "coordinates": [14.5, 81.5]
     },
     {
         "name": "The Hooked\nHand",
         "color": "#725848",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            104.5,
-            146
-        ]
+        "coordinates": [2.5, 76]
     },
     {
         "name": "Central Waterfront",
@@ -596,10 +472,7 @@
         "entity_colors": [
             "fisher"
         ],
-        "coordinates": [
-            109,
-            161
-        ]
+        "coordinates": [7, 91]
     },
     {
         "name": "Salty Swine",
@@ -610,10 +483,7 @@
         "entity_colors": [
             "fisher"
         ],
-        "coordinates": [
-            110,
-            180.5
-        ]
+        "coordinates": [8, 110.5]
     },
     {
         "name": "Boardwalk",
@@ -624,10 +494,7 @@
         "entity_colors": [
             "fisher"
         ],
-        "coordinates": [
-            128.5,
-            161
-        ]
+        "coordinates": [26.5, 91]
     },
     {
         "name": "East Waterfront",
@@ -642,10 +509,7 @@
             "forager",
             "item"
         ],
-        "coordinates": [
-            148,
-            163
-        ]
+        "coordinates": [46, 93]
     },
     {
         "name": "Vacant Pier",
@@ -656,10 +520,7 @@
         "entity_colors": [
             "fisher"
         ],
-        "coordinates": [
-            143.5,
-            176.5
-        ]
+        "coordinates": [41.5, 106.5]
     },
     {
         "name": "Vincible",
@@ -670,10 +531,7 @@
         "entity_colors": [
             "fisher"
         ],
-        "coordinates": [
-            160,
-            181
-        ]
+        "coordinates": [58, 111]
     },
     {
         "name": "Little Lucy",
@@ -684,10 +542,7 @@
         "entity_colors": [
             "fisher"
         ],
-        "coordinates": [
-            90,
-            179
-        ]
+        "coordinates": [-12, 109]
     },
     {
         "name": "West Waterfront",
@@ -700,10 +555,7 @@
             "chef",
             "fisher"
         ],
-        "coordinates": [
-            90,
-            161
-        ]
+        "coordinates": [-12, 91]
     },
     {
         "name": "Scrapyard",
@@ -716,10 +568,7 @@
             "forager",
             "blacksmith"
         ],
-        "coordinates": [
-            83.5,
-            143.5
-        ]
+        "coordinates": [-18.5, 73.5]
     },
     {
         "name": "Sea Road",
@@ -734,10 +583,7 @@
             "forager",
             "item"
         ],
-        "coordinates": [
-            70,
-            155.5
-        ]
+        "coordinates": [-32, 85.5]
     },
     {
         "name": "East Beach",
@@ -752,10 +598,7 @@
             "fisher",
             "forager"
         ],
-        "coordinates": [
-            67,
-            169
-        ]
+        "coordinates": [-35, 99]
     },
     {
         "name": "Seashells Seashore",
@@ -774,10 +617,7 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            50,
-            166
-        ]
+        "coordinates": [-52, 96]
     },
     {
         "name": "Jellyfish Landing",
@@ -792,10 +632,7 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            31.5,
-            162
-        ]
+        "coordinates": [-70.5, 92]
     },
     {
         "name": "Starfish Point",
@@ -812,10 +649,7 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            14,
-            164
-        ]
+        "coordinates": [-88, 94]
     },
     {
         "name": "Ray Bay",
@@ -834,30 +668,25 @@
             "forager",
             "item"
         ],
-        "coordinates": [
-            9.5,
-            146.5
-        ]
+        "coordinates": [-92.5, 76.5]
     },
     {
         "name": "Hidden\nSandbar",
         "color": "#567173",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            -9.5,
-            143
-        ]
+        "coordinates": [-111.5, 73]
     },
     {
         "name": "Island Hideout",
         "color": "#c3a364",
-        "entities": ["Forager;Wrack"],
-        "entity_colors": ["forager"],
-        "coordinates": [
-            -21,
-            148.5
-        ]
+        "entities": [
+            "Forager;Wrack"
+        ],
+        "entity_colors": [
+            "forager"
+        ],
+        "coordinates": [-123, 78.5]
     },
     {
         "name": "Hideout\nStorage Area",
@@ -870,10 +699,7 @@
             "forager",
             "item"
         ],
-        "coordinates": [
-            -16,
-            127
-        ]
+        "coordinates": [-118, 57]
     },
     {
         "name": "Pirate Hideout",
@@ -888,10 +714,7 @@
             "fisher",
             "forager"
         ],
-        "coordinates": [
-            14,
-            127
-        ]
+        "coordinates": [-88, 57]
     },
     {
         "name": "Hopeport Coastal\nPortal Stone",
@@ -902,10 +725,7 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            8,
-            105.5
-        ]
+        "coordinates": [-94, 35.5]
     },
     {
         "name": "Fallen Monument",
@@ -924,10 +744,7 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            28.5,
-            145
-        ]
+        "coordinates": [-73.5, 75]
     },
     {
         "name": "Overgrown Field",
@@ -942,10 +759,7 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            50,
-            146.5
-        ]
+        "coordinates": [-52, 76.5]
     },
     {
         "name": "Overgrown Pond",
@@ -960,10 +774,7 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            63.5,
-            136
-        ]
+        "coordinates": [-38.5, 66]
     },
     {
         "name": "Rubble Road",
@@ -982,10 +793,7 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            49,
-            131
-        ]
+        "coordinates": [-53, 61]
     },
     {
         "name": "Crater",
@@ -1000,10 +808,7 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            32.5,
-            127.5
-        ]
+        "coordinates": [-69.5, 57.5]
     },
     {
         "name": "Overgrown Road",
@@ -1016,20 +821,14 @@
             "neutral",
             "forager"
         ],
-        "coordinates": [
-            44.5,
-            111.5
-        ]
+        "coordinates": [-57.5, 41.5]
     },
     {
         "name": "Hidden\nCavern",
         "color": "#846b4a",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            47.5,
-            92
-        ]
+        "coordinates": [-54.5, 22]
     },
     {
         "name": "Wasteland",
@@ -1042,10 +841,7 @@
             "aggressive",
             "forager"
         ],
-        "coordinates": [
-            31.5,
-            102
-        ]
+        "coordinates": [-70.5, 32]
     },
     {
         "name": "Collapsed\nHovels",
@@ -1060,10 +856,7 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            37,
-            88
-        ]
+        "coordinates": [-65, 18]
     },
     {
         "name": "Wild Path",
@@ -1078,10 +871,7 @@
             "forager",
             "item"
         ],
-        "coordinates": [
-            30.25,
-            72
-        ]
+        "coordinates": [-71.75, 2]
     },
     {
         "name": "Salmon Falls",
@@ -1094,10 +884,7 @@
             "fisher",
             "forager"
         ],
-        "coordinates": [
-            45,
-            78
-        ]
+        "coordinates": [-57, 8]
     },
     {
         "name": "Disused Path",
@@ -1112,10 +899,7 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            42.25,
-            62.5
-        ]
+        "coordinates": [-59.75, -7.5]
     },
     {
         "name": "Stony Meadow",
@@ -1128,10 +912,7 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            17,
-            75.25
-        ]
+        "coordinates": [-85, 5.25]
     },
     {
         "name": "Stony Coast",
@@ -1146,10 +927,7 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            2,
-            78
-        ]
+        "coordinates": [-100, 8]
     },
     {
         "name": "Scruffy Shoreline",
@@ -1164,50 +942,35 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            1,
-            58.75
-        ]
+        "coordinates": [-101, -11.25]
     },
     {
         "name": "Get Wrecked\nSalvage Company",
         "color": "#C3A364",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            -34.5,
-            47
-        ]
+        "coordinates": [-136.5, -23]
     },
     {
         "name": "Salvage Shipwreck",
         "color": "#70644E",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            -80,
-            48
-        ]
+        "coordinates": [-182, -22]
     },
     {
         "name": "Salvage Shipwreck\nBow",
         "color": "#70644E",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            -80,
-            64.5
-        ]
+        "coordinates": [-182, -5.5]
     },
     {
         "name": "Salvage Shipwreck\nStern",
         "color": "#70644E",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            -80,
-            27
-        ]
+        "coordinates": [-182, -43]
     },
     {
         "name": "Bone Strewn Path",
@@ -1222,10 +985,7 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            17.5,
-            62
-        ]
+        "coordinates": [-84.5, -8]
     },
     {
         "name": "Scruffy\nScrubland",
@@ -1240,10 +1000,7 @@
             "forager",
             "forager"
         ],
-        "coordinates": [
-            18.5,
-            49
-        ]
+        "coordinates": [-83.5, -21]
     },
     {
         "name": "Rocky Road",
@@ -1254,9 +1011,6 @@
         "entity_colors": [
             "neutral"
         ],
-        "coordinates": [
-            32.5,
-            50
-        ]
+        "coordinates": [-69.5, -20]
     }
 ]

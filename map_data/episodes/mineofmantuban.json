@@ -1,5 +1,5 @@
 [
-{
+    {
         "name": "Mine Back\nEntrance",
         "color": "#345a7c",
         "entities": [
@@ -10,10 +10,7 @@
             "neutral",
             "miner"
         ],
-        "coordinates": [
-            311.5,
-            156.5
-        ]
+        "coordinates": [209.5, 86.5]
     },
     {
         "name": "Rugged Tunnel",
@@ -24,10 +21,7 @@
         "entity_colors": [
             "neutral"
         ],
-        "coordinates": [
-            326.5,
-            156
-        ]
+        "coordinates": [224.5, 86]
     },
     {
         "name": "Horseshoe Hollow",
@@ -40,14 +34,18 @@
             "miner",
             "blacksmith"
         ],
-        "coordinates": [327, 146]
+        "coordinates": [225, 76]
     },
     {
         "name": "Excavation Site",
         "color": "#345a7c",
-        "entities": ["Miner;Minecart;Gravel Station"],
-        "entity_colors": ["miner"],
-        "coordinates": [338.5, 156]
+        "entities": [
+            "Miner;Minecart;Gravel Station"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [236.5, 86]
     },
     {
         "name": "Northwest\nMining Cavern",
@@ -62,10 +60,7 @@
             "miner",
             "miner"
         ],
-        "coordinates": [
-            325,
-            171.25
-        ]
+        "coordinates": [223, 101.25]
     },
     {
         "name": "Mine Cart Cave",
@@ -76,10 +71,7 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [
-            313,
-            165
-        ]
+        "coordinates": [211, 95]
     },
     {
         "name": "Jagged\nJunction",
@@ -90,10 +82,7 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [
-            333.5,
-            163.5
-        ]
+        "coordinates": [231.5, 93.5]
     },
     {
         "name": "North Mining\nCavern",
@@ -106,10 +95,7 @@
             "miner",
             "miner"
         ],
-        "coordinates": [
-            344,
-            165
-        ]
+        "coordinates": [242, 95]
     },
     {
         "name": "Cave of the Past",
@@ -128,20 +114,14 @@
             "miner",
             "item"
         ],
-        "coordinates": [
-            360,
-            161
-        ]
+        "coordinates": [258, 91]
     },
     {
         "name": "Rat Infested\nTunnel",
         "color": "#23425b",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            336,
-            172.5
-        ]
+        "coordinates": [234, 102.5]
     },
     {
         "name": "Rat Infested\nJunction",
@@ -154,10 +134,7 @@
             "neutral",
             "miner"
         ],
-        "coordinates": [
-            335,
-            182
-        ]
+        "coordinates": [233, 112]
     },
     {
         "name": "Ratty Terminus",
@@ -170,10 +147,7 @@
             "neutral",
             "miner"
         ],
-        "coordinates": [
-            332,
-            191
-        ]
+        "coordinates": [230, 121]
     },
     {
         "name": "Abandoned\nMining\nCavern",
@@ -186,30 +160,25 @@
             "miner",
             "miner"
         ],
-        "coordinates": [
-            322,
-            182
-        ]
+        "coordinates": [220, 112]
     },
     {
         "name": "Mine Entrance",
         "color": "#3f5970",
-        "entities": ["Miner;Minecart;Cart Terminus"],
-        "entity_colors": ["miner"],
-        "coordinates": [
-            311,
-            181
-        ]
+        "entities": [
+            "Miner;Minecart;Cart Terminus"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [209, 111]
     },
     {
         "name": "Narrow\nTunnel",
         "color": "#2e506e",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            325,
-            197.5
-        ]
+        "coordinates": [223, 127.5]
     },
     {
         "name": "Mine Cart Tunnel",
@@ -220,10 +189,7 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            315,
-            189
-        ]
+        "coordinates": [213, 119]
     },
     {
         "name": "Dilapidated\nMining Cavern",
@@ -236,10 +202,7 @@
             "miner",
             "miner"
         ],
-        "coordinates": [
-            309.5,
-            196
-        ]
+        "coordinates": [207.5, 126]
     },
     {
         "name": "Bridge Cavern",
@@ -254,10 +217,7 @@
             "miner",
             "carpenter"
         ],
-        "coordinates": [
-            309,
-            206
-        ]
+        "coordinates": [207, 136]
     },
     {
         "name": "Bat Cave",
@@ -270,10 +230,7 @@
             "neutral",
             "miner"
         ],
-        "coordinates": [
-            318,
-            215
-        ]
+        "coordinates": [216, 145]
     },
     {
         "name": "Leech Pools",
@@ -286,10 +243,7 @@
             "bonewright",
             "item"
         ],
-        "coordinates": [
-            304.5,
-            220
-        ]
+        "coordinates": [202.5, 150]
     },
     {
         "name": "Bone Vats",
@@ -306,10 +260,7 @@
             "bonewright",
             "bonewright"
         ],
-        "coordinates": [
-            292,
-            213
-        ]
+        "coordinates": [190, 143]
     },
     {
         "name": "Boneworks",
@@ -322,10 +273,7 @@
             "neutral",
             "bonewright"
         ],
-        "coordinates": [
-            290,
-            225
-        ]
+        "coordinates": [188, 155]
     },
     {
         "name": "Andesite Site",
@@ -336,10 +284,7 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [
-            315.5,
-            231.5
-        ]
+        "coordinates": [213.5, 161.5]
     },
     {
         "name": "Stalagmite Nook",
@@ -350,10 +295,7 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [
-            303,
-            235.5
-        ]
+        "coordinates": [201, 165.5]
     },
     {
         "name": "Purpladium Vein",
@@ -368,20 +310,14 @@
             "miner",
             "item"
         ],
-        "coordinates": [
-            318.5,
-            242.5
-        ]
+        "coordinates": [216.5, 172.5]
     },
     {
         "name": "Rocky\nPassage",
         "color": "#334d55",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            323.5,
-            221.5
-        ]
+        "coordinates": [221.5, 151.5]
     },
     {
         "name": "Gassy Cave",
@@ -392,10 +328,7 @@
         "entity_colors": [
             "aggressive"
         ],
-        "coordinates": [
-            328,
-            233
-        ]
+        "coordinates": [226, 163]
     },
     {
         "name": "Gassy Grotto",
@@ -408,10 +341,7 @@
             "miner",
             "item"
         ],
-        "coordinates": [
-            343.5,
-            237.5
-        ]
+        "coordinates": [241.5, 167.5]
     },
     {
         "name": "Moderate Mineshaft",
@@ -422,10 +352,7 @@
         "entity_colors": [
             "aggressive"
         ],
-        "coordinates": [
-            337,
-            246
-        ]
+        "coordinates": [235, 176]
     },
     {
         "name": "Goblin Well",
@@ -436,10 +363,7 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [
-            328,
-            263
-        ]
+        "coordinates": [226, 193]
     },
     {
         "name": "Goblin Workshop",
@@ -464,30 +388,21 @@
             "blacksmith",
             "blacksmith"
         ],
-        "coordinates": [
-            343,
-            263.5
-        ]
+        "coordinates": [241, 193.5]
     },
     {
         "name": "Goblin\nLiving\nQuarters",
         "color": "#524236",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            332,
-            270.5
-        ]
+        "coordinates": [230, 200.5]
     },
     {
         "name": "Goblin\nStorage Cave",
         "color": "#454741",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            316.5,
-            263
-        ]
+        "coordinates": [214.5, 193]
     },
     {
         "name": "Infusionist's\nShop",
@@ -498,20 +413,14 @@
         "entity_colors": [
             "obstacle"
         ],
-        "coordinates": [
-            317,
-            252.5
-        ]
+        "coordinates": [215, 182.5]
     },
     {
         "name": "Bonetron Station",
         "color": "#454743",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            301,
-            251
-        ]
+        "coordinates": [199, 181]
     },
     {
         "name": "Mine Southwest\nPortal Stone",
@@ -522,20 +431,14 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            305,
-            262.5
-        ]
+        "coordinates": [203, 192.5]
     },
     {
         "name": "Polished\nTunnel",
         "color": "#454741",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            323,
-            274.5
-        ]
+        "coordinates": [221, 204.5]
     },
     {
         "name": "Stonemasonry Room",
@@ -554,10 +457,7 @@
             "stonemason",
             "stonemason"
         ],
-        "coordinates": [
-            320,
-            284
-        ]
+        "coordinates": [218, 214]
     },
     {
         "name": "Sculpting Room",
@@ -574,83 +474,85 @@
             "stonemason",
             "stonemason"
         ],
-        "coordinates": [
-            337.5,
-            284
-        ]
+        "coordinates": [235.5, 214]
     },
     {
         "name": "Professor\nTepler's\nOffice",
         "color": "#504236",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [317.5, 296]
+        "coordinates": [215.5, 226]
     },
     {
         "name": "Lower\nHidden Passage",
         "color": "#30383e",
-        "entities": ["Combat;Floor Tentacle"],
-        "entity_colors": ["aggressive"],
-        "coordinates": [323, 308]
+        "entities": [
+            "Combat;Floor Tentacle"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [221, 238]
     },
     {
         "name": "Upper\nHidden Passage",
         "color": "#30383e",
-        "entities": ["Storage;Storage Rift"],
-        "entity_colors": ["item"],
-        "coordinates": [327, 321]
+        "entities": [
+            "Storage;Storage Rift"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [225, 251]
     },
     {
         "name": "The Lost Lake",
         "color": "#22262b",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [326, 339]
+        "coordinates": [224, 269]
     },
     {
         "name": "Calamari Causeway",
         "color": "#22262b",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [307, 322]
+        "coordinates": [205, 252]
     },
     {
         "name": "Crumbling\nCauseway",
         "color": "#22262b",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [306, 345]
+        "coordinates": [204, 275]
     },
     {
         "name": "Thermal\nSprings",
         "color": "#22262b",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [314, 359]
+        "coordinates": [212, 289]
     },
     {
         "name": "Foreboding\nCauseway",
         "color": "#22262b",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [328, 355.5]
+        "coordinates": [226, 285.5]
     },
     {
         "name": "Lashing Lagoon",
         "color": "#101616",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [332, 382]
+        "coordinates": [230, 312]
     },
     {
         "name": "Market\nTunnel",
         "color": "#464842",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            315,
-            271
-        ]
+        "coordinates": [213, 201]
     },
     {
         "name": "Goblin Marketplace",
@@ -667,20 +569,14 @@
             "miner",
             "stonemason"
         ],
-        "coordinates": [
-            302.5,
-            282.5
-        ]
+        "coordinates": [200.5, 212.5]
     },
     {
         "name": "Cage\nCavern",
         "color": "#464842",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            290,
-            280
-        ]
+        "coordinates": [188, 210]
     },
     {
         "name": "Cave of\nthe Future",
@@ -691,10 +587,7 @@
         "entity_colors": [
             "bonewright"
         ],
-        "coordinates": [
-            304,
-            296
-        ]
+        "coordinates": [202, 226]
     },
     {
         "name": "Rugged Passage",
@@ -705,10 +598,7 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [
-            340.5,
-            254
-        ]
+        "coordinates": [238.5, 184]
     },
     {
         "name": "Strange Junction",
@@ -719,73 +609,70 @@
         "entity_colors": [
             "neutral"
         ],
-        "coordinates": [
-            354,
-            251.5
-        ]
+        "coordinates": [252, 181.5]
     },
     {
         "name": "Maintenance\nRoom",
         "color": "#344d55",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [353, 241.5]
+        "coordinates": [251, 171.5]
     },
     {
         "name": "Lost\nand\nFound",
         "color": "#344e56",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [354, 261.5]
+        "coordinates": [252, 191.5]
     },
     {
         "name": "Strange\nStairway",
         "color": "#344e56",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [350.5, 273]
+        "coordinates": [248.5, 203]
     },
     {
         "name": "Podium Cave",
         "color": "#334d51",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [362.5, 279.5]
+        "coordinates": [260.5, 209.5]
     },
     {
         "name": "Eagle\nGate",
         "color": "#334f55",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [374.5, 284]
+        "coordinates": [272.5, 214]
     },
     {
         "name": "Ancient\nPipes\nRoom",
         "color": "#324c50",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [385, 288]
+        "coordinates": [283, 218]
     },
     {
         "name": "Beginning of\nthe Beyond",
         "color": "#334f55",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [397, 285]
+        "coordinates": [295, 215]
     },
     {
         "name": "Middle of\nthe Beyond",
         "color": "#283836",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [401.5, 303]
+        "coordinates": [299.5, 233]
     },
     {
         "name": "Back of\nthe Beyond",
         "color": "#283836",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [402.5, 324.5]
+        "coordinates": [300.5, 254.5]
     },
     {
         "name": "Outside Hollow",
@@ -798,21 +685,29 @@
             "neutral",
             "miner"
         ],
-        "coordinates": [368, 255]
+        "coordinates": [266, 185]
     },
     {
         "name": "Forsaken\nMine Workings",
         "color": "#334f55",
-        "entities": ["Combat;Skeleton Miner"],
-        "entity_colors": ["aggressive"],
-        "coordinates": [360, 269]
+        "entities": [
+            "Combat;Skeleton Miner"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [258, 199]
     },
     {
         "name": "Wretched Excavation",
         "color": "#345054",
-        "entities": ["Combat;Skeleton Miner"],
-        "entity_colors": ["aggressive"],
-        "coordinates": [374, 264]
+        "entities": [
+            "Combat;Skeleton Miner"
+        ],
+        "entity_colors": [
+            "aggressive"
+        ],
+        "coordinates": [272, 194]
     },
     {
         "name": "Forsaken\nAccess Tunnel",
@@ -825,17 +720,18 @@
             "miner",
             "item"
         ],
-        "coordinates": [
-            381.5,
-            272
-        ]
+        "coordinates": [279.5, 202]
     },
     {
         "name": "Aperture to\nthe Beyond",
         "color": "#345054",
-        "entities": ["Miner;Duraben Ore"],
-        "entity_colors": ["miner"],
-        "coordinates": [396, 270]
+        "entities": [
+            "Miner;Duraben Ore"
+        ],
+        "entity_colors": [
+            "miner"
+        ],
+        "coordinates": [294, 200]
     },
     {
         "name": "Big River Cavern",
@@ -848,17 +744,14 @@
             "neutral",
             "miner"
         ],
-        "coordinates": [
-            330,
-            206
-        ]
+        "coordinates": [228, 136]
     },
     {
         "name": "Mossy\nCorner",
         "color": "#344e56",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [333.5, 215]
+        "coordinates": [231.5, 145]
     },
     {
         "name": "Tenebrous Tunnel",
@@ -869,10 +762,7 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [
-            341,
-            219
-        ]
+        "coordinates": [239, 149]
     },
     {
         "name": "Central\nMining Cavern",
@@ -883,10 +773,7 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [
-            343,
-            229
-        ]
+        "coordinates": [241, 159]
     },
     {
         "name": "Kobold Cavern",
@@ -901,17 +788,14 @@
             "miner",
             "item"
         ],
-        "coordinates": [
-            354.5,
-            217.25
-        ]
+        "coordinates": [252.5, 147.25]
     },
     {
         "name": "Grachnid Cave",
         "color": "#284640",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [361, 229]
+        "coordinates": [259, 159]
     },
     {
         "name": "Riverside\nGoblin Cavern",
@@ -922,10 +806,7 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [
-            345.5,
-            206
-        ]
+        "coordinates": [243.5, 136]
     },
     {
         "name": "Communal\nGoblin Area",
@@ -936,10 +817,7 @@
         "entity_colors": [
             "aggressive"
         ],
-        "coordinates": [
-            344.5,
-            197
-        ]
+        "coordinates": [242.5, 127]
     },
     {
         "name": "Goblin\nSleeping\nArea",
@@ -950,10 +828,7 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            357.5,
-            196.5
-        ]
+        "coordinates": [255.5, 126.5]
     },
     {
         "name": "Goblin\nSleeping Area 2",
@@ -964,31 +839,28 @@
         "entity_colors": [
             "aggressive"
         ],
-        "coordinates": [
-            356,
-            187.5
-        ]
+        "coordinates": [254, 117.5]
     },
     {
         "name": "Chuncrates\nChamber",
         "color": "#2e516f",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [366.5, 189.5]
+        "coordinates": [264.5, 119.5]
     },
     {
         "name": "Goblin\nSleeping\nArea 3",
         "color": "#325678",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [346.5, 182.5]
+        "coordinates": [244.5, 112.5]
     },
     {
         "name": "Goblin\nLoot Stash",
         "color": "#2d4f6d",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [346.5, 176]
+        "coordinates": [244.5, 106]
     },
     {
         "name": "Upstream\nGoblin Cavern",
@@ -999,10 +871,7 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [
-            358,
-            206
-        ]
+        "coordinates": [256, 136]
     },
     {
         "name": "River Bend",
@@ -1013,10 +882,7 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [
-            374,
-            205
-        ]
+        "coordinates": [272, 135]
     },
     {
         "name": "Mine of Mantuban\nObelisk",
@@ -1027,17 +893,14 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            371.5,
-            217.75
-        ]
+        "coordinates": [269.5, 147.75]
     },
     {
         "name": "Waterfall",
         "color": "#3e3660",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [374, 191.5]
+        "coordinates": [272, 121.5]
     },
     {
         "name": "Upper River Bend",
@@ -1050,17 +913,14 @@
             "miner",
             "blacksmith"
         ],
-        "coordinates": [
-            378,
-            184
-        ]
+        "coordinates": [276, 114]
     },
     {
         "name": "Filtration\nStation$Filtration Station (room)",
         "color": "#3A4553",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [362, 178]
+        "coordinates": [260, 108]
     },
     {
         "name": "Rockling Cave",
@@ -1073,10 +933,7 @@
             "neutral",
             "item"
         ],
-        "coordinates": [
-            378,
-            169
-        ]
+        "coordinates": [276, 99]
     },
     {
         "name": "Upper Bridge",
@@ -1089,17 +946,14 @@
             "neutral",
             "miner"
         ],
-        "coordinates": [
-            389.5,
-            178.5
-        ]
+        "coordinates": [287.5, 108.5]
     },
     {
         "name": "Skallek's\nDwelling",
         "color": "#2b4d6b",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [388.5, 171]
+        "coordinates": [286.5, 101]
     },
     {
         "name": "Gnome Dwelling",
@@ -1110,10 +964,7 @@
         "entity_colors": [
             "blacksmith"
         ],
-        "coordinates": [
-            389,
-            198.5
-        ]
+        "coordinates": [287, 128.5]
     },
     {
         "name": "Damp Tunnel",
@@ -1124,10 +975,7 @@
         "entity_colors": [
             "neutral"
         ],
-        "coordinates": [
-            400,
-            175
-        ]
+        "coordinates": [298, 105]
     },
     {
         "name": "Kobold Arena$Kobold Arena (room)",
@@ -1138,10 +986,7 @@
         "entity_colors": [
             "blacksmith"
         ],
-        "coordinates": [
-            396.5,
-            157.5
-        ]
+        "coordinates": [294.5, 87.5]
     },
     {
         "name": "Rock Strewn Tunnel",
@@ -1154,17 +999,18 @@
             "neutral",
             "miner"
         ],
-        "coordinates": [
-            412,
-            177
-        ]
+        "coordinates": [310, 107]
     },
     {
         "name": "Mine Northeast\nPortal Stone",
         "color": "#324854",
-        "entities": ["Portal_Stone;Portal Stone"],
-        "entity_colors": ["item"],
-        "coordinates": [409, 166]
+        "entities": [
+            "Portal_Stone;Portal Stone"
+        ],
+        "entity_colors": [
+            "item"
+        ],
+        "coordinates": [307, 96]
     },
     {
         "name": "Mutant\nCockroaches",
@@ -1175,10 +1021,7 @@
         "entity_colors": [
             "neutral"
         ],
-        "coordinates": [
-            421.5,
-            186.5
-        ]
+        "coordinates": [319.5, 116.5]
     },
     {
         "name": "Cockroach Lair",
@@ -1189,20 +1032,14 @@
         "entity_colors": [
             "neutral"
         ],
-        "coordinates": [
-            422,
-            171
-        ]
+        "coordinates": [320, 101]
     },
     {
         "name": "Trash\nCave",
         "color": "#1C3850",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            419,
-            160
-        ]
+        "coordinates": [317, 90]
     },
     {
         "name": "Cave of\nthe Crystal",
@@ -1215,10 +1052,7 @@
             "miner",
             "item"
         ],
-        "coordinates": [
-            431.5,
-            185.5
-        ]
+        "coordinates": [329.5, 115.5]
     },
     {
         "name": "Gnome Forge",
@@ -1241,10 +1075,7 @@
             "blacksmith",
             "blacksmith"
         ],
-        "coordinates": [
-            431.5,
-            160.5
-        ]
+        "coordinates": [329.5, 90.5]
     },
     {
         "name": "Gnomic\nSilver Mine",
@@ -1255,10 +1086,7 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [
-            448,
-            167.25
-        ]
+        "coordinates": [346, 97.25]
     },
     {
         "name": "Crumbling Passage",
@@ -1269,10 +1097,7 @@
         "entity_colors": [
             "aggressive"
         ],
-        "coordinates": [
-            397.5,
-            193.5
-        ]
+        "coordinates": [295.5, 123.5]
     },
     {
         "name": "Stonewurm Nests",
@@ -1283,10 +1108,7 @@
         "entity_colors": [
             "aggressive"
         ],
-        "coordinates": [
-            414.5,
-            194.5
-        ]
+        "coordinates": [312.5, 124.5]
     },
     {
         "name": "Rubble Cave",
@@ -1297,10 +1119,7 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [
-            396.5,
-            207.25
-        ]
+        "coordinates": [294.5, 137.25]
     },
     {
         "name": "Truck Cave",
@@ -1313,10 +1132,7 @@
             "miner",
             "item"
         ],
-        "coordinates": [
-            413.5,
-            215
-        ]
+        "coordinates": [311.5, 145]
     },
     {
         "name": "Mollusc Mineshaft",
@@ -1327,50 +1143,35 @@
         "entity_colors": [
             "neutral"
         ],
-        "coordinates": [
-            431,
-            219
-        ]
+        "coordinates": [329, 149]
     },
     {
         "name": "Flooded Depths",
         "color": "#22394F",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            429,
-            207
-        ]
+        "coordinates": [327, 137]
     },
     {
         "name": "Odd Cavern",
         "color": "#223A50",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            440,
-            203.5
-        ]
+        "coordinates": [338, 133.5]
     },
     {
         "name": "Confusing Cave",
         "color": "#223A50",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            453,
-            209.5
-        ]
+        "coordinates": [351, 139.5]
     },
     {
         "name": "Reality Fracture",
         "color": "#223A4F",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            464,
-            209.5
-        ]
+        "coordinates": [362, 139.5]
     },
     {
         "name": "Bronze Gate",
@@ -1383,10 +1184,7 @@
             "miner",
             "miner"
         ],
-        "coordinates": [
-            399.5,
-            221
-        ]
+        "coordinates": [297.5, 151]
     },
     {
         "name": "T & T's Explosives",
@@ -1399,10 +1197,7 @@
             "miner",
             "miner"
         ],
-        "coordinates": [
-            386,
-            218
-        ]
+        "coordinates": [284, 148]
     },
     {
         "name": "Forgotten Tunnel",
@@ -1413,7 +1208,7 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [400, 231.5]
+        "coordinates": [298, 161.5]
     },
     {
         "name": "Tormented\nChamber",
@@ -1424,10 +1219,7 @@
         "entity_colors": [
             "aggressive"
         ],
-        "coordinates": [
-            386.5,
-            229
-        ]
+        "coordinates": [284.5, 159]
     },
     {
         "name": "Mysterious\nCave",
@@ -1438,10 +1230,7 @@
         "entity_colors": [
             "aggressive"
         ],
-        "coordinates": [
-            389,
-            239.75
-        ]
+        "coordinates": [287, 169.75]
     },
     {
         "name": "Mush Room",
@@ -1452,10 +1241,7 @@
         "entity_colors": [
             "neutral"
         ],
-        "coordinates": [
-            374,
-            240
-        ]
+        "coordinates": [272, 170]
     },
     {
         "name": "Mine Deep\nPortal Stone",
@@ -1466,20 +1252,14 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            389,
-            253
-        ]
+        "coordinates": [287, 183]
     },
     {
         "name": "Slimy\nTunnel",
         "color": "#52503E",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            408,
-            240.25
-        ]
+        "coordinates": [306, 170.25]
     },
     {
         "name": "Grimy Tunnel",
@@ -1490,10 +1270,7 @@
         "entity_colors": [
             "aggressive"
         ],
-        "coordinates": [
-            416.5,
-            230.5
-        ]
+        "coordinates": [314.5, 160.5]
     },
     {
         "name": "Grimy Slimy\nJunction",
@@ -1504,10 +1281,7 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            417,
-            240
-        ]
+        "coordinates": [315, 170]
     },
     {
         "name": "Slime Pool",
@@ -1518,20 +1292,14 @@
         "entity_colors": [
             "aggressive"
         ],
-        "coordinates": [
-            431.5,
-            240.5
-        ]
+        "coordinates": [329.5, 170.5]
     },
     {
         "name": "Machine\nShaft",
         "color": "#52503E",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            414,
-            250
-        ]
+        "coordinates": [312, 180]
     },
     {
         "name": "Ruined Camp",
@@ -1542,10 +1310,7 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [
-            415,
-            260.5
-        ]
+        "coordinates": [313, 190.5]
     },
     {
         "name": "Crash Site",
@@ -1556,9 +1321,6 @@
         "entity_colors": [
             "miner"
         ],
-        "coordinates": [
-            415,
-            272
-        ]
+        "coordinates": [313, 202]
     }
 ]

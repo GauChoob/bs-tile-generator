@@ -1,23 +1,17 @@
 [
-{
+    {
         "name": "Entrance to Hopeport",
         "color": "#c7b177",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            192,
-            123.5
-        ]
+        "coordinates": [90, 53.5]
     },
     {
         "name": "Road to\nHopeport",
         "color": "#959354",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            214.5,
-            123.5
-        ]
+        "coordinates": [112.5, 53.5]
     },
     {
         "name": "Forest Clearing",
@@ -30,10 +24,7 @@
             "neutral",
             "botanist"
         ],
-        "coordinates": [
-            234.5,
-            123.5
-        ]
+        "coordinates": [132.5, 53.5]
     },
     {
         "name": "Leafy Lane",
@@ -44,20 +35,14 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            230,
-            102
-        ]
+        "coordinates": [128, 32]
     },
     {
         "name": "Apiary",
         "color": "#959353",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            219.5,
-            105.5
-        ]
+        "coordinates": [117.5, 35.5]
     },
     {
         "name": "Leafy Junction",
@@ -72,10 +57,7 @@
             "botanist",
             "woodcutter"
         ],
-        "coordinates": [
-            230.5,
-            82.5
-        ]
+        "coordinates": [128.5, 12.5]
     },
     {
         "name": "Bear Clearing",
@@ -92,10 +74,7 @@
             "woodcutter",
             "item"
         ],
-        "coordinates": [
-            212,
-            83.5
-        ]
+        "coordinates": [110, 13.5]
     },
     {
         "name": "Bear Behind",
@@ -108,10 +87,7 @@
             "neutral",
             "woodcutter"
         ],
-        "coordinates": [
-            194.5,
-            83.5
-        ]
+        "coordinates": [92.5, 13.5]
     },
     {
         "name": "Two Headed\nBear Clearing",
@@ -124,30 +100,25 @@
             "botanist",
             "woodcutter"
         ],
-        "coordinates": [
-            214.5,
-            63.5
-        ]
+        "coordinates": [112.5, -6.5]
     },
     {
         "name": "Bee Cave",
         "color": "#714C36",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            195,
-            63.5
-        ]
+        "coordinates": [93, -6.5]
     },
     {
         "name": "Tangled Lane",
         "color": "#8f9554",
-        "entities": ["Combat;Passive;Wildman"],
-        "entity_colors": ["neutral"],
-        "coordinates": [
-            247,
-            84.5
-        ]
+        "entities": [
+            "Combat;Passive;Wildman"
+        ],
+        "entity_colors": [
+            "neutral"
+        ],
+        "coordinates": [145, 14.5]
     },
     {
         "name": "Narrow Path",
@@ -158,10 +129,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            243.5,
-            76.5
-        ]
+        "coordinates": [141.5, 6.5]
     },
     {
         "name": "Thin Trail",
@@ -172,20 +140,14 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            243,
-            63
-        ]
+        "coordinates": [141, -7]
     },
     {
         "name": "Magic Cave",
         "color": "#866a4c",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            247.5,
-            48.5
-        ]
+        "coordinates": [145.5, -21.5]
     },
     {
         "name": "Tangled Path",
@@ -196,10 +158,7 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            261,
-            86
-        ]
+        "coordinates": [159, 16]
     },
     {
         "name": "Stump Clearing",
@@ -212,10 +171,7 @@
             "neutral",
             "woodcutter"
         ],
-        "coordinates": [
-            275.5,
-            81
-        ]
+        "coordinates": [173.5, 11]
     },
     {
         "name": "Canopy Lane",
@@ -226,10 +182,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            258,
-            73.5
-        ]
+        "coordinates": [156, 3.5]
     },
     {
         "name": "Canopy Junction",
@@ -240,10 +193,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            265.5,
-            61.5
-        ]
+        "coordinates": [163.5, -8.5]
     },
     {
         "name": "Treeway\nClearing",
@@ -258,10 +208,7 @@
             "botanist",
             "woodcutter"
         ],
-        "coordinates": [
-            270.5,
-            52
-        ]
+        "coordinates": [168.5, -18]
     },
     {
         "name": "Treeway\nJunction",
@@ -274,10 +221,7 @@
             "neutral",
             "woodcutter"
         ],
-        "coordinates": [
-            276,
-            64.5
-        ]
+        "coordinates": [174, -5.5]
     },
     {
         "name": "Rising Trail",
@@ -288,10 +232,7 @@
         "entity_colors": [
             "neutral"
         ],
-        "coordinates": [
-            262.5,
-            38.5
-        ]
+        "coordinates": [160.5, -31.5]
     },
     {
         "name": "Wooded Clifftop",
@@ -302,20 +243,18 @@
         "entity_colors": [
             "neutral"
         ],
-        "coordinates": [
-            262,
-            27.5
-        ]
+        "coordinates": [160, -42.5]
     },
     {
         "name": "Road to\nNowhere Much",
         "color": "#958354",
-        "entities": ["Beehive;Beehive"],
-        "entity_colors": ["botanist"],
-        "coordinates": [
-            274.5,
-            41.5
-        ]
+        "entities": [
+            "Beehive;Beehive"
+        ],
+        "entity_colors": [
+            "botanist"
+        ],
+        "coordinates": [172.5, -28.5]
     },
     {
         "name": "Peat Bog",
@@ -326,10 +265,7 @@
         "entity_colors": [
             "botanist"
         ],
-        "coordinates": [
-            276.5,
-            32
-        ]
+        "coordinates": [174.5, -38]
     },
     {
         "name": "North Peat Bog",
@@ -340,10 +276,7 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            275.5,
-            22.5
-        ]
+        "coordinates": [173.5, -47.5]
     },
     {
         "name": "Hopeforest North\nPortal Stone",
@@ -354,10 +287,7 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            288.5,
-            42.5
-        ]
+        "coordinates": [186.5, -27.5]
     },
     {
         "name": "Tranquil\nClearing",
@@ -368,30 +298,21 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            288.5,
-            54.5
-        ]
+        "coordinates": [186.5, -15.5]
     },
     {
         "name": "Honeycomb\nGrove",
         "color": "#7B714E",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            307,
-            51.5
-        ]
+        "coordinates": [205, -18.5]
     },
     {
         "name": "Honeycomb\nHeights",
         "color": "#524236",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            300.5,
-            33.5
-        ]
+        "coordinates": [198.5, -36.5]
     },
     {
         "name": "Treeway\nTrail",
@@ -404,10 +325,7 @@
             "neutral",
             "woodcutter"
         ],
-        "coordinates": [
-            291,
-            65
-        ]
+        "coordinates": [189, -5]
     },
     {
         "name": "Cutters Clearing",
@@ -422,10 +340,7 @@
             "woodcutter",
             "item"
         ],
-        "coordinates": [
-            294,
-            74
-        ]
+        "coordinates": [192, 4]
     },
     {
         "name": "Twisted Road",
@@ -438,10 +353,7 @@
             "aggressive",
             "woodcutter"
         ],
-        "coordinates": [
-            312.5,
-            67.5
-        ]
+        "coordinates": [210.5, -2.5]
     },
     {
         "name": "Gnarled\nPath",
@@ -452,10 +364,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            326.5,
-            73.5
-        ]
+        "coordinates": [224.5, 3.5]
     },
     {
         "name": "Wolves' Den",
@@ -468,10 +377,7 @@
             "neutral",
             "woodcutter"
         ],
-        "coordinates": [
-            335.5,
-            63.5
-        ]
+        "coordinates": [233.5, -6.5]
     },
     {
         "name": "Shady Bypass",
@@ -482,10 +388,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            329,
-            80
-        ]
+        "coordinates": [227, 10]
     },
     {
         "name": "Twisted\nJunction",
@@ -498,10 +401,7 @@
             "aggressive",
             "woodcutter"
         ],
-        "coordinates": [
-            317,
-            86
-        ]
+        "coordinates": [215, 16]
     },
     {
         "name": "Overgrown Trail",
@@ -518,10 +418,7 @@
             "woodcutter",
             "item"
         ],
-        "coordinates": [
-            331.5,
-            87
-        ]
+        "coordinates": [229.5, 17]
     },
     {
         "name": "Crystal\nClearing",
@@ -534,10 +431,7 @@
             "botanist",
             "woodcutter"
         ],
-        "coordinates": [
-            350,
-            87.5
-        ]
+        "coordinates": [248, 17.5]
     },
     {
         "name": "Bramble Path",
@@ -550,10 +444,7 @@
             "woodcutter",
             "woodcutter"
         ],
-        "coordinates": [
-            331,
-            97
-        ]
+        "coordinates": [229, 27]
     },
     {
         "name": "Mushroom\nGrove",
@@ -566,10 +457,7 @@
             "botanist",
             "woodcutter"
         ],
-        "coordinates": [
-            328,
-            108
-        ]
+        "coordinates": [226, 38]
     },
     {
         "name": "Shortcut",
@@ -580,10 +468,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            306,
-            87
-        ]
+        "coordinates": [204, 17]
     },
     {
         "name": "Stumped\nPath",
@@ -594,10 +479,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            293,
-            86
-        ]
+        "coordinates": [191, 16]
     },
     {
         "name": "Neglected\nTrack",
@@ -608,10 +490,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            290,
-            93
-        ]
+        "coordinates": [188, 23]
     },
     {
         "name": "Snakes Path",
@@ -624,20 +503,14 @@
             "aggressive",
             "woodcutter"
         ],
-        "coordinates": [
-            307,
-            103
-        ]
+        "coordinates": [205, 33]
     },
     {
         "name": "Nectar\nCrossing",
         "color": "#5E5A40",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            318,
-            105
-        ]
+        "coordinates": [216, 35]
     },
     {
         "name": "Snakes\nClearing",
@@ -650,10 +523,7 @@
             "aggressive",
             "woodcutter"
         ],
-        "coordinates": [
-            303.5,
-            117.75
-        ]
+        "coordinates": [201.5, 47.75]
     },
     {
         "name": "Central\nJunction",
@@ -664,10 +534,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            287,
-            120
-        ]
+        "coordinates": [185, 50]
     },
     {
         "name": "Logging Area",
@@ -680,10 +547,7 @@
             "woodcutter",
             "woodcutter"
         ],
-        "coordinates": [
-            293.5,
-            105
-        ]
+        "coordinates": [191.5, 35]
     },
     {
         "name": "Central\nCrossroads",
@@ -694,10 +558,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            273.5,
-            118.5
-        ]
+        "coordinates": [171.5, 48.5]
     },
     {
         "name": "North\nCentral Path",
@@ -708,10 +569,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            277,
-            103.5
-        ]
+        "coordinates": [175, 33.5]
     },
     {
         "name": "Secluded\nJunction",
@@ -722,10 +580,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            266.5,
-            95
-        ]
+        "coordinates": [164.5, 25]
     },
     {
         "name": "Luscious Glade",
@@ -738,10 +593,7 @@
             "woodcutter",
             "item"
         ],
-        "coordinates": [
-            263,
-            107
-        ]
+        "coordinates": [161, 37]
     },
     {
         "name": "Secluded Path",
@@ -752,20 +604,14 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            252.5,
-            95
-        ]
+        "coordinates": [150.5, 25]
     },
     {
         "name": "Dryad Glade",
         "color": "#50824c",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            247,
-            106.5
-        ]
+        "coordinates": [145, 36.5]
     },
     {
         "name": "Secluded\nShortcut",
@@ -780,10 +626,7 @@
             "woodcutter",
             "woodcutter"
         ],
-        "coordinates": [
-            238.5,
-            94.5
-        ]
+        "coordinates": [136.5, 24.5]
     },
     {
         "name": "Forest Path",
@@ -796,10 +639,7 @@
             "neutral",
             "woodcutter"
         ],
-        "coordinates": [
-            255.5,
-            118.5
-        ]
+        "coordinates": [153.5, 48.5]
     },
     {
         "name": "Goblin Camp",
@@ -812,10 +652,7 @@
             "aggressive",
             "item"
         ],
-        "coordinates": [
-            256.5,
-            130
-        ]
+        "coordinates": [154.5, 60]
     },
     {
         "name": "Huntsman's Clearing",
@@ -832,10 +669,7 @@
             "botanist",
             "woodcutter"
         ],
-        "coordinates": [
-            239.5,
-            140.5
-        ]
+        "coordinates": [137.5, 70.5]
     },
     {
         "name": "Mushroom Glade",
@@ -846,32 +680,23 @@
         "entity_colors": [
             "botanist"
         ],
-        "coordinates": [
-            222.5,
-            142.5
-        ]
+        "coordinates": [120.5, 72.5]
     },
-		{
+    {
         "name": "Trail of Spores",
         "color": "#796030",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            217,
-            157.5
-        ]
+        "coordinates": [115, 87.5]
     },
-		{
+    {
         "name": "Den of Spores",
         "color": "#5a402a",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            197.5,
-            157
-        ]
+        "coordinates": [95.5, 87]
     },
-		{
+    {
         "name": "Timberwell\nPortal Stone",
         "color": "#775f34",
         "entities": [
@@ -880,20 +705,14 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            211.5,
-            167.5
-        ]
+        "coordinates": [109.5, 97.5]
     },
     {
         "name": "Huntsman's\nLodge",
         "color": "#7f725c",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            234,
-            150.5
-        ]
+        "coordinates": [132, 80.5]
     },
     {
         "name": "Timberwell\nRoad",
@@ -908,10 +727,7 @@
             "botanist",
             "woodcutter"
         ],
-        "coordinates": [
-            244.75,
-            165
-        ]
+        "coordinates": [142.75, 95]
     },
     {
         "name": "Timberwell Green",
@@ -930,10 +746,7 @@
             "woodcutter",
             "carpenter"
         ],
-        "coordinates": [
-            243.5,
-            192.5
-        ]
+        "coordinates": [141.5, 122.5]
     },
     {
         "name": "Carpenter's Workshop",
@@ -956,20 +769,14 @@
             "carpenter",
             "carpenter"
         ],
-        "coordinates": [
-            235,
-            211
-        ]
+        "coordinates": [133, 141]
     },
     {
         "name": "Tarana and\nAlden's Home",
         "color": "#7f715b",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            227.75,
-            200.5
-        ]
+        "coordinates": [125.75, 130.5]
     },
     {
         "name": "Gwen's Lumber",
@@ -980,10 +787,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            227,
-            188.75
-        ]
+        "coordinates": [125, 118.75]
     },
     {
         "name": "Timberwell\nSide Road",
@@ -998,10 +802,7 @@
             "woodcutter",
             "item"
         ],
-        "coordinates": [
-            217,
-            179.5
-        ]
+        "coordinates": [115, 109.5]
     },
     {
         "name": "Timberwell\nSupplies",
@@ -1012,10 +813,7 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            222,
-            168
-        ]
+        "coordinates": [120, 98]
     },
     {
         "name": "Greenhouse",
@@ -1030,10 +828,7 @@
             "botanist",
             "botanist"
         ],
-        "coordinates": [
-            232,
-            159
-        ]
+        "coordinates": [130, 89]
     },
     {
         "name": "The Color Wheel",
@@ -1044,10 +839,7 @@
         "entity_colors": [
             "palette"
         ],
-        "coordinates": [
-            197,
-            179.5
-        ]
+        "coordinates": [95, 109.5]
     },
     {
         "name": "Mr McGrish's\nGarden",
@@ -1060,20 +852,14 @@
             "botanist",
             "woodcutter"
         ],
-        "coordinates": [
-            208,
-            194
-        ]
+        "coordinates": [106, 124]
     },
     {
         "name": "Mr McGrish's\nHouse",
         "color": "#7f725c",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            220,
-            195.5
-        ]
+        "coordinates": [118, 125.5]
     },
     {
         "name": "Mine Road West",
@@ -1084,10 +870,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            260,
-            177.5
-        ]
+        "coordinates": [158, 107.5]
     },
     {
         "name": "Tree Lined Trail",
@@ -1102,10 +885,7 @@
             "woodcutter",
             "item"
         ],
-        "coordinates": [
-            263,
-            194
-        ]
+        "coordinates": [161, 124]
     },
     {
         "name": "Briar Patch",
@@ -1116,10 +896,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            249,
-            207
-        ]
+        "coordinates": [147, 137]
     },
     {
         "name": "Tree Lined Track",
@@ -1130,10 +907,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            259,
-            213
-        ]
+        "coordinates": [157, 143]
     },
     {
         "name": "Hopeforest Ferry",
@@ -1144,20 +918,14 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            249.5,
-            232
-        ]
+        "coordinates": [147.5, 162]
     },
     {
         "name": "Ferry Crossing",
         "color": "#4b5541",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            257,
-            243.5
-        ]
+        "coordinates": [155, 173.5]
     },
     {
         "name": "Ferry\nSouth Shore",
@@ -1168,10 +936,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            249.5,
-            257
-        ]
+        "coordinates": [147.5, 187]
     },
     {
         "name": "Himatik Ruins",
@@ -1184,73 +949,70 @@
             "woodcutter",
             "item"
         ],
-        "coordinates": [
-            258,
-            270
-        ]
+        "coordinates": [156, 200]
     },
     {
         "name": "Himatik Ruins\nEntrance",
         "color": "#564232",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [258, 286]
+        "coordinates": [156, 216]
     },
     {
         "name": "Himatik Ruins\nShrine",
         "color": "#8F7354",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [268.5, 297]
+        "coordinates": [166.5, 227]
     },
     {
         "name": "Himatik Ruins\nTreasure Room",
         "color": "#8F7354",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [255.5, 300.5]
+        "coordinates": [153.5, 230.5]
     },
     {
         "name": "Himatik Ruins\nGallery",
         "color": "#8F7354",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [243, 286]
+        "coordinates": [141, 216]
     },
     {
         "name": "Himatik Ruins\nProphecy Hall",
         "color": "#8F7354",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [241, 272.5]
+        "coordinates": [139, 202.5]
     },
     {
         "name": "Himatik Ruins\nExhaust Room",
         "color": "#8F7354",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [243, 297.5]
+        "coordinates": [141, 227.5]
     },
     {
         "name": "Himatik Ruins\nFlaming Corridor",
         "color": "#8F7354",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [243, 308]
+        "coordinates": [141, 238]
     },
     {
         "name": "Himatik Ruins\nFlaming Chamber",
         "color": "#8F7354",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [246.5, 322.5]
+        "coordinates": [144.5, 252.5]
     },
     {
         "name": "Himatik Ruins\nFlaming Treasury",
         "color": "#8F7354",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [232.5, 319]
+        "coordinates": [130.5, 249]
     },
     {
         "name": "Mine Road East",
@@ -1267,20 +1029,14 @@
             "botanist",
             "woodcutter"
         ],
-        "coordinates": [
-            282,
-            180.5
-        ]
+        "coordinates": [180, 110.5]
     },
     {
         "name": "Hopeforest\nGuard Shack",
         "color": "#7e715b",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            277,
-            169.5
-        ]
+        "coordinates": [175, 99.5]
     },
     {
         "name": "Small Clearing",
@@ -1291,20 +1047,14 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            273.5,
-            188
-        ]
+        "coordinates": [171.5, 118]
     },
     {
         "name": "Acidic\nAvenue",
         "color": "#4c7e4a",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            274,
-            201.5
-        ]
+        "coordinates": [172, 131.5]
     },
     {
         "name": "Pool of Rainbows",
@@ -1317,10 +1067,7 @@
             "woodcutter",
             "item"
         ],
-        "coordinates": [
-            273.5,
-            220
-        ]
+        "coordinates": [171.5, 150]
     },
     {
         "name": "Barricades",
@@ -1333,10 +1080,7 @@
             "botanist",
             "woodcutter"
         ],
-        "coordinates": [
-            296.5,
-            182
-        ]
+        "coordinates": [194.5, 112]
     },
     {
         "name": "Cliffside Path",
@@ -1351,10 +1095,7 @@
             "woodcutter",
             "item"
         ],
-        "coordinates": [
-            296,
-            170.25
-        ]
+        "coordinates": [194, 100.25]
     },
     {
         "name": "Cliffside\nShortcut",
@@ -1367,10 +1108,7 @@
             "woodcutter",
             "woodcutter"
         ],
-        "coordinates": [
-            301.5,
-            150
-        ]
+        "coordinates": [199.5, 80]
     },
     {
         "name": "Cliffside Junction",
@@ -1383,10 +1121,7 @@
             "neutral",
             "woodcutter"
         ],
-        "coordinates": [
-            298,
-            141
-        ]
+        "coordinates": [196, 71]
     },
     {
         "name": "Cliffside Trail",
@@ -1397,10 +1132,7 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            304,
-            127
-        ]
+        "coordinates": [202, 57]
     },
     {
         "name": "Cyclops Path",
@@ -1411,20 +1143,14 @@
         "entity_colors": [
             "botanist"
         ],
-        "coordinates": [
-            317,
-            137
-        ]
+        "coordinates": [215, 67]
     },
     {
         "name": "Quiet\nGrove",
         "color": "#516374",
         "entities": [],
         "entity_colors": [],
-        "coordinates": [
-            313.5,
-            145.25
-        ]
+        "coordinates": [211.5, 75.25]
     },
     {
         "name": "Path of Good\nIntentions",
@@ -1437,10 +1163,7 @@
             "botanist",
             "woodcutter"
         ],
-        "coordinates": [
-            289,
-            159.5
-        ]
+        "coordinates": [187, 89.5]
     },
     {
         "name": "Fern Junction",
@@ -1451,10 +1174,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            274.5,
-            159.5
-        ]
+        "coordinates": [172.5, 89.5]
     },
     {
         "name": "Lumber Clearing",
@@ -1469,10 +1189,7 @@
             "woodcutter",
             "woodcutter"
         ],
-        "coordinates": [
-            259.5,
-            164
-        ]
+        "coordinates": [157.5, 94]
     },
     {
         "name": "Ivy Trail",
@@ -1485,10 +1202,7 @@
             "aggressive",
             "woodcutter"
         ],
-        "coordinates": [
-            288.5,
-            147.5
-        ]
+        "coordinates": [186.5, 77.5]
     },
     {
         "name": "Ivy Junction",
@@ -1501,10 +1215,7 @@
             "aggressive",
             "woodcutter"
         ],
-        "coordinates": [
-            273,
-            149.5
-        ]
+        "coordinates": [171, 79.5]
     },
     {
         "name": "Huntsman's Path",
@@ -1517,10 +1228,7 @@
             "woodcutter",
             "item"
         ],
-        "coordinates": [
-            257.5,
-            149.5
-        ]
+        "coordinates": [155.5, 79.5]
     },
     {
         "name": "Ivy Path",
@@ -1533,10 +1241,7 @@
             "woodcutter",
             "woodcutter"
         ],
-        "coordinates": [
-            271.5,
-            133
-        ]
+        "coordinates": [169.5, 63]
     },
     {
         "name": "Thorny\nCut Through",
@@ -1547,10 +1252,7 @@
         "entity_colors": [
             "woodcutter"
         ],
-        "coordinates": [
-            291,
-            130
-        ]
+        "coordinates": [189, 60]
     },
     {
         "name": "Hopeforest\nCentral\nPortal Stone",
@@ -1561,9 +1263,6 @@
         "entity_colors": [
             "item"
         ],
-        "coordinates": [
-            281.5,
-            134
-        ]
+        "coordinates": [179.5, 64]
     }
 ]
